@@ -1,10 +1,10 @@
-package com.qa.tests.community;
+package com.fc.community;
 
 import com.alibaba.fastjson.JSONArray;
 import com.alibaba.fastjson.JSONObject;
-import com.qa.base.TestBase;
-import com.qa.restclient.RestClient;
-import com.qa.util.TestUtil;
+import com.fc.base.TestBase;
+import com.fc.restclient.RestClient;
+import com.fc.util.TestUtil;
 import org.apache.http.HttpStatus;
 import org.apache.http.client.config.RequestConfig;
 import org.apache.http.client.methods.CloseableHttpResponse;
@@ -23,7 +23,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 
-import static com.qa.util.TestUtil.dtt;
+import static com.fc.util.TestUtil.dtt;
 
 //12 热门租房
 public class HotHouseRents extends TestBase {
@@ -49,14 +49,14 @@ public class HotHouseRents extends TestBase {
         postHeader.put("Content-type","application/json");
         //载入配置文件，接口endpoint
         host = prop.getProperty("Host");
-        testCaseExecel = System.getProperty("user.dir")+prop.getProperty("testCase1data");
+        testCaseExecel = System.getProperty("user.dir")+prop.getProperty("HotHouseRents");
     }
     @DataProvider(name = "postData")
     public Object[][] post() throws IOException{
         return  dtt(testCaseExecel,0);
     }
-    @Test(dataProvider = "postData")
-    public void filterCon(String contenx,String loginUrl,String username,String password)throws Exception{
+    @Test(dataProvider = "postData",description = "热门租房")
+    public void filterCon(String conten)throws Exception{
 
         CloseableHttpClient httpClient = HttpClients.createDefault();
         HttpPost post = new HttpPost("https://www.izhiliao.com/community/api/loupan/hotHouseRents?lpId=501364");

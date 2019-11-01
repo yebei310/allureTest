@@ -1,4 +1,4 @@
-package common.restclient;
+package com.fc.restclient;
 
 import com.alibaba.fastjson.JSON;
 import org.apache.http.client.ClientProtocolException;

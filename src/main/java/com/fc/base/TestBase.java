@@ -1,4 +1,4 @@
-package common.base;
+package com.fc.base;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
@@ -11,7 +11,7 @@ public class TestBase {
     public TestBase(){
         try{
             prop = new Properties();
-            FileInputStream fis = new FileInputStream(System.getProperty("user.dir")+"/src/main/java/common/config/config.properties");
+            FileInputStream fis = new FileInputStream(System.getProperty("user.dir")+"/src/main/java/com/fc/config/config.properties");
             prop.load(fis);
         }catch(FileNotFoundException f){
             f.printStackTrace();

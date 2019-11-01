@@ -1,0 +1,95 @@
+<html>
+<head>
+<title>TestNG:  小区列表(根据小区ID筛选)</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>小区列表(根据小区ID筛选)</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>1/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Fri Nov 01 19:23:45 CST 2019</td>
+</tr>
+<tr><td>Total time:</td><td>0 seconds (85 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.fc.community.ListsByLpIds.filterCon()'><b>filterCon</b><br>Test class: com.fc.community.ListsByLpIds<br>Test method: 小区列表(根据小区ID筛选)<br>Parameters: 小区列表(根据小区ID筛选)<br/>
+<a href="#Output-1663774813" onClick='toggleBox("Output-1663774813", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1663774813" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1663774813">
+状态码：200<br/>
+result:{"errno":0,"msg":"操作成功","data":[{"tableName":null,"id":500989,"lpName":"西罗园一区","byname":"西罗园一区","siteId":3066,"locationId":7,"areaId":3602,"address":"丰台区西罗园西罗园路","geoLocation":"39.866666,116.401458","coverImgPath":"https://izhiliao-1253833827.file.myqcloud.com/houseImgs/community/bj/1539586378860.jpg","status":"online","operationId":null,"operationName":null,"developers":"华润置地（北京）股份有限公司","buildType":"板塔结合","buildYear":"1990","buildArea":null,"propertyType":"住宅","propertyYear":null,"totalBuilding":null,"totalHouse":2656,"totalParking":"350","volumeRate":"2.6","greenRate":"30","propertyCompany":"北京房修一物业管理有限公司","propertyPrice":"0.62","heatType":null,"powerType":null,"waterType":null,"gas":null,"decription":"西罗园南里小区由华润置地（北京）股份有限公司开发，华润置地（北京）物业公司进行物业管理。小区94年开工，97年竣工，从94年8月开始入住。小区占地5.8公顷，总建筑面积15.2万平方米，绿化覆盖面积2.2万平方米，覆盖率40%。小区内共有高层楼6栋，多层楼10栋，1992套住房。（完全管理面积10.7万平方米，1308套住房，其中85%为支援国家建设的拆迁安置户）。1999年12月28日成立了物业管理委员会。2000年6月8日一次性通过了\"北京市物业管理服务基本要求达标\"验收。2001年4月通过了ISO9002国际质量体系认证。","updateTime":null,"createTime":1535532450,"enName":"xiluoyuanyiqu","simpleEnName":"xlyyq","siteName":"北京","locationName":"丰台","areaName":"西罗园","houseNum":18,"rentHouseNum":3,"price":60342.0,"increaseRate":0.01,"increaseFlag":1,"priceMonth":9,"priceYear":201909,"subwayLineId":"176","subwayId":"1334","lineIdList":["176","176","167"],"subwayIdList":["1334","1333","1166"]}]}<br/>
+返回json:{"msg":"操作成功","errno":0,"data":[{"developers":"华润置地（北京）股份有限公司","totalHouse":2656,"areaName":"西罗园","price":60342.0,"totalParking":"350","id":500989,"propertyPrice":"0.62","coverImgPath":"https://izhiliao-1253833827.file.myqcloud.com/houseImgs/community/bj/1539586378860.jpg","rentHouseNum":3,"simpleEnName":"xlyyq","greenRate":"30","subwayLineId":"176","decription":"西罗园南里小区由华润置地（北京）股份有限公司开发，华润置地（北京）物业公司进行物业管理。小区94年开工，97年竣工，从94年8月开始入住。小区占地5.8公顷，总建筑面积15.2万平方米，绿化覆盖面积2.2万平方米，覆盖率40%。小区内共有高层楼6栋，多层楼10栋，1992套住房。（完全管理面积10.7万平方米，1308套住房，其中85%为支援国家建设的拆迁安置户）。1999年12月28日成立了物业管理委员会。2000年6月8日一次性通过了\"北京市物业管理服务基本要求达标\"验收。2001年4月通过了ISO9002国际质量体系认证。","lpName":"西罗园一区","buildType":"板塔结合","lineIdList":["176","176","167"],"houseNum":18,"status":"online","siteName":"北京","increaseRate":0.01,"buildYear":"1990","increaseFlag":1,"locationId":7,"propertyType":"住宅","enName":"xiluoyuanyiqu","propertyCompany":"北京房修一物业管理有限公司","address":"丰台区西罗园西罗园路","locationName":"丰台","priceYear":201909,"volumeRate":"2.6","subwayIdList":["1334","1333","1166"],"areaId":3602,"byname":"西罗园一区","geoLocation":"39.866666,116.401458","createTime":1535532450,"siteId":3066,"priceMonth":9,"subwayId":"1334"}]}<br/>
+返回json:操作成功<br/>
+找到西罗园一区<br/>
+</div>
+</td>
+<td></td>
+<td>0</td>
+<td>com.fc.community.ListsByLpIds@163d04ff</td></tr>
+</table><p>
+</body>
+</html>

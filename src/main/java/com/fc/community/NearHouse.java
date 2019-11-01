@@ -1,10 +1,10 @@
-package com.qa.tests.community;
+package com.fc.community;
 
 import com.alibaba.fastjson.JSONArray;
 import com.alibaba.fastjson.JSONObject;
-import com.qa.base.TestBase;
-import com.qa.restclient.RestClient;
-import com.qa.util.TestUtil;
+import com.fc.base.TestBase;
+import com.fc.restclient.RestClient;
+import com.fc.util.TestUtil;
 import org.apache.http.HttpStatus;
 import org.apache.http.client.config.RequestConfig;
 import org.apache.http.client.methods.CloseableHttpResponse;
@@ -23,9 +23,9 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 
-import static com.qa.util.TestUtil.dtt;
+import static com.fc.util.TestUtil.dtt;
 
-//9、附近小区新上租房接口(pc)
+//9、附近小区新上二手房接口(pc)
 public class NearHouse extends TestBase {
     //設置请求超时时间
     RequestConfig requestConfig = RequestConfig.custom()
@@ -49,14 +49,14 @@ public class NearHouse extends TestBase {
         postHeader.put("Content-type","application/json");
         //载入配置文件，接口endpoint
         host = prop.getProperty("Host");
-        testCaseExecel = System.getProperty("user.dir")+prop.getProperty("testCase1data");
+        testCaseExecel = System.getProperty("user.dir")+prop.getProperty("NearHouse");
     }
     @DataProvider(name = "postData")
     public Object[][] post() throws IOException{
         return  dtt(testCaseExecel,0);
     }
-    @Test(dataProvider = "postData")
-    public void filterCon(String contenx,String loginUrl,String username,String password)throws Exception{
+    @Test(dataProvider = "postData",description = "附近小区新上租房接口(pc)")
+    public void filterCon(String contenx)throws Exception{
 
         CloseableHttpClient httpClient = HttpClients.createDefault();
         HttpPost post = new HttpPost("https://www.izhiliao.com/community/api/loupan/nearHouse?lpId=501364");

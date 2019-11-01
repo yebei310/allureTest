@@ -1,30 +1,96 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="接口" verbose="1" preserve-order="true" parallel="false">
-  <test name="获取所有站点数据（wap）">
+  <test name="获取所有站点数据（wap）TEST">
     <classes>
-      <class name="Test01">
+      <class name="com.fc.community.AllSiteData">
+      </class>
+    </classes>
+  </test>
+  <test name="收藏">
+    <classes>
+      <class name="com.fc.community.Collection">
+      </class>
+    </classes>
+  </test>
+  <test name="查看收藏状态">
+    <classes>
+      <class name="com.fc.community.CollectionStatus">
       </class>
     </classes>
   </test>
   <test name="小区明细">
     <classes>
-      <class name="Test02">
+      <class name="com.fc.community.CommunityDetail">
       </class>
     </classes>
   </test>
-  <test name="小区详情">
+  <test name="小区列表（wap pc）公用">
     <classes>
-      <class name="Test03">
+      <class name="com.fc.community.CommunityList">
       </class>
     </classes>
   </test>
-  <!--<test name="查询">-->
-    <!--<classes>-->
-      <!--<class name="testCase.agent.community.FilterCondition">-->
-      <!--</class>-->
-    <!--</classes>-->
-  <!--</test>-->
+  <test name="小区筛选条件(wap,pc共用)">
+    <classes>
+      <class name="com.fc.community.FilterCondition">
+      </class>
+    </classes>
+  </test>
+  <test name="查询小区下知了管家数据">
+    <classes>
+      <class name="com.fc.community.GetSeneschal">
+      </class>
+    </classes>
+  </test>
+  <test name="热门租房">
+    <classes>
+      <class name="com.fc.community.HotHouseRents">
+      </class>
+    </classes>
+  </test>
+  <test name="热门二手房">
+    <classes>
+      <class name="com.fc.community.HotHouses">
+      </class>
+    </classes>
+  </test>
+  <test name="搜索热词接口">
+    <classes>
+      <class name="com.fc.community.HotWord">
+      </class>
+    </classes>
+  </test>
+  <test name="小区列表(根据小区ID筛选)">
+    <classes>
+      <class name="com.fc.community.ListsByLpIds">
+      </class>
+    </classes>
+  </test>
+  <test name="搜索联想接口">
+    <classes>
+      <class name="com.fc.community.Metion">
+      </class>
+    </classes>
+  </test>
+  <test name="附近小区新上二手房接口(pc)">
+    <classes>
+      <class name="com.fc.community.NearHouse">
+      </class>
+    </classes>
+  </test>
+  <test name="附近小区新上租房接口(pc)">
+    <classes>
+      <class name="com.fc.community.NearHouseRent">
+      </class>
+    </classes>
+  </test>
+
+
+
+
+
+
   <!--<listeners>-->
   <!--<listener class-name="com.qa.report.ExtentTestNGReporterListener"></listener>-->
   <!--</listeners>-->

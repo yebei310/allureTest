@@ -1,10 +1,10 @@
-package com.qa.tests.community;
+package com.fc.community;
 
 import com.alibaba.fastjson.JSONArray;
 import com.alibaba.fastjson.JSONObject;
-import com.qa.base.TestBase;
-import com.qa.restclient.RestClient;
-import com.qa.util.TestUtil;
+import com.fc.base.TestBase;
+import com.fc.restclient.RestClient;
+import com.fc.util.TestUtil;
 import org.apache.http.HttpStatus;
 import org.apache.http.client.config.RequestConfig;
 import org.apache.http.client.methods.CloseableHttpResponse;
@@ -21,7 +21,7 @@ import org.testng.annotations.Test;
 import java.io.IOException;
 import java.util.HashMap;
 
-import static com.qa.util.TestUtil.dtt;
+import static com.fc.util.TestUtil.dtt;
 
 //14 查看收藏状态
 public class CollectionStatus extends TestBase {
@@ -47,21 +47,21 @@ public class CollectionStatus extends TestBase {
         postHeader.put("Content-type","application/json");
         //载入配置文件，接口endpoint
         host = prop.getProperty("Host");
-        testCaseExecel = System.getProperty("user.dir")+prop.getProperty("testCase1data");
+        testCaseExecel = System.getProperty("user.dir")+prop.getProperty("CollectionStatus");
     }
     @DataProvider(name = "postData")
     public Object[][] post() throws IOException{
         return  dtt(testCaseExecel,0);
     }
-    @Test(dataProvider = "postData")
-    public void filterCon(String contenx,String loginUrl,String username,String password)throws Exception{
+    @Test(dataProvider = "postData",description = "查看收藏状态")
+    public void filterCon(String contenx)throws Exception{
 
         CloseableHttpClient httpClient = HttpClients.createDefault();
         HttpPost post = new HttpPost("https://www.izhiliao.com/community/api/loupan/collect/status?lpId=501364");
         post.setConfig(requestConfig);
         //设置头信息
         post.setHeader("Content-Type","application/x-www-form-urlencoded");
-        post.setHeader("Cookie","esf_hideBottomAdv=true; ifh_agent_msid=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuYmYiOjE1NzEwMjM4MTAsImlzcyI6ImF1dGgwIiwibW9iaWxlIjoiMTM3MTgyNDI0NTMiLCJleHAiOjE1NzEyODMwMTB9.6-h5xgJL8yK4ckcqENRCFoP5E-LYYrmGTWK3_QnPbcI; ck_login_id=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJJRkgiLCJtb2JpbGUiOiIxMzcxODI0MjQ1MyIsImV4cCI6MTU3MTExNzk0Nn0.YBotWKL7rERPZbg6We9QbKjs3mu6gGXBbWR2IwgWCTU; coupon_menu_status=0; izl_site=3066_bj; Hm_lvt_8ddeae4dc7e58e29c04151fd536bd57a=1571121794; prov=cn010; city=010; weather_city=bj; region_ip=114.253.10.118; region_ver=1.30; Hm_lvt_becf67d756bfea5219f687e0ce01da80=1571122198; IFH_CLUSTER_SID=6A3505F540984C218534A650522D2C07; sensorsdata2015jssdkcross=%7B%22distinct_id%22%3A%2216dbed44a7115a-07077dfe5e9183-3a614f0b-2073600-16dbed44a72546%22%2C%22%24device_id%22%3A%2216dbed44a7115a-07077dfe5e9183-3a614f0b-2073600-16dbed44a72546%22%2C%22props%22%3A%7B%22%24latest_referrer%22%3A%22%22%2C%22%24latest_referrer_host%22%3A%22%22%2C%22%24latest_traffic_source_type%22%3A%22%E7%9B%B4%E6%8E%A5%E6%B5%81%E9%87%8F%22%2C%22%24latest_search_keyword%22%3A%22%E6%9C%AA%E5%8F%96%E5%88%B0%E5%80%BC_%E7%9B%B4%E6%8E%A5%E6%89%93%E5%BC%80%22%7D%7D; ifh_agent_siteid=3066; Hm_lpvt_becf67d756bfea5219f687e0ce01da80=1571197184; firstLogin=false; nickName=\\u69\\u66\\u65\\u6e\\u67\\u5f\\u32\\u34\\u35\\u33; izl_sid=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJJRkgiLCJleHAiOjE1NzE0NTY0MzUsImluZm8iOiIxMzcxODI0MjQ1MyxodHRwOi8vczAuaWZlbmdpbWcuY29tLzIwMTcvMDkvMDYvbWFsZV8wZDhjNTI4YS5wbmcsaWZlbmdfdWNfMTczODAwNjgsaXVfMTczODAwNjgsaWZlbmdfMjQ1MyJ9.15Nxyfa92rm4a__H0mquCl4Lc0IoKG30A3EYkFrJTUw; im_nickName=\\u69\\u66\\u65\\u6e\\u67\\u5f\\u32\\u34\\u35\\u33; im_headImg=http://s0.ifengimg.com/2017/09/06/male_0d8c528a.png; im_moblie=13718242453; Hm_lpvt_8ddeae4dc7e58e29c04151fd536bd57a=1571197284");
+        post.setHeader("Cookie","secondCityArr=[{\"tableName\":null,\"id\":3066,\"name\":\"å\u008C\u0097äº¬\",\"logo\":null,\"domain\":\"bj\",\"isProxy\":1,\"letter\":\"B\",\"isHot\":0,\"url\":\"https://bj.izhiliao.com/\",\"status\":1,\"abroad\":0,\"sort\":1,\"createTime\":1532921163},{\"tableName\":null,\"id\":36688,\"name\":\"æ·±å\u009C³\",\"logo\":null,\"domain\":\"sz\",\"isProxy\":0,\"letter\":\"S\",\"isHot\":0,\"url\":\"https://m.izhiliao.com/sz\",\"status\":1,\"abroad\":0,\"sort\":4,\"createTime\":1532921163}]; ifh_agent_siteid=3066; Hm_lvt_becf67d756bfea5219f687e0ce01da80=1571814467; IFH_CLUSTER_SID=45320113A0064A15A55E27699B470338; ck_login_id=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJJRkgiLCJtb2JpbGUiOiIxMzcxODI0MjQ0NSIsImV4cCI6MTU3MjA3NTkyNH0.718n_27scoByV1i1Wgze6Rwd330Hf3XZmf3YvnC93Ak; izl_site=3066_bj; ifh_agent_msid=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuYmYiOjE1NzIzMTE4ODksImlzcyI6ImF1dGgwIiwibW9iaWxlIjoiMTM3MTgyNDI0NTMiLCJleHAiOjE1NzI1NzEwODl9.TWtvtqJeCycqiRetjt3HWuBen9mtfoMh5A-UG6fRltM; sensorsdata2015jssdkcross=%7B%22distinct_id%22%3A%2216dbed44a7115a-07077dfe5e9183-3a614f0b-2073600-16dbed44a72546%22%2C%22%24device_id%22%3A%2216dbed44a7115a-07077dfe5e9183-3a614f0b-2073600-16dbed44a72546%22%2C%22props%22%3A%7B%22%24latest_referrer%22%3A%22https%3A%2F%2Fhouse.ifeng.com%2F%22%2C%22%24latest_referrer_host%22%3A%22house.ifeng.com%22%2C%22%24latest_traffic_source_type%22%3A%22%E5%BC%95%E8%8D%90%E6%B5%81%E9%87%8F%22%2C%22%24latest_search_keyword%22%3A%22%E6%9C%AA%E5%8F%96%E5%88%B0%E5%80%BC%22%7D%7D; Hm_lvt_8ddeae4dc7e58e29c04151fd536bd57a=1571810512,1572312444; aaaaaaaaaaa=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuYmYiOjE1NzIzMTM2ODYsImlzcyI6ImF1dGgwIiwibW9iaWxlIjoiMTM3MTgyNDI0NTMiLCJleHAiOjE1NzI1NzI4ODZ9.uomzm_D0gw6jn2KdclB6TkjPYdlklMkw41LzFdED8KY; 300_house_basic_list_url=\"/house/basic/list?propertyCategory=&locationId=&areaId=&name=%E9%87%91%E6%82%A6%E5%BA%9C&id=&showType=&grade=&saleStatus=&sTime=&eTime=&adminName=\"; Hm_lpvt_becf67d756bfea5219f687e0ce01da80=1572315111; firstLogin=false; nickName=\\u69\\u66\\u65\\u6e\\u67\\u5f\\u32\\u34\\u35\\u33; izl_sid=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJJRkgiLCJleHAiOjE1NzI4NjUzMzMsImluZm8iOiIxMzcxODI0MjQ1MyxodHRwOi8vczAuaWZlbmdpbWcuY29tLzIwMTcvMDkvMDYvbWFsZV8wZDhjNTI4YS5wbmcsaWZlbmdfdWNfMTczODAwNjgsaXVfMTczODAwNjgsaWZlbmdfMjQ1MyJ9.HAXLVRoe095D9VPxU3vmSoVTKv77CdtKwij1CtgV3pg; Hm_lpvt_8ddeae4dc7e58e29c04151fd536bd57a=1572606134");
         //发送post请求
         res = httpClient.execute(post);
         //从返回结果中获取状态码
