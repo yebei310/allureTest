@@ -131,6 +131,9 @@
                           <value>./allure-results</value>
                       </property>
                   </systemProperties>
+                  <suiteXmlFiles>
+                      <suiteXmlFile>/testng.xml</suiteXmlFile>
+                  </suiteXmlFiles>
               </configuration>
               <dependencies>
                   <dependency>
