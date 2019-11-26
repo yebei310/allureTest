@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="新房" verbose="1" preserve-order="true" parallel="false">
+  <test name="新房：获取所有站点楼盘信息">
+    <classes>
+      <class name="com.fc.newHouse.GetSiteList">
+      </class>
+    </classes>
+  </test>
+  <test name="新房：楼盘详情内页(PC/WAP)">
+    <classes>
+      <class name="com.fc.newHouse.HouseDetail">
+      </class>
+    </classes>
+  </test>
+  <test name="新房：楼盘详情头部公用接口(PC)">
+    <classes>
+      <class name="com.fc.newHouse.HouseHeader">
+      </class>
+    </classes>
+  </test>
+  <test name="新房：楼盘详情首页接口(PC/WAP)">
+    <classes>
+      <class name="com.fc.newHouse.HouseIndex">
+      </class>
+    </classes>
+  </test>
+  <test name="新房：楼盘列表页">
+    <classes>
+      <class name="com.fc.newHouse.HouseList">
+      </class>
+    </classes>
+  </test>
+  <test name="新房：楼盘相册列表接口">
+    <classes>
+      <class name="com.fc.newHouse.HouseImg">
+      </class>
+    </classes>
+  </test>
+  <test name="新房：楼盘户型详情页接口(PC/WAP)">
+    <classes>
+      <class name="com.fc.newHouse.HouseRoomtypeDetail">
+      </class>
+    </classes>
+  </test>
+  <test name="新房：楼盘动态详情页接口（PC/WAP）">
+    <classes>
+      <class name="com.fc.newHouse.HouseTrendDetail">
+      </class>
+    </classes>
+  </test>
+  <test name="新房：利率-贷款计算器(PC/WAP)">
+    <classes>
+      <class name="com.fc.newHouse.HouseRate">
+      </class>
+    </classes>
+  </test>
+  <test name="新房：地图找房区域(PC/WAP)">
+    <classes>
+      <class name="com.fc.newHouse.HouseMapLocation">
+      </class>
+    </classes>
+  </test>
+  <test name="新房：地图找房(PC/WAP))">
+    <classes>
+      <class name="com.fc.newHouse.HouseMap">
+      </class>
+    </classes>
+  </test>
+  <test name="新房：地图找房商圈(PC/WAP)">
+    <classes>
+      <class name="com.fc.newHouse.HouseMapArea">
+      </class>
+    </classes>
+  </test>
+  <test name="新房：当前站点新盘(PC/WAP)">
+    <classes>
+      <class name="com.fc.newHouse.HouseSiteNewList">
+      </class>
+    </classes>
+  </test>
+  <test name="新房：当前站点热门楼盘(PC/WAP)">
+    <classes>
+      <class name="com.fc.newHouse.HouseSiteHotList">
+      </class>
+    </classes>
+  </test>
+  <test name="新房：首页户型点评接口">
+    <classes>
+      <class name="com.fc.newHouse.HouseRoomBenefit">
+      </class>
+    </classes>
+  </test>
+  <test name="新房：首页开盘日历接口">
+    <classes>
+      <class name="com.fc.newHouse.HouseOpenTime">
+      </class>
+    </classes>
+  </test>
+  <test name="新房：站点列表接口（PC/WAP">
+    <classes>
+      <class name="com.fc.newHouse.HouseSites">
+      </class>
+    </classes>
+  </test>
+  <test name="新房：站点列表接口（PC/WAP）">
+    <classes>
+      <class name="com.fc.newHouse.HouseActive">
+      </class>
+    </classes>
+  </test>
+  <test name="新房：楼盘详情(批量)">
+    <classes>
+      <class name="com.fc.newHouse.HouseDetailByDictIds">
+      </class>
+    </classes>
+  </test>
+  <test name="新房：楼盘户型列表接口（PC/WAP）">
+    <classes>
+      <class name="com.fc.newHouse.HouseRoomtypeList">
+      </class>
+    </classes>
+  </test>
+  <test name="新房：楼盘字典房价走势接口（PC/WAP）">
+    <classes>
+      <class name="com.fc.newHouse.HousePriceTrend">
+      </class>
+    </classes>
+  </test>
+  <test name="新房：为您推荐(PC/WAP)">
+    <classes>
+      <class name="com.fc.newHouse.HouseRecommend">
+      </class>
+    </classes>
+  </test>
+  <test name="新房：楼盘纠错接口">
+    <classes>
+      <class name="com.fc.newHouse.HouseCorrection">
+      </class>
+    </classes>
+  </test>
+  <test name="新房：列表页筛选项接口(PC/WAP)">
+  <classes>
+    <class name="com.fc.newHouse.HouseFilter">
+    </class>
+  </classes>
+</test>
+  <test name="新房：首页最新动态">
+    <classes>
+      <class name="com.fc.newHouse.HouseNewTrend">
+      </class>
+    </classes>
+  </test>
+  <test name="新房：根据英文首字母搜索楼盘">
+    <classes>
+      <class name="com.fc.newHouse.HouseEnPerfixList">
+      </class>
+    </classes>
+  </test>
+
+</suite>
+

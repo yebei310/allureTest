@@ -1,5 +1,6 @@
 package com.fc.community;
 
+import com.alibaba.fastjson.JSON;
 import com.alibaba.fastjson.JSONObject;
 import com.fc.base.TestBase;
 import com.fc.restclient.RestClient;
@@ -8,6 +9,7 @@ import org.apache.http.HttpStatus;
 import org.apache.http.client.config.RequestConfig;
 import org.apache.http.client.methods.CloseableHttpResponse;
 import org.apache.http.client.methods.HttpPost;
+import org.apache.http.entity.StringEntity;
 import org.apache.http.impl.client.CloseableHttpClient;
 import org.apache.http.impl.client.HttpClients;
 import org.apache.http.util.EntityUtils;
@@ -19,11 +21,12 @@ import org.testng.annotations.Test;
 
 import java.io.IOException;
 import java.util.HashMap;
+import java.util.Map;
 
 import static com.fc.util.TestUtil.dtt;
 
 //13 收藏与取消收藏1收藏 2 取消收藏
-public class Collection extends TestBase {
+public class Send extends TestBase {
     //設置请求超时时间
     RequestConfig requestConfig = RequestConfig.custom()
             .setSocketTimeout(60000)
@@ -55,11 +58,18 @@ public class Collection extends TestBase {
     @Test(dataProvider = "postData",description = "收藏")
     public void filterCon(String contenx)throws Exception{
         CloseableHttpClient httpClient = HttpClients.createDefault();
-        HttpPost post = new HttpPost("https://www.izhiliao.com/community/api/loupan/collect/op?type=1&lpId=501364&status=1");
+        HttpPost post = new HttpPost("http://172.17.3.51:8083/login/quick?mobile=13718242412&code=329137");
         post.setConfig(requestConfig);
         //设置头信息
         post.setHeader("Content-Type","application/x-www-form-urlencoded");
-        post.setHeader("Cookie","IFH_CLUSTER_SID=45320113A0064A15A55E27699B470338; firstLogin=false; nickName=\\u69\\u66\\u65\\u6e\\u67\\u5f\\u32\\u34\\u35\\u33; 300_community_basic_list_url=/community/basic/list; Hm_lvt_becf67d756bfea5219f687e0ce01da80=1571814467,1572967097; izl_plus_manager_sid=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuYmYiOjE1NzQxMjk0NzksImlzcyI6ImF1dGgwIiwibW9iaWxlIjoiMTM3MTgyNDI0NTMiLCJleHAiOjE1NzQzODg2Nzl9.XWYTSAdvKQPlWqY2__OvCzwuBEtp4uJTXJrqXKk4wOM; Hm_lvt_8ddeae4dc7e58e29c04151fd536bd57a=1572967066,1573526595,1574667951; izl_site=3066_bj; sajssdk_2015_cross_new_user=1; sensorsdata2015jssdkcross=%7B%22distinct_id%22%3A%2216ea5c43e848a-08e5daf1447152-3a614f0b-2073600-16ea5c43e85ac7%22%2C%22%24device_id%22%3A%2216ea5c43e848a-08e5daf1447152-3a614f0b-2073600-16ea5c43e85ac7%22%2C%22props%22%3A%7B%22%24latest_referrer%22%3A%22https%3A%2F%2Fhouse.ifeng.com%2F%22%2C%22%24latest_referrer_host%22%3A%22house.ifeng.com%22%2C%22%24latest_traffic_source_type%22%3A%22%E5%BC%95%E8%8D%90%E6%B5%81%E9%87%8F%22%2C%22%24latest_search_keyword%22%3A%22%E6%9C%AA%E5%8F%96%E5%88%B0%E5%80%BC%22%7D%7D; aaaaaaaaaaa=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuYmYiOjE1NzQ3NTA1MjEsImlzcyI6ImF1dGgwIiwibW9iaWxlIjoiMTM3MTgyNDI0NTMiLCJleHAiOjE1NzUwMDk3MjF9.wxgb_cnhZbps3jrHjV4B_WCAHH7bME-Zuq0UYpr1-3U; 300_house_basic_list_url=/house/basic/list; izl_sid=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJJRkgiLCJleHAiOjE1NzUwMTAwNjgsImluZm8iOiIxMzcxODI0MjQ1MyxodHRwOi8vczAuaWZlbmdpbWcuY29tLzIwMTcvMDkvMDYvbWFsZV8wZDhjNTI4YS5wbmcsaWZlbmdfdWNfMTczODAwNjgsaXVfMTczODAwNjgsaWZlbmdfMjQ1MyJ9.pvHptab_k9YdD81CHcN-kVb4grb5R2l0SmnZ_mTqaBM; Hm_lpvt_8ddeae4dc7e58e29c04151fd536bd57a=1574750871");
+//        post.setHeader("Cookie","mdgxsend.ashx?mobile=13718242412&sn=SDK-BBX-010-24372&pwd=413032953A96039A8199C86946A7B673&content=%E3%80%90%E7%9F%A5%E4%BA%86%E6%89%BE%E6%88%BF%E3%80%91485601%EF%BC%88%E5%87%A4%E5%87%B0%E7%BD%91%E6%88%BF%E4%BA%A7%E6%89%8B%E6%9C%BA%E9%AA%8C%E8%AF%81%E7%A0%81%EF%BC%8C%E8%AF%B7%E5%AE%8C%E6%88%90%E9%AA%8C%E8%AF%81%EF%BC%89%E5%A6%82%E9%9D%9E%E6%9C%AC%E4%BA%BA%E6%93%8D%E4%BD%9C%EF%BC%8C%E8%AF%B7%E5%BF%BD%E7%95%A5%E6%9C%AC%E7%9F%AD%E4%BF%A1%E3%80%82&rrid=1574325787496");
+//        Map<String,String> map = new HashMap<String,String>();
+//        map.put("mobile","13718242412");
+//        map.put("mobile","13718242412");
+//        StringEntity s = new StringEntity(JSON.toJSONString(map));
+//        s.setContentEncoding("UTF-8");
+//        post.setEntity(s);
+
         //发送post请求
         res = httpClient.execute(post);
         //从返回结果中获取状态码
@@ -76,6 +86,7 @@ public class Collection extends TestBase {
                 String msgValue = jsonObject.getString("msg");
                 Reporter.log("返回json:"+msgValue);
                 if (msgValue.equals("操作成功")) {
+
                     Assert.assertTrue(true);
                 } else {
                         System.out.println("收藏失败");

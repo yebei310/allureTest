@@ -1,0 +1,157 @@
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Native memory allocation (malloc) failed to allocate 1048576 bytes for AllocateHeap
+# Possible reasons:
+#   The system is out of physical RAM or swap space
+#   In 32 bit mode, the process size limit was hit
+# Possible solutions:
+#   Reduce memory load on the system
+#   Increase physical memory or swap space
+#   Check if swap backing store is full
+#   Use 64 bit Java on a 64 bit OS
+#   Decrease Java heap size (-Xmx/-Xms)
+#   Decrease number of Java threads
+#   Decrease Java thread stack sizes (-Xss)
+#   Set larger code cache with -XX:ReservedCodeCacheSize=
+# This output file may be truncated or incomplete.
+#
+#  Out of Memory Error (memory/allocation.inline.hpp:61), pid=51032, tid=50612
+#
+# JRE version:  (8.0_40-b25) (build )
+# Java VM: Java HotSpot(TM) 64-Bit Server VM (25.40-b25 mixed mode windows-amd64 compressed oops)
+# Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+#
+
+---------------  T H R E A D  ---------------
+
+Current thread (0x0000000002767000):  JavaThread "Unknown thread" [_thread_in_vm, id=50612, stack(0x00000000024c0000,0x00000000025c0000)]
+
+Stack: [0x00000000024c0000,0x00000000025c0000]
+Native frames: (J=compiled Java code, j=interpreted, Vv=VM code, C=native code)
+V  [jvm.dll+0x32b47a]
+
+
+---------------  P R O C E S S  ---------------
+
+Java Threads: ( => current thread )
+
+Other Threads:
+
+=>0x0000000002767000 (exited) JavaThread "Unknown thread" [_thread_in_vm, id=50612, stack(0x00000000024c0000,0x00000000025c0000)]
+
+VM state:not at safepoint (normal execution)
+
+VM Mutex/Monitor currently owned by a thread: None
+
+Heap:
+ PSYoungGen      total 75776K, used 1300K [0x000000076b600000, 0x0000000770a80000, 0x00000007c0000000)
+  eden space 65024K, 2% used [0x000000076b600000,0x000000076b7451f8,0x000000076f580000)
+  from space 10752K, 0% used [0x0000000770000000,0x0000000770000000,0x0000000770a80000)
+  to   space 10752K, 0% used [0x000000076f580000,0x000000076f580000,0x0000000770000000)
+ ParOldGen       total 173568K, used 0K [0x00000006c2200000, 0x00000006ccb80000, 0x000000076b600000)
+  object space 173568K, 0% used [0x00000006c2200000,0x00000006c2200000,0x00000006ccb80000)
+ Metaspace       used 776K, capacity 4480K, committed 4480K, reserved 1056768K
+  class space    used 75K, capacity 384K, committed 384K, reserved 1048576K
+
+Card table byte_map: [0x0000000011c20000,0x0000000012410000] byte_map_base: 0x000000000e60f000
+
+Marking Bits: (ParMarkBitMap*) 0x000000005d8d4040
+ Begin Bits: [0x0000000012f60000, 0x0000000016ed8000)
+ End Bits:   [0x0000000016ed8000, 0x000000001ae50000)
+
+Polling page: 0x0000000002060000
+
+CodeCache: size=245760Kb used=328Kb max_used=328Kb free=245431Kb
+ bounds [0x0000000002860000, 0x0000000002ad0000, 0x0000000011860000]
+ total_blobs=57 nmethods=0 adapters=37
+ compilation: enabled
+
+Compilation events (0 events):
+No events
+
+GC Heap History (0 events):
+No events
+
+Deoptimization events (0 events):
+No events
+
+Internal exceptions (0 events):
+No events
+
+Events (10 events):
+Event: 0.100 loading class java/lang/Short
+Event: 0.100 loading class java/lang/Short done
+Event: 0.100 loading class java/lang/Integer
+Event: 0.101 loading class java/lang/Integer done
+Event: 0.101 loading class java/lang/Long
+Event: 0.101 loading class java/lang/Long done
+Event: 0.101 loading class java/lang/NullPointerException
+Event: 0.102 loading class java/lang/NullPointerException done
+Event: 0.102 loading class java/lang/ArithmeticException
+Event: 0.102 loading class java/lang/ArithmeticException done
+
+
+Dynamic libraries:
+0x00007ff693900000 - 0x00007ff693937000 	D:\BaiduNetdiskDownload\JDK8_64\bin\java.exe
+0x00007ffb53ef0000 - 0x00007ffb540d1000 	C:\WINDOWS\SYSTEM32\ntdll.dll
+0x00007ffb51880000 - 0x00007ffb51931000 	C:\WINDOWS\System32\KERNEL32.DLL
+0x00007ffb509e0000 - 0x00007ffb50c53000 	C:\WINDOWS\System32\KERNELBASE.dll
+0x00007ffb53700000 - 0x00007ffb537a1000 	C:\WINDOWS\System32\ADVAPI32.dll
+0x00007ffb53d70000 - 0x00007ffb53e0e000 	C:\WINDOWS\System32\msvcrt.dll
+0x00007ffb537c0000 - 0x00007ffb5381b000 	C:\WINDOWS\System32\sechost.dll
+0x00007ffb51640000 - 0x00007ffb51764000 	C:\WINDOWS\System32\RPCRT4.dll
+0x00007ffb53be0000 - 0x00007ffb53d70000 	C:\WINDOWS\System32\USER32.dll
+0x00007ffb509c0000 - 0x00007ffb509e0000 	C:\WINDOWS\System32\win32u.dll
+0x00007ffb53e10000 - 0x00007ffb53e38000 	C:\WINDOWS\System32\GDI32.dll
+0x00007ffb50820000 - 0x00007ffb509b1000 	C:\WINDOWS\System32\gdi32full.dll
+0x00007ffb50780000 - 0x00007ffb5081f000 	C:\WINDOWS\System32\msvcp_win.dll
+0x00007ffb50520000 - 0x00007ffb50618000 	C:\WINDOWS\System32\ucrtbase.dll
+0x00007ffb41a60000 - 0x00007ffb41cc9000 	C:\WINDOWS\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17134.1067_none_d401a3eb7c8ebdea\COMCTL32.dll
+0x00007ffb51dc0000 - 0x00007ffb520e1000 	C:\WINDOWS\System32\combase.dll
+0x00007ffb502b0000 - 0x00007ffb50329000 	C:\WINDOWS\System32\bcryptPrimitives.dll
+0x00007ffb51d90000 - 0x00007ffb51dbd000 	C:\WINDOWS\System32\IMM32.DLL
+0x000000005d960000 - 0x000000005da32000 	D:\BaiduNetdiskDownload\JDK8_64\jre\bin\msvcr100.dll
+0x000000005d0d0000 - 0x000000005d953000 	D:\BaiduNetdiskDownload\JDK8_64\jre\bin\server\jvm.dll
+0x00007ffb537b0000 - 0x00007ffb537b8000 	C:\WINDOWS\System32\PSAPI.DLL
+0x00007ffb4e500000 - 0x00007ffb4e523000 	C:\WINDOWS\SYSTEM32\WINMM.dll
+0x00007ffb4bb00000 - 0x00007ffb4bb0a000 	C:\WINDOWS\SYSTEM32\VERSION.dll
+0x00007ffb4e4d0000 - 0x00007ffb4e4fa000 	C:\WINDOWS\SYSTEM32\WINMMBASE.dll
+0x00007ffb50620000 - 0x00007ffb50669000 	C:\WINDOWS\System32\cfgmgr32.dll
+0x00007ffb426b0000 - 0x00007ffb426b9000 	C:\WINDOWS\SYSTEM32\WSOCK32.dll
+0x00007ffb520f0000 - 0x00007ffb5215c000 	C:\WINDOWS\System32\WS2_32.dll
+0x000000005d0c0000 - 0x000000005d0cf000 	D:\BaiduNetdiskDownload\JDK8_64\jre\bin\verify.dll
+0x000000005d090000 - 0x000000005d0b9000 	D:\BaiduNetdiskDownload\JDK8_64\jre\bin\java.dll
+0x000000005cbb0000 - 0x000000005cbe5000 	D:\BaiduNetdiskDownload\JDK8_64\jre\bin\jdwp.dll
+0x000000005cf80000 - 0x000000005cf88000 	D:\BaiduNetdiskDownload\JDK8_64\jre\bin\npt.dll
+0x000000005cbf0000 - 0x000000005cc13000 	D:\BaiduNetdiskDownload\JDK8_64\jre\bin\instrument.dll
+0x000000005d070000 - 0x000000005d086000 	D:\BaiduNetdiskDownload\JDK8_64\jre\bin\zip.dll
+
+VM Arguments:
+jvm_args: -agentlib:jdwp=transport=dt_socket,address=127.0.0.1:62648,suspend=y,server=n -ea -javaagent:C:\Users\yebb\.m2\repository/org/aspectj/aspectjweaver/1.8.10/aspectjweaver-1.8.10.jar -Didea.test.cyclic.buffer.size=1048576 -javaagent:C:\Users\yebb\.IntelliJIdea2018.3\system\captureAgent\debugger-agent.jar -Dfile.encoding=GBK 
+java_command: org.testng.RemoteTestNGStarter -usedefaultlisteners false -socket62647 @w@C:\Users\yebb\AppData\Local\Temp\idea_working_dirs_testng1.tmp -temp C:\Users\yebb\AppData\Local\Temp\idea_testng1.tmp
+java_class_path (initial): D:\tool\IntelliJ IDEA 2018.3.5\lib\idea_rt.jar;D:\tool\IntelliJ IDEA 2018.3.5\plugins\testng\lib\testng-plugin.jar;D:\BaiduNetdiskDownload\JDK8_64\jre\lib\charsets.jar;D:\BaiduNetdiskDownload\JDK8_64\jre\lib\deploy.jar;D:\BaiduNetdiskDownload\JDK8_64\jre\lib\ext\access-bridge-64.jar;D:\BaiduNetdiskDownload\JDK8_64\jre\lib\ext\cldrdata.jar;D:\BaiduNetdiskDownload\JDK8_64\jre\lib\ext\dnsns.jar;D:\BaiduNetdiskDownload\JDK8_64\jre\lib\ext\jaccess.jar;D:\BaiduNetdiskDownload\JDK8_64\jre\lib\ext\jfxrt.jar;D:\BaiduNetdiskDownload\JDK8_64\jre\lib\ext\localedata.jar;D:\BaiduNetdiskDownload\JDK8_64\jre\lib\ext\nashorn.jar;D:\BaiduNetdiskDownload\JDK8_64\jre\lib\ext\sunec.jar;D:\BaiduNetdiskDownload\JDK8_64\jre\lib\ext\sunjce_provider.jar;D:\BaiduNetdiskDownload\JDK8_64\jre\lib\ext\sunmscapi.jar;D:\BaiduNetdiskDownload\JDK8_64\jre\lib\ext\sunpkcs11.jar;D:\BaiduNetdiskDownload\JDK8_64\jre\lib\ext\zipfs.jar;D:\BaiduNetdiskDownload\JDK8_64\jre\lib\javaws.jar;D:\BaiduNetdiskDownload\JDK8_64\jre\lib\jce.jar;D:\BaiduNetdiskDownload\JDK8_64\jre\lib\jfr.jar;D:\BaiduNetdiskDownload\JDK8_64\jre\lib\jfxswt.jar;D:\BaiduNetdiskDownload\JDK8_64\jre\lib\jsse.jar;D:\BaiduNetdiskDownload\JDK8_64\jre\lib\management-agent.jar;D:\BaiduNetdiskDownload\JDK8_64\jre\lib\plugin.jar;D:\BaiduNetdiskDownload\JDK8_64\jre\lib\resources.jar;D:\BaiduNetdiskDownload\JDK8_64\jre\lib\rt.jar;D:\project\test\allureTest\target\classes;C:\Users\yebb\.m2\repository\org\apache\httpcomponents\httpclient\4.5.5\httpclient-4.5.5.jar;C:\Users\yebb\.m2\repository\org\apache\httpcomponents\httpcore\4.4.9\httpcore-4.4.9.jar;C:\Users\yebb\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\yebb\.m2\repository\commons-codec\commons-codec\1.10\commons-codec-1.10.jar;C:\Users\yebb\.m2\repository\com\jayway\jsonpath\json-path\2.4.0\json-path-2.4.0.jar;C:\Users\yebb\.m2\repository\net\minidev\json-smart\2.3\json-smart-2.3.jar;C:\Users\yebb\.m2\repository\net\minidev\acce
+Launcher Type: SUN_STANDARD
+
+Environment Variables:
+JAVA_HOME=D:\BaiduNetdiskDownload\JDK8_64
+CLASSPATH=.;D:\BaiduNetdiskDownload\JDK8_64\lib\dt.jar;D:\BaiduNetdiskDownload\JDK8_64\lib\tools.jar;
+PATH=D:\tool\xshell\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\IDM Computer Solutions\UltraEdit;d:\tool\Git\cmd;C:\Program Files\MySQL\MySQL Server 5.1\bin;C:\Program Files\TortoiseSVN\bin;C:\Users\yebb\AppData\Local\Microsoft\WindowsApps;D:\BaiduNetdiskDownload\JDK8_64;D:\BaiduNetdiskDownload\JDK8_64\bin;D:\apache-maven-3.6.1-bin\apache-maven-3.6.1\bin;D:\tool\apache-tomcat-7.0.96\lib;D:\tool\apache-tomcat-7.0.96\bin;
+USERNAME=yebb
+OS=Windows_NT
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+
+
+
+---------------  S Y S T E M  ---------------
+
+OS: Windows 10.0 , 64 bit Build 17134 (10.0.17134.753)
+
+CPU:total 6 (6 cores per cpu, 1 threads per core) family 6 model 158 stepping 10, cmov, cx8, fxsr, mmx, sse, sse2, sse3, ssse3, sse4.1, sse4.2, popcnt, avx, avx2, aes, clmul, erms, 3dnowpref, lzcnt, tsc, tscinvbit, bmi1, bmi2, adx
+
+Memory: 4k page, physical 16637140k(4083244k free), swap 29621464k(5636k free)
+
+vm_info: Java HotSpot(TM) 64-Bit Server VM (25.40-b25) for windows-amd64 JRE (1.8.0_40-b25), built on Feb 10 2015 21:53:57 by "java_re" with MS VC++ 10.0 (VS2010)
+
+time: Tue Nov 12 14:28:15 2019
+elapsed time: 0 seconds (0d 0h 0m 0s)
+
