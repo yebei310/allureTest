@@ -2,6 +2,70 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ec67fc8-747f-4548-835a-9b107edf08ea" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hs_err_pid51032.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hs_err_pid5552.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hs_err_pid62392.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/replay_pid5552.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/replay_pid62392.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fc/base/TestBases.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fc/community/Send.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fc/data/GetSiteList.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fc/data/HouseActive.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fc/data/HouseCorrection.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fc/data/HouseDetail.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fc/data/HouseDetailByDictIds.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fc/data/HouseEnPerfixList.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fc/data/HouseFilter.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fc/data/HouseHeader.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fc/data/HouseImg.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fc/data/HouseIndex.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fc/data/HouseList.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fc/data/HouseMap.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fc/data/HouseMapArea.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fc/data/HouseMapLocation.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fc/data/HouseNewTrend.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fc/data/HouseOpenTime.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fc/data/HousePriceTrend.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fc/data/HouseRate.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fc/data/HouseRecommend.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fc/data/HouseRoomBenefit.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fc/data/HouseRoomtypeDetail.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fc/data/HouseRoomtypeList.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fc/data/HouseSiteHotList.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fc/data/HouseSiteNewList.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fc/data/HouseSites.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fc/data/HouseTrendDetail.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fc/data/HouseTrendList.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fc/newHouse/GetSiteList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseActive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseCorrection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseDetail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseDetailByDictIds.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseEnPerfixList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseHeader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseImg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseMapArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseMapLocation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseNewTrend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseOpenTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fc/newHouse/HousePriceTrend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseRate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseRecommend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseRoomBenefit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseRoomtypeDetail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseRoomtypeList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseSiteHotList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseSiteNewList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseSites.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseTrendDetail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseTrendList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fc/util/TestUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng1.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/fc/community/Collection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fc/community/Collection.java" afterDir="false" />
@@ -180,7 +244,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="244">
+            <state relative-caret-position="437">
               <caret line="164" column="60" lean-forward="true" selection-start-line="164" selection-start-column="60" selection-end-line="164" selection-end-column="60" />
             </state>
           </provider>
@@ -454,7 +518,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574751120239" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574752664675" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -600,7 +664,7 @@
       <updated>1572503917856</updated>
       <workItem from="1572503921809" duration="27000" />
       <workItem from="1572504004893" duration="40194000" />
-      <workItem from="1574324598007" duration="40637000" />
+      <workItem from="1574324598007" duration="41318000" />
     </task>
     <servers />
   </component>
@@ -637,7 +701,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="80858000" />
+    <option name="totallyTimeSpent" value="81539000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -661,7 +725,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.47939262" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.47939262" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.56072646" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -671,7 +735,7 @@
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32936078" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
-      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="12" visible="true" weight="0.329718" />
       <window_info anchor="bottom" id="Java Enterprise" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -1371,7 +1435,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
+        <state relative-caret-position="437">
           <caret line="164" column="60" lean-forward="true" selection-start-line="164" selection-start-column="60" selection-end-line="164" selection-end-column="60" />
         </state>
       </provider>
