@@ -99,7 +99,8 @@ public class HouseRecommend extends TestBase {
                         String name = jsonArray.getJSONObject(0).getString("dictName");
                         list.add(name);
                     }
-                    String expectName="燕西华府";
+                    System.out.println("666666666666666"+list);
+                    String expectName="熙湖悦著";
                     if (list.contains(expectName)){
                         System.out.println("为您推荐包含楼盘 ："+expectName);
                         Assert.assertTrue(true);
