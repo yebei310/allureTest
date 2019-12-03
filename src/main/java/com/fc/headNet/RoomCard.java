@@ -91,11 +91,12 @@ public class RoomCard extends TestBase {
                     JSONObject jsonpObject1 = jsonObject.getJSONObject("data");
                     String totalPriceUnit= jsonpObject1.getString("totalPriceUnit");
                     String spectName="万";
+                    System.out.println("房源卡片==============="+totalPriceUnit);
                     if (totalPriceUnit.contains(spectName)){
                         System.out.println("总网房源卡片：获取到楼盘总价单位"+spectName);
                         Assert.assertTrue(true);
                     }else {
-                        System.out.println("没有找到对应楼盘信息");
+                        System.out.println("房源卡片:没有找到对应楼盘信息");
                         Assert.assertTrue(false);
                     }
 

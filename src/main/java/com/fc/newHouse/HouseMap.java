@@ -100,13 +100,14 @@ public class HouseMap extends TestBase {
                        String name= jsonArray.getJSONObject(i).getString("areaName");
                        list.add(name);
                     }
+                    System.out.println("==================="+list);
                     String expectArea="科技园区";
                     if (list.contains(expectArea)){
                         System.out.println("地图找房包含："+expectArea);
                         Assert.assertTrue(true);
 
                     }else {
-                        System.out.println("没有找到"+expectArea);
+                        System.out.println("地图找房没有找到"+expectArea);
                         Assert.assertTrue(false);
                     }
                 }

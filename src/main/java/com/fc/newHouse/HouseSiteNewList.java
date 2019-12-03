@@ -98,13 +98,14 @@ public class HouseSiteNewList extends TestBase {
                        String name= jsonArray.getJSONObject(i).getString("dictName");
                        list.add(name);
                     }
+                    System.out.println("==============="+list);
                     String expectArea="智汇健康城";
                     if (list.contains(expectArea)){
                         System.out.println("该站点包含新盘："+expectArea);
                         Assert.assertTrue(true);
 
                     }else {
-                        System.out.println("没有找到"+expectArea);
+                        System.out.println("当前站点新盘没有找到"+expectArea);
                         Assert.assertTrue(false);
                     }
                 }

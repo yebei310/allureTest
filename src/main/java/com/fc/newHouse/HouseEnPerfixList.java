@@ -98,13 +98,14 @@ public class HouseEnPerfixList extends TestBase {
                         String dictName = jsonData.getJSONObject(i).getString("dictName");
                         dictNames.add(dictName);
                     }
+                    System.out.println("11111111111111"+dictNames);
                     String expectTrendName="奥园云璟";
                     if (dictNames.contains(expectTrendName)){
                         System.out.println("楼盘包含："+expectTrendName);
                         Assert.assertTrue(true);
 
                     }else {
-                        System.out.println("没有找到"+expectTrendName);
+                        System.out.println("根据英文首字母搜索楼盘没有找到"+expectTrendName);
                         Reporter.log("没有找到"+expectTrendName);
                         Assert.assertTrue(false);
                     }
