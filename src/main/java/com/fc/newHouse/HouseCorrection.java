@@ -28,7 +28,7 @@ import java.util.Map;
 
 import static com.fc.util.TestUtil.dtt;
 
-//楼盘纠错接口
+//新房：楼盘纠错接口"
 public class HouseCorrection extends TestBase {
 
     //設置请求超时时间
@@ -53,7 +53,7 @@ public class HouseCorrection extends TestBase {
         postHeader.put("Content-type","application/json");
         //载入配置文件，接口endpoint
         host = prop.getProperty("Host");
-        testCaseExecel = System.getProperty("user.dir")+prop.getProperty("HouseCorrection");
+        testCaseExecel = System.getProperty("user.dir")+prop.getProperty("HouseActive");
     }
     @DataProvider(name = "postData")
     public Object[][] post() throws IOException{
@@ -85,22 +85,22 @@ public class HouseCorrection extends TestBase {
         Reporter.log("状态码："+statusCode);
         try{
             if (res.getStatusLine().getStatusCode() == HttpStatus.SC_OK){
-               String result =  EntityUtils.toString(res.getEntity());
-               Reporter.log("result:"+result);
-               JSONObject jsonObject =JSONObject.parseObject(result);
+                String result =  EntityUtils.toString(res.getEntity());
+                Reporter.log("result:"+result);
+                JSONObject jsonObject =JSONObject.parseObject(result);
                 Reporter.log("返回json:"+jsonObject);
                 System.out.println("返回json:"+jsonObject);
                 String msgValue = jsonObject.getString("msg");
                 Reporter.log("返回json:"+msgValue);
                 if (msgValue.equals("操作成功")){
-                        Assert.assertTrue(true);
-                    }else {
-                        Assert.assertTrue(false);
-                    }
-                }
-                else {
-                    Reporter.log("返回失败！");
+                    Assert.assertTrue(true);
+                }else {
                     Assert.assertTrue(false);
+                }
+            }
+            else {
+                Reporter.log("返回失败！");
+                Assert.assertTrue(false);
 
             }
         }catch (Exception e){
@@ -113,22 +113,8 @@ public class HouseCorrection extends TestBase {
                 e.printStackTrace();
             }
         }
-    }}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    }
+}
 
 
 

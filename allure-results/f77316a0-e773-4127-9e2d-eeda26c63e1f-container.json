@@ -1,0 +1,1 @@
+{"uuid":"f77316a0-e773-4127-9e2d-eeda26c63e1f","name":"获取所有站点数据（wap）TEST","start":1575361483961,"stop":1575361485329,"children":["04711ba2-1ff1-4573-abd7-1a1ad3d415f7"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","start":1575361483979,"stop":1575361484002}]}

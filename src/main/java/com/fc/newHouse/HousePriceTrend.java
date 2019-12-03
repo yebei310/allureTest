@@ -53,7 +53,7 @@ public class HousePriceTrend extends TestBase {
         postHeader.put("Content-type","application/json");
         //载入配置文件，接口endpoint
         host = prop.getProperty("Host");
-        testCaseExecel = System.getProperty("user.dir")+prop.getProperty("HousePriceTrend");
+        testCaseExecel = System.getProperty("user.dir")+prop.getProperty("HouseHeader");
     }
     @DataProvider(name = "postData")
     public Object[][] post() throws IOException{

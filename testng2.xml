@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="总网" verbose="1" preserve-order="true" parallel="false">
+  <test name="总网：根据楼盘ID获取活动信息">
+    <classes>
+      <class name="com.fc.headNet.Active">
+      </class>
+    </classes>
+  </test>
+  <test name="总网：调查问卷接口-判断问卷是否存在">
+    <classes>
+      <class name="com.fc.headNet.CheckSurvey">
+      </class>
+    </classes>
+  </test>
+  <test name="总网：风芒活动-判断活动是否存在">
+    <classes>
+      <class name="com.fc.headNet.Exists">
+      </class>
+    </classes>
+  </test>
+  <test name="总网：房源筛选接口列表">
+    <classes>
+      <class name="com.fc.headNet.FilterList">
+      </class>
+    </classes>
+  </test>
+  <test name="总网：楼盘/小区卡片">
+    <classes>
+      <class name="com.fc.headNet.GetDictById">
+      </class>
+    </classes>
+  </test>
+  <test name="总网：根据楼盘名称站点获取楼盘列表">
+    <classes>
+      <class name="com.fc.headNet.GetDictListByName">
+      </class>
+    </classes>
+  </test>
+  <test name="总网：风芒活动-根据id获取风芒活动信息">
+    <classes>
+      <class name="com.fc.headNet.Getinfo">
+      </class>
+    </classes>
+  </test>
+  <test name="总网：好房推荐">
+    <classes>
+      <class name="com.fc.headNet.GetRecommend">
+      </class>
+    </classes>
+  </test>
+  <test name="总网：全国站点信息">
+    <classes>
+      <class name="com.fc.headNet.NetGetSiteList">
+      </class>
+    </classes>
+  </test>
+  <test name="总网：调查问卷-根据id获取问卷信息">
+    <classes>
+      <class name="com.fc.headNet.GetSurvey">
+      </class>
+    </classes>
+  </test>
+  <test name="总网：房源卡片">
+    <classes>
+      <class name="com.fc.headNet.RoomCard">
+      </class>
+    </classes>
+  </test>
+  <test name="总网：楼盘/小区筛选接口列表">
+    <classes>
+      <class name="com.fc.headNet.UcmsFilterList">
+      </class>
+    </classes>
+  </test>
+
+
+</suite>
+

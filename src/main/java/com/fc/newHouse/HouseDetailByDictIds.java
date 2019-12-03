@@ -71,7 +71,7 @@ public class HouseDetailByDictIds extends TestBase {
 //        post.setHeader("Cookie",cookies);
 
        Map<String,String> map = new HashMap<String,String>();
-        map.put("dictIds","19,24");
+        map.put("dictIds","19,24,87,110,124,256,305,350,362,457,502,514,518,521,538,547,564,618,640,5109,5227,5245,5442,5464,5485,5596,5645,5740,5741,7424,10036");
         StringEntity s = new StringEntity(JSON.toJSONString(map));
         s.setContentEncoding("UTF-8");
         post.setEntity(s);

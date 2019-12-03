@@ -1,0 +1,95 @@
+<html>
+<head>
+<title>TestNG:  新房：楼盘详情头部公用接口(PC)</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>新房：楼盘详情头部公用接口(PC)</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>1/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Tue Dec 03 16:17:29 CST 2019</td>
+</tr>
+<tr><td>Total time:</td><td>0 seconds (32 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.fc.newHouse.HouseHeader.filterCon()'><b>filterCon</b><br>Test class: com.fc.newHouse.HouseHeader<br>Test method: 新房：楼盘详情头部公用接口(PC)<br>Parameters: 楼盘详情头部公用接口(PC)<br/>
+<a href="#Output-1473128600" onClick='toggleBox("Output-1473128600", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1473128600" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1473128600">
+状态码：200<br/>
+result:{"data":{"address":"西六环长青路出口","alias":"一湖墅","areaId":133,"areaName":"房山城区","bigCode":"4008185005","dictName":"北京半岛","esfShowType":1,"id":19,"lat":"39.80445","locationId":19,"locationName":"房山","lon":"116.081437","loupanType":1,"offsiteList":[],"propertyTypeList":["双拼"],"salePhone":"01084608611","salePhoneAltPc":"10500","salePhoneAltWap":"52350","saleStatus":"待售","showType":1,"siteId":3066,"siteName":"北京","state":1,"updateTime":1566893316},"errno":0,"msg":"操作成功"}<br/>
+返回json:{"msg":"操作成功","errno":0,"data":{"loupanType":1,"address":"西六环长青路出口","locationName":"房山","salePhone":"01084608611","siteName":"北京","esfShowType":1,"lon":"116.081437","updateTime":1566893316,"saleStatus":"待售","areaId":133,"areaName":"房山城区","propertyTypeList":["双拼"],"bigCode":"4008185005","locationId":19,"salePhoneAltPc":"10500","alias":"一湖墅","showType":1,"siteId":3066,"dictName":"北京半岛","id":19,"state":1,"lat":"39.80445","salePhoneAltWap":"52350","offsiteList":[]}}<br/>
+返回json:操作成功<br/>
+该楼盘是：北京半岛<br/>
+</div>
+</td>
+<td></td>
+<td>0</td>
+<td>com.fc.newHouse.HouseHeader@16ecee1</td></tr>
+</table><p>
+</body>
+</html>

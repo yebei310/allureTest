@@ -1,0 +1,94 @@
+<html>
+<head>
+<title>TestNG:  新房：站点列表接口（PC/WAP）</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>新房：站点列表接口（PC/WAP）</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>1/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Tue Dec 03 16:17:32 CST 2019</td>
+</tr>
+<tr><td>Total time:</td><td>0 seconds (48 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.fc.newHouse.HouseActive.filterCon()'><b>filterCon</b><br>Test class: com.fc.newHouse.HouseActive<br>Test method: 新房：站点列表接口（PC/WAP）<br>Parameters: 站点列表接口（PC/WAP）<br/>
+<a href="#Output-91463800" onClick='toggleBox("Output-91463800", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-91463800" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-91463800">
+状态码：200<br/>
+result:{"data":{"activeList":[{"href":"https://ihouse.ifeng.com/active/24?type=2","title":"暂无信息","type":2},{"href":"https://ihouse.ifeng.com/active/24?type=2","title":"最新优惠、楼盘活动通知我","type":3}]},"errno":0,"msg":"操作成功"}<br/>
+返回json:{"msg":"操作成功","errno":0,"data":{"activeList":[{"href":"https://ihouse.ifeng.com/active/24?type=2","title":"暂无信息","type":2},{"href":"https://ihouse.ifeng.com/active/24?type=2","title":"最新优惠、楼盘活动通知我","type":3}]}}<br/>
+返回json:操作成功<br/>
+</div>
+</td>
+<td></td>
+<td>0</td>
+<td>com.fc.newHouse.HouseActive@3e34ace1</td></tr>
+</table><p>
+</body>
+</html>

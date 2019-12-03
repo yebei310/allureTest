@@ -1,0 +1,97 @@
+<html>
+<head>
+<title>TestNG:  获取所有站点数据（wap）TEST</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>获取所有站点数据（wap）TEST</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>1/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Tue Dec 03 16:17:22 CST 2019</td>
+</tr>
+<tr><td>Total time:</td><td>1 seconds (1322 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.fc.community.AllSiteData.filterCon()'><b>filterCon</b><br>Test class: com.fc.community.AllSiteData<br>Test method: 获取所有站点数据（wap）<br>Parameters: 获取所有站点数据（wap）<br/>
+<a href="#Output-1650105437" onClick='toggleBox("Output-1650105437", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1650105437" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1650105437">
+状态码：200<br/>
+result:{"errno":0,"msg":"操作成功","data":[{"tableName":null,"id":3066,"name":"北京","letter":"B","domain":"bj","abroad":0,"operationType":null,"esfOperationType":null,"status":1,"esfStatus":null,"sort":0,"createTime":1403923300,"url":"https://bj.izhiliao.com/","isProxy":1,"logo":null},{"tableName":null,"id":27504,"name":"上海","letter":"S","domain":"sh","abroad":0,"operationType":null,"esfOperationType":null,"status":1,"esfStatus":null,"sort":2,"createTime":1392884294,"url":"https://sh.izhiliao.com/","isProxy":1,"logo":null},{"tableName":null,"id":17632,"name":"广州","letter":"G","domain":"gz","abroad":0,"operationType":null,"esfOperationType":null,"status":1,"esfStatus":null,"sort":3,"createTime":1378107888,"url":"https://gz.izhiliao.com/","isProxy":1,"logo":null},{"tableName":null,"id":36688,"name":"深圳","letter":"S","domain":"sz","abroad":0,"operationType":null,"esfOperationType":null,"status":1,"esfStatus":null,"sort":4,"createTime":1403882292,"url":"https://sz.izhiliao.com/","isProxy":1,"logo":null},{"tableName":null,"id":27921,"name":"天津","letter":"T","domain":"tj","abroad":0,"operationType":null,"esfOperationType":null,"status":1,"esfStatus":null,"sort":5,"createTime":1393481323,"url":"https://tj.izhiliao.com/","isProxy":1,"logo":null},{"tableName":null,"id":21057,"name":"成都","letter":"C","domain":"cd","abroad":0,"operationType":null,"esfOperationType":null,"status":1,"esfStatus":null,"sort":7,"createTime":1383644586,"url":"https://cd.izhiliao.com/","isProxy":1,"logo":null},{"tableName":null,"id":23984,"name":"郑州","letter":"Z","domain":"zz","abroad":0,"operationType":null,"esfOperationType":null,"status":1,"esfStatus":null,"sort":9,"createTime":1386742287,"url":"https://zz.izhiliao.com/","isProxy":1,"logo":null},{"tableName":null,"id":24431,"name":"武汉","letter":"W","domain":"wuhan","abroad":0,"operationType":null,"esfOperationType":null,"status":1,"esfStatus":null,"sort":12,"createTime":1386904366,"url":"https://wuhan.izhiliao.com/","isProxy":1,"logo":null},{"tableName":null,"id":24396,"name":"长沙","letter":"C","domain":"changsha","abroad":0,"operationType":null,"esfOperationType":null,"status":1,"esfStatus":null,"sort":13,"createTime":1386903608,"url":"https://changsha.izhiliao.com/","isProxy":1,"logo":null},{"tableName":null,"id":22632,"name":"杭州","letter":"H","domain":"hz","abroad":0,"operationType":null,"esfOperationType":null,"status":1,"esfStatus":null,"sort":88,"createTime":1385448925,"url":"https://hz.izhiliao.com/","isProxy":1,"logo":null},{"tableName":null,"id":50016,"name":"珠海","letter":"Z","domain":"zhuhai","abroad":0,"operationType":null,"esfOperationType":null,"status":1,"esfStatus":null,"sort":112,"createTime":1462791843,"url":"https://zhuhai.izhiliao.com/","isProxy":1,"logo":null}]}<br/>
+返回json:{"msg":"操作成功","errno":0,"data":[{"abroad":0,"sort":0,"isProxy":1,"url":"https://bj.izhiliao.com/","createTime":1403923300,"letter":"B","domain":"bj","name":"北京","id":3066,"status":1},{"abroad":0,"sort":2,"isProxy":1,"url":"https://sh.izhiliao.com/","createTime":1392884294,"letter":"S","domain":"sh","name":"上海","id":27504,"status":1},{"abroad":0,"sort":3,"isProxy":1,"url":"https://gz.izhiliao.com/","createTime":1378107888,"letter":"G","domain":"gz","name":"广州","id":17632,"status":1},{"abroad":0,"sort":4,"isProxy":1,"url":"https://sz.izhiliao.com/","createTime":1403882292,"letter":"S","domain":"sz","name":"深圳","id":36688,"status":1},{"abroad":0,"sort":5,"isProxy":1,"url":"https://tj.izhiliao.com/","createTime":1393481323,"letter":"T","domain":"tj","name":"天津","id":27921,"status":1},{"abroad":0,"sort":7,"isProxy":1,"url":"https://cd.izhiliao.com/","createTime":1383644586,"letter":"C","domain":"cd","name":"成都","id":21057,"status":1},{"abroad":0,"sort":9,"isProxy":1,"url":"https://zz.izhiliao.com/","createTime":1386742287,"letter":"Z","domain":"zz","name":"郑州","id":23984,"status":1},{"abroad":0,"sort":12,"isProxy":1,"url":"https://wuhan.izhiliao.com/","createTime":1386904366,"letter":"W","domain":"wuhan","name":"武汉","id":24431,"status":1},{"abroad":0,"sort":13,"isProxy":1,"url":"https://changsha.izhiliao.com/","createTime":1386903608,"letter":"C","domain":"changsha","name":"长沙","id":24396,"status":1},{"abroad":0,"sort":88,"isProxy":1,"url":"https://hz.izhiliao.com/","createTime":1385448925,"letter":"H","domain":"hz","name":"杭州","id":22632,"status":1},{"abroad":0,"sort":112,"isProxy":1,"url":"https://zhuhai.izhiliao.com/","createTime":1462791843,"letter":"Z","domain":"zhuhai","name":"珠海","id":50016,"status":1}]}<br/>
+返回json:操作成功<br/>
+返回jsonArraySites:[{"abroad":0,"sort":0,"isProxy":1,"url":"https://bj.izhiliao.com/","createTime":1403923300,"letter":"B","domain":"bj","name":"北京","id":3066,"status":1},{"abroad":0,"sort":2,"isProxy":1,"url":"https://sh.izhiliao.com/","createTime":1392884294,"letter":"S","domain":"sh","name":"上海","id":27504,"status":1},{"abroad":0,"sort":3,"isProxy":1,"url":"https://gz.izhiliao.com/","createTime":1378107888,"letter":"G","domain":"gz","name":"广州","id":17632,"status":1},{"abroad":0,"sort":4,"isProxy":1,"url":"https://sz.izhiliao.com/","createTime":1403882292,"letter":"S","domain":"sz","name":"深圳","id":36688,"status":1},{"abroad":0,"sort":5,"isProxy":1,"url":"https://tj.izhiliao.com/","createTime":1393481323,"letter":"T","domain":"tj","name":"天津","id":27921,"status":1},{"abroad":0,"sort":7,"isProxy":1,"url":"https://cd.izhiliao.com/","createTime":1383644586,"letter":"C","domain":"cd","name":"成都","id":21057,"status":1},{"abroad":0,"sort":9,"isProxy":1,"url":"https://zz.izhiliao.com/","createTime":1386742287,"letter":"Z","domain":"zz","name":"郑州","id":23984,"status":1},{"abroad":0,"sort":12,"isProxy":1,"url":"https://wuhan.izhiliao.com/","createTime":1386904366,"letter":"W","domain":"wuhan","name":"武汉","id":24431,"status":1},{"abroad":0,"sort":13,"isProxy":1,"url":"https://changsha.izhiliao.com/","createTime":1386903608,"letter":"C","domain":"changsha","name":"长沙","id":24396,"status":1},{"abroad":0,"sort":88,"isProxy":1,"url":"https://hz.izhiliao.com/","createTime":1385448925,"letter":"H","domain":"hz","name":"杭州","id":22632,"status":1},{"abroad":0,"sort":112,"isProxy":1,"url":"https://zhuhai.izhiliao.com/","createTime":1462791843,"letter":"Z","domain":"zhuhai","name":"珠海","id":50016,"status":1}]<br/>
+返回jsonArraySites:[{"abroad":0,"sort":0,"isProxy":1,"url":"https://bj.izhiliao.com/","createTime":1403923300,"letter":"B","domain":"bj","name":"北京","id":3066,"status":1},{"abroad":0,"sort":2,"isProxy":1,"url":"https://sh.izhiliao.com/","createTime":1392884294,"letter":"S","domain":"sh","name":"上海","id":27504,"status":1},{"abroad":0,"sort":3,"isProxy":1,"url":"https://gz.izhiliao.com/","createTime":1378107888,"letter":"G","domain":"gz","name":"广州","id":17632,"status":1},{"abroad":0,"sort":4,"isProxy":1,"url":"https://sz.izhiliao.com/","createTime":1403882292,"letter":"S","domain":"sz","name":"深圳","id":36688,"status":1},{"abroad":0,"sort":5,"isProxy":1,"url":"https://tj.izhiliao.com/","createTime":1393481323,"letter":"T","domain":"tj","name":"天津","id":27921,"status":1},{"abroad":0,"sort":7,"isProxy":1,"url":"https://cd.izhiliao.com/","createTime":1383644586,"letter":"C","domain":"cd","name":"成都","id":21057,"status":1},{"abroad":0,"sort":9,"isProxy":1,"url":"https://zz.izhiliao.com/","createTime":1386742287,"letter":"Z","domain":"zz","name":"郑州","id":23984,"status":1},{"abroad":0,"sort":12,"isProxy":1,"url":"https://wuhan.izhiliao.com/","createTime":1386904366,"letter":"W","domain":"wuhan","name":"武汉","id":24431,"status":1},{"abroad":0,"sort":13,"isProxy":1,"url":"https://changsha.izhiliao.com/","createTime":1386903608,"letter":"C","domain":"changsha","name":"长沙","id":24396,"status":1},{"abroad":0,"sort":88,"isProxy":1,"url":"https://hz.izhiliao.com/","createTime":1385448925,"letter":"H","domain":"hz","name":"杭州","id":22632,"status":1},{"abroad":0,"sort":112,"isProxy":1,"url":"https://zhuhai.izhiliao.com/","createTime":1462791843,"letter":"Z","domain":"zhuhai","name":"珠海","id":50016,"status":1}]<br/>
+找到长沙<br/>
+</div>
+</td>
+<td></td>
+<td>0</td>
+<td>com.fc.community.AllSiteData@4044fb95</td></tr>
+</table><p>
+</body>
+</html>

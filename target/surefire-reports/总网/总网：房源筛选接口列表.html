@@ -1,0 +1,94 @@
+<html>
+<head>
+<title>TestNG:  总网：房源筛选接口列表</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>总网：房源筛选接口列表</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>1/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Tue Dec 03 16:17:33 CST 2019</td>
+</tr>
+<tr><td>Total time:</td><td>0 seconds (57 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.fc.headNet.FilterList.filterCon()'><b>filterCon</b><br>Test class: com.fc.headNet.FilterList<br>Test method: 总网：房源筛选接口列表<br>Parameters: 房源筛选接口列表<br/>
+<a href="#Output-1696394747" onClick='toggleBox("Output-1696394747", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1696394747" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1696394747">
+状态码：200<br/>
+result:{"errno":0,"msg":"操作成功","data":{"index":1,"size":20,"totalCount":4644,"totalPage":233,"prev":1,"next":2,"data":[{"siteId":3066,"siteName":"北京","locationId":20,"locationName":"西城","areaId":293,"areaName":"陶然亭","id":3157056,"sourceTitle":"法拍房 陶然亭紫竹院 一瓶 临公园水系 人车分流成熟社区"},{"siteId":3066,"siteName":"北京","locationId":20,"locationName":"西城","areaId":284,"areaName":"阜成门","id":3212605,"sourceTitle":"法拍房 阜成门百万庄大街乙21号院 电梯房 车位充足"},{"siteId":3066,"siteName":"","locationId":20,"locationName":"西城","areaId":288,"areaName":"月坛","id":3231289,"sourceTitle":"司法拍卖建邦礼仕阁1122万拍带1车位可按揭契税法拍房九层"},{"siteId":3066,"siteName":"北京","locationId":20,"locationName":"西城","areaId":271,"areaName":"金融街","id":3157316,"sourceTitle":"法拍房 金融街北京尊府 管家式服务 私密性好 仅契税可代款"},{"siteId":3066,"siteName":"北京","locationId":20,"locationName":"西城","areaId":271,"areaName":"金融街","id":3212604,"sourceTitle":"法拍房 金融街宏汇园 布局合理 南北通透 仅契税捡漏"},{"siteId":3066,"siteName":"北京","locationId":20,"locationName":"西城","areaId":291,"areaName":"白云路","id":3212597,"sourceTitle":"法拍房 西便门东里 电梯房无遮挡 落地窗 车位充足捡漏"},{"siteId":3066,"siteName":"北京","locationId":20,"locationName":"西城","areaId":293,"areaName":"陶然亭","id":3232765,"sourceTitle":"新上西城区层高3.3米地铁7号线虎坊桥站二居室独门独院有钥匙"},{"siteId":3066,"siteName":"北京","locationId":20,"locationName":"西城","areaId":271,"areaName":"金融街","id":3236136,"sourceTitle":"金融街片区，新华社院内，管理棒，环境好，有停车位"},{"siteId":3066,"siteName":"北京","locationId":20,"locationName":"西城","areaId":288,"areaName":"月坛","id":3227841,"sourceTitle":"西城、月坛、三里河一区、楼龄新、环境好、刚改造过。"},{"siteId":3066,"siteName":"","locationId":20,"locationName":"西城","areaId":282,"areaName":"官园","id":3224740,"sourceTitle":"富贵锦前程，花鸟林中行。别有通儒意，书声朗朗诵。官苑八号"},{"siteId":3066,"siteName":"北京","locationId":20,"locationName":"西城","areaId":284,"areaName":"阜成门","id":3206581,"sourceTitle":"东西向南露园大2居！明厨明卫大阳台！金三楼层，随时可以看！"},{"siteId":3066,"siteName":"北京","locationId":20,"locationName":"西城","areaId":284,"areaName":"阜成门","id":2950226,"sourceTitle":"新上.百万庄大街7号院.田子格户型.前后花园.满五年一套"},{"siteId":3066,"siteName":"北京","locationId":20,"locationName":"西城","areaId":287,"areaName":"广安门内","id":672142,"sourceTitle":"新上牛街商品房 朝北1居室 满五年 有燃气"},{"siteId":3066,"siteName":"北京","locationId":20,"locationName":"西城","areaId":284,"areaName":"阜成门","id":3225923,"sourceTitle":"新上 北礼士路62号 96年电梯房 三室两厅两卫 精装修"},{"siteId":3066,"siteName":"北京","locationId":20,"locationName":"西城","areaId":284,"areaName":"阜成门","id":2950228,"sourceTitle":"西城 车公庄 展览路百万庄子区 南北通透 全明三居室"},{"siteId":3066,"siteName":"北京","locationId":20,"locationName":"西城","areaId":294,"areaName":"天宁寺","id":3235687,"sourceTitle":"南北通透，格局方正，成熟社区，交通便利"},{"siteId":3066,"siteName":"北京","locationId":20,"locationName":"西城","areaId":289,"areaName":"车公庄","id":2950220,"sourceTitle":"~^o^~车公庄北里四室客厅餐厅逾80平米四个正规卧室"},{"siteId":3066,"siteName":"北京","locationId":20,"locationName":"西城","areaId":284,"areaName":"阜成门","id":2807216,"sourceTitle":"百万庄大街21号院新上三室二厅 2013年房龄 电梯直达"},{"siteId":3066,"siteName":"北京","locationId":20,"locationName":"西城","areaId":272,"areaName":"西直门","id":3035764,"sourceTitle":"低楼层采光无遮挡，南北通透全明格局三居室"},{"siteId":3066,"siteName":"北京","locationId":20,"locationName":"西城","areaId":284,"areaName":"阜成门","id":3049864,"sourceTitle":"阜成门 北营房东里 中国电信家属楼，满五年公房 二卫"}],"model":null,"beginRow":0,"endRow":20}}<br/>
+返回json:{"msg":"操作成功","errno":0,"data":{"next":2,"size":20,"data":[{"locationName":"西城","areaId":293,"areaName":"陶然亭","locationId":20,"siteId":3066,"siteName":"北京","sourceTitle":"法拍房 陶然亭紫竹院 一瓶 临公园水系 人车分流成熟社区","id":3157056},{"locationName":"西城","areaId":284,"areaName":"阜成门","locationId":20,"siteId":3066,"siteName":"北京","sourceTitle":"法拍房 阜成门百万庄大街乙21号院 电梯房 车位充足","id":3212605},{"locationName":"西城","areaId":288,"areaName":"月坛","locationId":20,"siteId":3066,"siteName":"","sourceTitle":"司法拍卖建邦礼仕阁1122万拍带1车位可按揭契税法拍房九层","id":3231289},{"locationName":"西城","areaId":271,"areaName":"金融街","locationId":20,"siteId":3066,"siteName":"北京","sourceTitle":"法拍房 金融街北京尊府 管家式服务 私密性好 仅契税可代款","id":3157316},{"locationName":"西城","areaId":271,"areaName":"金融街","locationId":20,"siteId":3066,"siteName":"北京","sourceTitle":"法拍房 金融街宏汇园 布局合理 南北通透 仅契税捡漏","id":3212604},{"locationName":"西城","areaId":291,"areaName":"白云路","locationId":20,"siteId":3066,"siteName":"北京","sourceTitle":"法拍房 西便门东里 电梯房无遮挡 落地窗 车位充足捡漏","id":3212597},{"locationName":"西城","areaId":293,"areaName":"陶然亭","locationId":20,"siteId":3066,"siteName":"北京","sourceTitle":"新上西城区层高3.3米地铁7号线虎坊桥站二居室独门独院有钥匙","id":3232765},{"locationName":"西城","areaId":271,"areaName":"金融街","locationId":20,"siteId":3066,"siteName":"北京","sourceTitle":"金融街片区，新华社院内，管理棒，环境好，有停车位","id":3236136},{"locationName":"西城","areaId":288,"areaName":"月坛","locationId":20,"siteId":3066,"siteName":"北京","sourceTitle":"西城、月坛、三里河一区、楼龄新、环境好、刚改造过。","id":3227841},{"locationName":"西城","areaId":282,"areaName":"官园","locationId":20,"siteId":3066,"siteName":"","sourceTitle":"富贵锦前程，花鸟林中行。别有通儒意，书声朗朗诵。官苑八号","id":3224740},{"locationName":"西城","areaId":284,"areaName":"阜成门","locationId":20,"siteId":3066,"siteName":"北京","sourceTitle":"东西向南露园大2居！明厨明卫大阳台！金三楼层，随时可以看！","id":3206581},{"locationName":"西城","areaId":284,"areaName":"阜成门","locationId":20,"siteId":3066,"siteName":"北京","sourceTitle":"新上.百万庄大街7号院.田子格户型.前后花园.满五年一套","id":2950226},{"locationName":"西城","areaId":287,"areaName":"广安门内","locationId":20,"siteId":3066,"siteName":"北京","sourceTitle":"新上牛街商品房 朝北1居室 满五年 有燃气","id":672142},{"locationName":"西城","areaId":284,"areaName":"阜成门","locationId":20,"siteId":3066,"siteName":"北京","sourceTitle":"新上 北礼士路62号 96年电梯房 三室两厅两卫 精装修","id":3225923},{"locationName":"西城","areaId":284,"areaName":"阜成门","locationId":20,"siteId":3066,"siteName":"北京","sourceTitle":"西城 车公庄 展览路百万庄子区 南北通透 全明三居室","id":2950228},{"locationName":"西城","areaId":294,"areaName":"天宁寺","locationId":20,"siteId":3066,"siteName":"北京","sourceTitle":"南北通透，格局方正，成熟社区，交通便利","id":3235687},{"locationName":"西城","areaId":289,"areaName":"车公庄","locationId":20,"siteId":3066,"siteName":"北京","sourceTitle":"~^o^~车公庄北里四室客厅餐厅逾80平米四个正规卧室","id":2950220},{"locationName":"西城","areaId":284,"areaName":"阜成门","locationId":20,"siteId":3066,"siteName":"北京","sourceTitle":"百万庄大街21号院新上三室二厅 2013年房龄 电梯直达","id":2807216},{"locationName":"西城","areaId":272,"areaName":"西直门","locationId":20,"siteId":3066,"siteName":"北京","sourceTitle":"低楼层采光无遮挡，南北通透全明格局三居室","id":3035764},{"locationName":"西城","areaId":284,"areaName":"阜成门","locationId":20,"siteId":3066,"siteName":"北京","sourceTitle":"阜成门 北营房东里 中国电信家属楼，满五年公房 二卫","id":3049864}],"totalPage":233,"prev":1,"beginRow":0,"index":1,"endRow":20,"totalCount":4644}}<br/>
+返回json:操作成功<br/>
+</div>
+</td>
+<td></td>
+<td>0</td>
+<td>com.fc.headNet.FilterList@5536379e</td></tr>
+</table><p>
+</body>
+</html>

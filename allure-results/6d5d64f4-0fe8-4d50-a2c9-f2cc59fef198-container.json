@@ -1,0 +1,1 @@
+{"uuid":"6d5d64f4-0fe8-4d50-a2c9-f2cc59fef198","name":"查询小区下知了管家数据","start":1575361008073,"stop":1575361008139,"children":["0c5ed62f-e4a8-4396-a599-fe97c845617d"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","start":1575361008073,"stop":1575361008073}]}

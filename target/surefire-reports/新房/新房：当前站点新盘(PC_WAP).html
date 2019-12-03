@@ -1,0 +1,94 @@
+<html>
+<head>
+<title>TestNG:  新房：当前站点新盘(PC/WAP)</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>新房：当前站点新盘(PC/WAP)</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>1/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Tue Dec 03 16:17:31 CST 2019</td>
+</tr>
+<tr><td>Total time:</td><td>0 seconds (162 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.fc.newHouse.HouseSiteNewList.filterCon()'><b>filterCon</b><br>Test class: com.fc.newHouse.HouseSiteNewList<br>Test method: 新房：当前站点新盘(PC/WAP)<br>Parameters: 当前站点新盘(PC/WAP)<br/>
+<a href="#Output-433767126" onClick='toggleBox("Output-433767126", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-433767126" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-433767126">
+状态码：200<br/>
+result:{"data":[{"areaName":"香河","coverImage":"http://d.ifengimg.com/w560_h400/s2.ifengimg.com/2019/11/25/5b3db162a6e94f35ab2bc0906b757964.jpg","dictName":"香河富力新城","id":4805584,"locationId":10,"locationName":"北京周边","propertyCategory":"住宅","saleStatus":"待售"},{"areaName":"生物医药基地","coverImage":"http://d.ifengimg.com/w560_h400/s2.ifengimg.com/2019/11/22/e5f762f822634fef862a82b125925c50.jpg","dictName":"智汇健康城","id":4805572,"locationId":4,"locationName":"大兴","propertyCategory":"写字楼","salePhone":"01060227777","saleStatus":"在售","specialList":["客厅卧室","厨房餐厅","全明格局","采光充足"]},{"areaName":"未来科学城","coverImage":"http://d.ifengimg.com/w560_h400/s1.ifengimg.com/2019/11/21/ac772c9297fa4515a31f33e3b53f01f3.jpg","dictName":"未来金茂府悦公馆","id":4805551,"locationId":6,"locationName":"昌平","price":51478.0,"priceUnit":"元/㎡","propertyCategory":"住宅","salePhone":"","saleStatus":"待售","specialList":["厨房餐厅","全明格局"]},{"areaName":"西四环","coverImage":"http://d.ifengimg.com/w560_h400/s1.ifengimg.com/2019/11/25/d54b03b933cd4625bbceb80467ff87bc.png","dictName":"澜湾2035","id":4805550,"locationId":5,"locationName":"丰台","price":40000.0,"priceUnit":"元/㎡","propertyCategory":"商铺","salePhone":"01083718888","saleStatus":"待售","specialList":["客厅卧室","全明格局"]},{"areaName":"百子湾","coverImage":"http://d.ifengimg.com/w560_h400/s2.ifengimg.com/2019/11/13/650b7fd4a2344915be82f45fb325cfa3.jpg","dictName":"恭和家园","id":4805433,"locationId":14,"locationName":"朝阳","propertyCategory":"住宅","salePhone":"4008185005","salePhoneAltPc":"58147","salePhoneAltWap":"58150","saleStatus":"在售","specialList":["阳台室外其他","全明格局"]}],"errno":0,"msg":"操作成功"}<br/>
+返回json:{"msg":"操作成功","errno":0,"data":[{"locationName":"北京周边","areaName":"香河","locationId":10,"coverImage":"http://d.ifengimg.com/w560_h400/s2.ifengimg.com/2019/11/25/5b3db162a6e94f35ab2bc0906b757964.jpg","dictName":"香河富力新城","id":4805584,"saleStatus":"待售","propertyCategory":"住宅"},{"locationName":"大兴","areaName":"生物医药基地","salePhone":"01060227777","locationId":4,"coverImage":"http://d.ifengimg.com/w560_h400/s2.ifengimg.com/2019/11/22/e5f762f822634fef862a82b125925c50.jpg","dictName":"智汇健康城","id":4805572,"saleStatus":"在售","specialList":["客厅卧室","厨房餐厅","全明格局","采光充足"],"propertyCategory":"写字楼"},{"priceUnit":"元/㎡","locationName":"昌平","areaName":"未来科学城","salePhone":"","locationId":6,"price":51478.0,"coverImage":"http://d.ifengimg.com/w560_h400/s1.ifengimg.com/2019/11/21/ac772c9297fa4515a31f33e3b53f01f3.jpg","dictName":"未来金茂府悦公馆","id":4805551,"saleStatus":"待售","specialList":["厨房餐厅","全明格局"],"propertyCategory":"住宅"},{"priceUnit":"元/㎡","locationName":"丰台","areaName":"西四环","salePhone":"01083718888","locationId":5,"price":40000.0,"coverImage":"http://d.ifengimg.com/w560_h400/s1.ifengimg.com/2019/11/25/d54b03b933cd4625bbceb80467ff87bc.png","dictName":"澜湾2035","id":4805550,"saleStatus":"待售","specialList":["客厅卧室","全明格局"],"propertyCategory":"商铺"},{"locationName":"朝阳","areaName":"百子湾","salePhone":"4008185005","locationId":14,"salePhoneAltPc":"58147","coverImage":"http://d.ifengimg.com/w560_h400/s2.ifengimg.com/2019/11/13/650b7fd4a2344915be82f45fb325cfa3.jpg","dictName":"恭和家园","id":4805433,"saleStatus":"在售","specialList":["阳台室外其他","全明格局"],"propertyCategory":"住宅","salePhoneAltWap":"58150"}]}<br/>
+返回json:操作成功<br/>
+</div>
+</td>
+<td></td>
+<td>0</td>
+<td>com.fc.newHouse.HouseSiteNewList@150ab4ed</td></tr>
+</table><p>
+</body>
+</html>

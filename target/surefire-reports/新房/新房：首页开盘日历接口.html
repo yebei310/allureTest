@@ -1,0 +1,94 @@
+<html>
+<head>
+<title>TestNG:  新房：首页开盘日历接口</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>新房：首页开盘日历接口</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>1/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Tue Dec 03 16:17:32 CST 2019</td>
+</tr>
+<tr><td>Total time:</td><td>0 seconds (166 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.fc.newHouse.HouseOpenTime.filterCon()'><b>filterCon</b><br>Test class: com.fc.newHouse.HouseOpenTime<br>Test method: 新房：首页开盘日历接口<br>Parameters: 首页开盘日历接口<br/>
+<a href="#Output-1463905865" onClick='toggleBox("Output-1463905865", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1463905865" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1463905865">
+状态码：200<br/>
+result:{"data":{"openTimeList":[{"dictPriceList":[{"dictId":314663,"dictName":"金辰府","price":"53000.0元/㎡"}],"time":"11月10日"},{"dictPriceList":[{"dictId":106690,"dictName":"北京城建·世华龙樾","price":"82600.0元/㎡"},{"dictId":4805292,"dictName":"国誉府","price":"43467.0元/㎡"}],"time":"11月16日"},{"dictPriceList":[{"dictId":314171,"dictName":"观承望溪","price":"55000.0元/㎡"}],"time":"11月17日"},{"dictPriceList":[{"dictId":314647,"dictName":"萬橡悦府","price":"54197.0元/㎡"}],"time":"11月19日"},{"dictPriceList":[{"dictId":281319,"dictName":"北京城建·宽院·国誉府","price":"31136.0元/㎡"}],"time":"11月22日"},{"dictPriceList":[{"dictId":280714,"dictName":"中国中铁·诺德春风和院","price":"67702.0元/㎡"}],"time":"11月23日"},{"dictPriceList":[{"dictId":278953,"dictName":"西山上品湾ΜΟΜA","price":"37500.0元/㎡"},{"dictId":271635,"dictName":"万科·弗农小镇","price":"325.0万元/套"}],"time":"11月30日"},{"dictPriceList":[{"dictId":281479,"dictName":"橡树珑湾","price":"价格待定"}],"time":"12月01日"},{"dictPriceList":[{"dictId":314685,"dictName":"住总如院","price":"价格待定"}],"time":"12月05日"},{"dictPriceList":[{"dictId":318731,"dictName":"华樾北京","price":"78148.0元/㎡"}],"time":"12月06日"},{"dictPriceList":[{"dictId":314469,"dictName":"禧悦学府","price":"62766.0元/㎡"}],"time":"12月10日"},{"dictPriceList":[{"dictId":319066,"dictName":"中海寰宇时代","price":"52449.0元/㎡"}],"time":"12月16日"},{"dictPriceList":[{"dictId":280746,"dictName":"长安云锦","price":"58802.0元/㎡"}],"time":"12月31日"}]},"errno":0,"msg":"操作成功"}<br/>
+返回json:{"msg":"操作成功","errno":0,"data":{"openTimeList":[{"time":"11月10日","dictPriceList":[{"price":"53000.0元/㎡","dictName":"金辰府","dictId":314663}]},{"time":"11月16日","dictPriceList":[{"price":"82600.0元/㎡","dictName":"北京城建·世华龙樾","dictId":106690},{"price":"43467.0元/㎡","dictName":"国誉府","dictId":4805292}]},{"time":"11月17日","dictPriceList":[{"price":"55000.0元/㎡","dictName":"观承望溪","dictId":314171}]},{"time":"11月19日","dictPriceList":[{"price":"54197.0元/㎡","dictName":"萬橡悦府","dictId":314647}]},{"time":"11月22日","dictPriceList":[{"price":"31136.0元/㎡","dictName":"北京城建·宽院·国誉府","dictId":281319}]},{"time":"11月23日","dictPriceList":[{"price":"67702.0元/㎡","dictName":"中国中铁·诺德春风和院","dictId":280714}]},{"time":"11月30日","dictPriceList":[{"price":"37500.0元/㎡","dictName":"西山上品湾ΜΟΜA","dictId":278953},{"price":"325.0万元/套","dictName":"万科·弗农小镇","dictId":271635}]},{"time":"12月01日","dictPriceList":[{"price":"价格待定","dictName":"橡树珑湾","dictId":281479}]},{"time":"12月05日","dictPriceList":[{"price":"价格待定","dictName":"住总如院","dictId":314685}]},{"time":"12月06日","dictPriceList":[{"price":"78148.0元/㎡","dictName":"华樾北京","dictId":318731}]},{"time":"12月10日","dictPriceList":[{"price":"62766.0元/㎡","dictName":"禧悦学府","dictId":314469}]},{"time":"12月16日","dictPriceList":[{"price":"52449.0元/㎡","dictName":"中海寰宇时代","dictId":319066}]},{"time":"12月31日","dictPriceList":[{"price":"58802.0元/㎡","dictName":"长安云锦","dictId":280746}]}]}}<br/>
+返回json:操作成功<br/>
+</div>
+</td>
+<td></td>
+<td>0</td>
+<td>com.fc.newHouse.HouseOpenTime@76f7d241</td></tr>
+</table><p>
+</body>
+</html>
