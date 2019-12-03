@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="29.957" tests="52" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="24.424" tests="52" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="D:\BaiduNetdiskDownload\JDK8_64\jre\bin"/>
@@ -64,56 +64,56 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase name="filterCon" classname="com.fc.community.AllSiteData" time="0.671"/>
-  <testcase name="filterCon" classname="com.fc.community.Collection" time="3.156"/>
-  <testcase name="filterCon" classname="com.fc.community.CollectionStatus" time="0.091"/>
-  <testcase name="filterCon" classname="com.fc.community.CommunityDetail" time="0.511"/>
-  <testcase name="filterCon" classname="com.fc.community.CommunityList" time="1.369"/>
-  <testcase name="filterCon" classname="com.fc.community.FilterCondition" time="0.032"/>
-  <testcase name="filterCon" classname="com.fc.community.GetSeneschal" time="0.002"/>
-  <testcase name="filterCon" classname="com.fc.community.HotHouseRents" time="0.28"/>
-  <testcase name="filterCon" classname="com.fc.community.HotHouses" time="0.316"/>
+  <testcase name="filterCon" classname="com.fc.community.AllSiteData" time="0.638"/>
+  <testcase name="filterCon" classname="com.fc.community.Collection" time="2.295"/>
+  <testcase name="filterCon" classname="com.fc.community.CollectionStatus" time="0.061"/>
+  <testcase name="filterCon" classname="com.fc.community.CommunityDetail" time="0.392"/>
+  <testcase name="filterCon" classname="com.fc.community.CommunityList" time="1.009"/>
+  <testcase name="filterCon" classname="com.fc.community.FilterCondition" time="0.022"/>
+  <testcase name="filterCon" classname="com.fc.community.GetSeneschal" time="0.001"/>
+  <testcase name="filterCon" classname="com.fc.community.HotHouseRents" time="0.773"/>
+  <testcase name="filterCon" classname="com.fc.community.HotHouses" time="0.233"/>
   <testcase name="filterCon" classname="com.fc.community.HotWord" time="0.003"/>
-  <testcase name="filterCon" classname="com.fc.community.ListsByLpIds" time="0.05"/>
-  <testcase name="filterCon" classname="com.fc.community.Metion" time="0.006"/>
-  <testcase name="filterCon" classname="com.fc.community.NearHouse" time="0.28"/>
-  <testcase name="filterCon" classname="com.fc.community.NearHouseRent" time="0.319"/>
-  <testcase name="filterCon" classname="com.fc.newHouse.GetSiteList" time="3.323"/>
-  <testcase name="filterCon" classname="com.fc.newHouse.HouseDetail" time="0.038"/>
-  <testcase name="filterCon" classname="com.fc.newHouse.HouseHeader" time="0.023"/>
-  <testcase name="filterCon" classname="com.fc.newHouse.HouseIndex" time="2.523"/>
-  <testcase name="filterCon" classname="com.fc.newHouse.HouseList" time="2.465"/>
-  <testcase name="filterCon" classname="com.fc.newHouse.HouseImg" time="0.733"/>
-  <testcase name="filterCon" classname="com.fc.newHouse.HouseRoomtypeDetail" time="0.384"/>
-  <testcase name="filterCon" classname="com.fc.newHouse.HouseTrendDetail" time="0.587"/>
-  <testcase name="filterCon" classname="com.fc.newHouse.HouseRate" time="0.011"/>
-  <testcase name="filterCon" classname="com.fc.newHouse.HouseMapLocation" time="0.226"/>
-  <testcase name="filterCon" classname="com.fc.newHouse.HouseMap" time="0.619"/>
-  <testcase name="filterCon" classname="com.fc.newHouse.HouseMapArea" time="0.087"/>
-  <testcase name="filterCon" classname="com.fc.newHouse.HouseSiteNewList" time="0.071"/>
-  <testcase name="filterCon" classname="com.fc.newHouse.HouseSiteHotList" time="0.015"/>
-  <testcase name="filterCon" classname="com.fc.newHouse.HouseRoomBenefit" time="0.149"/>
-  <testcase name="filterCon" classname="com.fc.newHouse.HouseOpenTime" time="0.054"/>
-  <testcase name="filterCon" classname="com.fc.newHouse.HouseSites" time="2.553"/>
+  <testcase name="filterCon" classname="com.fc.community.ListsByLpIds" time="0.033"/>
+  <testcase name="filterCon" classname="com.fc.community.Metion" time="0.007"/>
+  <testcase name="filterCon" classname="com.fc.community.NearHouse" time="0.394"/>
+  <testcase name="filterCon" classname="com.fc.community.NearHouseRent" time="0.257"/>
+  <testcase name="filterCon" classname="com.fc.newHouse.GetSiteList" time="2.536"/>
+  <testcase name="filterCon" classname="com.fc.newHouse.HouseDetail" time="0.027"/>
+  <testcase name="filterCon" classname="com.fc.newHouse.HouseHeader" time="0.017"/>
+  <testcase name="filterCon" classname="com.fc.newHouse.HouseIndex" time="2.003"/>
+  <testcase name="filterCon" classname="com.fc.newHouse.HouseList" time="1.932"/>
+  <testcase name="filterCon" classname="com.fc.newHouse.HouseImg" time="0.564"/>
+  <testcase name="filterCon" classname="com.fc.newHouse.HouseRoomtypeDetail" time="0.295"/>
+  <testcase name="filterCon" classname="com.fc.newHouse.HouseTrendDetail" time="0.437"/>
+  <testcase name="filterCon" classname="com.fc.newHouse.HouseRate" time="0.01"/>
+  <testcase name="filterCon" classname="com.fc.newHouse.HouseMapLocation" time="0.171"/>
+  <testcase name="filterCon" classname="com.fc.newHouse.HouseMap" time="0.478"/>
+  <testcase name="filterCon" classname="com.fc.newHouse.HouseMapArea" time="0.065"/>
+  <testcase name="filterCon" classname="com.fc.newHouse.HouseSiteNewList" time="0.05"/>
+  <testcase name="filterCon" classname="com.fc.newHouse.HouseSiteHotList" time="0.013"/>
+  <testcase name="filterCon" classname="com.fc.newHouse.HouseRoomBenefit" time="0.112"/>
+  <testcase name="filterCon" classname="com.fc.newHouse.HouseOpenTime" time="0.044"/>
+  <testcase name="filterCon" classname="com.fc.newHouse.HouseSites" time="2.04"/>
   <testcase name="filterCon" classname="com.fc.newHouse.HouseActive" time="0.009"/>
-  <testcase name="filterCon" classname="com.fc.newHouse.HouseDetailByDictIds" time="0.474"/>
-  <testcase name="filterCon" classname="com.fc.newHouse.HouseRoomtypeList" time="0.166"/>
-  <testcase name="filterCon" classname="com.fc.newHouse.HousePriceTrend" time="0.229"/>
-  <testcase name="filterCon" classname="com.fc.newHouse.HouseRecommend" time="0.209"/>
-  <testcase name="filterCon" classname="com.fc.newHouse.HouseCorrection" time="0.001"/>
-  <testcase name="filterCon" classname="com.fc.newHouse.HouseFilter" time="4.922"/>
-  <testcase name="filterCon" classname="com.fc.newHouse.HouseNewTrend" time="0.081"/>
-  <testcase name="filterCon" classname="com.fc.newHouse.HouseEnPerfixList" time="0.554"/>
-  <testcase name="filterCon" classname="com.fc.headNet.Active" time="0.006"/>
+  <testcase name="filterCon" classname="com.fc.newHouse.HouseDetailByDictIds" time="0.38"/>
+  <testcase name="filterCon" classname="com.fc.newHouse.HouseRoomtypeList" time="0.133"/>
+  <testcase name="filterCon" classname="com.fc.newHouse.HousePriceTrend" time="0.185"/>
+  <testcase name="filterCon" classname="com.fc.newHouse.HouseRecommend" time="0.15"/>
+  <testcase name="filterCon" classname="com.fc.newHouse.HouseCorrection" time="0.003"/>
+  <testcase name="filterCon" classname="com.fc.newHouse.HouseFilter" time="3.891"/>
+  <testcase name="filterCon" classname="com.fc.newHouse.HouseNewTrend" time="0.065"/>
+  <testcase name="filterCon" classname="com.fc.newHouse.HouseEnPerfixList" time="0.426"/>
+  <testcase name="filterCon" classname="com.fc.headNet.Active" time="0.004"/>
   <testcase name="filterCon" classname="com.fc.headNet.CheckSurvey" time="0.001"/>
-  <testcase name="filterCon" classname="com.fc.headNet.Exists" time="0.004"/>
-  <testcase name="filterCon" classname="com.fc.headNet.FilterList" time="0.131"/>
-  <testcase name="filterCon" classname="com.fc.headNet.GetDictById" time="0.026"/>
+  <testcase name="filterCon" classname="com.fc.headNet.Exists" time="0.003"/>
+  <testcase name="filterCon" classname="com.fc.headNet.FilterList" time="0.103"/>
+  <testcase name="filterCon" classname="com.fc.headNet.GetDictById" time="0.018"/>
   <testcase name="filterCon" classname="com.fc.headNet.GetDictListByName" time="0.001"/>
-  <testcase name="filterCon" classname="com.fc.headNet.Getinfo" time="0.004"/>
-  <testcase name="filterCon" classname="com.fc.headNet.GetRecommend" time="0.196"/>
-  <testcase name="filterCon" classname="com.fc.headNet.NetGetSiteList" time="0.372"/>
+  <testcase name="filterCon" classname="com.fc.headNet.Getinfo" time="0.005"/>
+  <testcase name="filterCon" classname="com.fc.headNet.GetRecommend" time="0.205"/>
+  <testcase name="filterCon" classname="com.fc.headNet.NetGetSiteList" time="0.289"/>
   <testcase name="filterCon" classname="com.fc.headNet.GetSurvey" time="0.001"/>
-  <testcase name="filterCon" classname="com.fc.headNet.RoomCard" time="0.024"/>
+  <testcase name="filterCon" classname="com.fc.headNet.RoomCard" time="0.016"/>
   <testcase name="filterCon" classname="com.fc.headNet.UcmsFilterList" time="0.009"/>
 </testsuite>

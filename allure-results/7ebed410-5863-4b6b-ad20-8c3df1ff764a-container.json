@@ -1,0 +1,1 @@
+{"uuid":"7ebed410-5863-4b6b-ad20-8c3df1ff764a","name":"总网：根据楼盘ID获取活动信息","start":1575366624569,"stop":1575366624660,"children":["8b662b1d-e65a-4ec8-ad6c-d41296aa716b"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","start":1575366624569,"stop":1575366624569}]}
