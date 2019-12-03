@@ -101,9 +101,9 @@ public class GetRecommend extends TestBase {
                         String dictName=jsonArray.getJSONObject(i).getString("dictName");
                         list.add(dictName);
                     }
-                    System.out.println(list);
+                    System.out.println("==================="+list);
 
-                    String name="燕西华府";
+                    String name="泰禾·金府大院";
                     if (list.contains(name)){
                         System.out.println("总网:好房推荐："+name);
                         Assert.assertTrue(true);

@@ -3,176 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5ec67fc8-747f-4548-835a-9b107edf08ea" name="Default Changelist" comment="tijiao">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.community.AllSiteData.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.community.AllSiteData.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.community.Collection.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.community.Collection.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.community.CollectionStatus.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.community.CollectionStatus.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.community.CommunityDetail.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.community.CommunityDetail.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.community.CommunityList.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.community.CommunityList.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.community.FilterCondition.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.community.FilterCondition.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.community.GetSeneschal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.community.GetSeneschal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.community.HotHouseRents.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.community.HotHouseRents.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.community.HotHouses.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.community.HotHouses.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.community.HotWord.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.community.HotWord.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.community.ListsByLpIds.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.community.ListsByLpIds.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.community.Metion.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.community.Metion.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.community.NearHouse.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.community.NearHouse.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.community.NearHouseRent.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.community.NearHouseRent.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.headNet.Active.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.headNet.Active.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.headNet.CheckSurvey.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.headNet.CheckSurvey.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.headNet.Exists.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.headNet.Exists.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.headNet.FilterList.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.headNet.FilterList.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.headNet.GetDictById.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.headNet.GetDictById.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.headNet.GetDictListByName.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.headNet.GetDictListByName.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.headNet.GetRecommend.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.headNet.GetRecommend.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.headNet.GetSurvey.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.headNet.GetSurvey.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.headNet.Getinfo.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.headNet.Getinfo.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.headNet.NetGetSiteList.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.headNet.NetGetSiteList.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.headNet.RoomCard.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.headNet.RoomCard.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.headNet.UcmsFilterList.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.headNet.UcmsFilterList.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.newHouse.GetSiteList.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.newHouse.GetSiteList.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.newHouse.HouseActive.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.newHouse.HouseActive.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.newHouse.HouseCorrection.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.newHouse.HouseCorrection.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.newHouse.HouseDetail.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.newHouse.HouseDetail.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.newHouse.HouseDetailByDictIds.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.newHouse.HouseDetailByDictIds.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.newHouse.HouseEnPerfixList.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.newHouse.HouseEnPerfixList.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.newHouse.HouseFilter.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.newHouse.HouseFilter.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.newHouse.HouseHeader.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.newHouse.HouseHeader.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.newHouse.HouseImg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.newHouse.HouseImg.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.newHouse.HouseIndex.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.newHouse.HouseIndex.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.newHouse.HouseList.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.newHouse.HouseList.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.newHouse.HouseMap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.newHouse.HouseMap.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.newHouse.HouseMapArea.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.newHouse.HouseMapArea.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.newHouse.HouseMapLocation.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.newHouse.HouseMapLocation.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.newHouse.HouseNewTrend.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.newHouse.HouseNewTrend.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.newHouse.HouseOpenTime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.newHouse.HouseOpenTime.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.newHouse.HousePriceTrend.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.newHouse.HousePriceTrend.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.newHouse.HouseRate.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.newHouse.HouseRate.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.newHouse.HouseRecommend.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.newHouse.HouseRecommend.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.newHouse.HouseRoomBenefit.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.newHouse.HouseRoomBenefit.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.newHouse.HouseRoomtypeDetail.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.newHouse.HouseRoomtypeDetail.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.newHouse.HouseRoomtypeList.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.newHouse.HouseRoomtypeList.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.newHouse.HouseSiteHotList.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.newHouse.HouseSiteHotList.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.newHouse.HouseSiteNewList.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.newHouse.HouseSiteNewList.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.newHouse.HouseSites.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.newHouse.HouseSites.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.newHouse.HouseTrendDetail.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.newHouse.HouseTrendDetail.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/总网/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/总网/methods-alphabetical.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/总网/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/总网/methods.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/总网/reporter-output.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/总网/reporter-output.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/接口/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/接口/methods-alphabetical.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/接口/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/接口/methods.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/接口/reporter-output.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/接口/reporter-output.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/新房/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/新房/methods-alphabetical.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/新房/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/新房/methods.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/新房/reporter-output.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/新房/reporter-output.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/总网/总网：全国站点信息.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/总网/总网：全国站点信息.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/总网/总网：全国站点信息.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/总网/总网：全国站点信息.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/总网/总网：好房推荐.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/总网/总网：好房推荐.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/总网/总网：好房推荐.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/总网/总网：好房推荐.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/总网/总网：房源卡片.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/总网/总网：房源卡片.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/总网/总网：房源卡片.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/总网/总网：房源卡片.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/总网/总网：房源筛选接口列表.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/总网/总网：房源筛选接口列表.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/总网/总网：房源筛选接口列表.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/总网/总网：房源筛选接口列表.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/总网/总网：根据楼盘ID获取活动信息.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/总网/总网：根据楼盘ID获取活动信息.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/总网/总网：根据楼盘ID获取活动信息.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/总网/总网：根据楼盘ID获取活动信息.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/总网/总网：根据楼盘名称站点获取楼盘列表.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/总网/总网：根据楼盘名称站点获取楼盘列表.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/总网/总网：根据楼盘名称站点获取楼盘列表.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/总网/总网：根据楼盘名称站点获取楼盘列表.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/总网/总网：楼盘_小区卡片.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/总网/总网：楼盘_小区卡片.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/总网/总网：楼盘_小区卡片.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/总网/总网：楼盘_小区卡片.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/总网/总网：楼盘_小区筛选接口列表.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/总网/总网：楼盘_小区筛选接口列表.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/总网/总网：楼盘_小区筛选接口列表.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/总网/总网：楼盘_小区筛选接口列表.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/总网/总网：调查问卷-根据id获取问卷信息.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/总网/总网：调查问卷-根据id获取问卷信息.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/总网/总网：调查问卷-根据id获取问卷信息.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/总网/总网：调查问卷-根据id获取问卷信息.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/总网/总网：调查问卷接口-判断问卷是否存在.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/总网/总网：调查问卷接口-判断问卷是否存在.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/总网/总网：调查问卷接口-判断问卷是否存在.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/总网/总网：调查问卷接口-判断问卷是否存在.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/总网/总网：风芒活动-判断活动是否存在.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/总网/总网：风芒活动-判断活动是否存在.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/总网/总网：风芒活动-判断活动是否存在.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/总网/总网：风芒活动-判断活动是否存在.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/总网/总网：风芒活动-根据id获取风芒活动信息.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/总网/总网：风芒活动-根据id获取风芒活动信息.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/总网/总网：风芒活动-根据id获取风芒活动信息.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/总网/总网：风芒活动-根据id获取风芒活动信息.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/接口/小区列表(根据小区ID筛选).html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/接口/小区列表(根据小区ID筛选).html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/接口/小区列表(根据小区ID筛选).xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/接口/小区列表(根据小区ID筛选).xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/接口/小区列表（wap pc）公用.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/接口/小区列表（wap pc）公用.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/接口/小区列表（wap pc）公用.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/接口/小区列表（wap pc）公用.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/接口/小区明细.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/接口/小区明细.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/接口/小区明细.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/接口/小区明细.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/接口/小区筛选条件(wap,pc共用).html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/接口/小区筛选条件(wap,pc共用).html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/接口/小区筛选条件(wap,pc共用).xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/接口/小区筛选条件(wap,pc共用).xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/接口/搜索热词接口.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/接口/搜索热词接口.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/接口/搜索热词接口.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/接口/搜索热词接口.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/接口/搜索联想接口.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/接口/搜索联想接口.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/接口/搜索联想接口.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/接口/搜索联想接口.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/接口/收藏.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/接口/收藏.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/接口/收藏.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/接口/收藏.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/接口/查看收藏状态.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/接口/查看收藏状态.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/接口/查看收藏状态.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/接口/查看收藏状态.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/接口/查询小区下知了管家数据.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/接口/查询小区下知了管家数据.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/接口/查询小区下知了管家数据.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/接口/查询小区下知了管家数据.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/接口/热门二手房.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/接口/热门二手房.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/接口/热门二手房.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/接口/热门二手房.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/接口/热门租房.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/接口/热门租房.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/接口/热门租房.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/接口/热门租房.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/接口/获取所有站点数据（wap）TEST.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/接口/获取所有站点数据（wap）TEST.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/接口/获取所有站点数据（wap）TEST.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/接口/获取所有站点数据（wap）TEST.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/接口/附近小区新上二手房接口(pc).html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/接口/附近小区新上二手房接口(pc).html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/接口/附近小区新上二手房接口(pc).xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/接口/附近小区新上二手房接口(pc).xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/接口/附近小区新上租房接口(pc).html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/接口/附近小区新上租房接口(pc).html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/接口/附近小区新上租房接口(pc).xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/接口/附近小区新上租房接口(pc).xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：为您推荐(PC_WAP).html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/新房/新房：为您推荐(PC_WAP).html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：为您推荐(PC_WAP).xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/新房/新房：为您推荐(PC_WAP).xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：列表页筛选项接口(PC_WAP).html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/新房/新房：列表页筛选项接口(PC_WAP).html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：列表页筛选项接口(PC_WAP).xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/新房/新房：列表页筛选项接口(PC_WAP).xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：利率-贷款计算器(PC_WAP).html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/新房/新房：利率-贷款计算器(PC_WAP).html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：利率-贷款计算器(PC_WAP).xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/新房/新房：利率-贷款计算器(PC_WAP).xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：地图找房(PC_WAP)).html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/新房/新房：地图找房(PC_WAP)).html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：地图找房(PC_WAP)).xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/新房/新房：地图找房(PC_WAP)).xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：地图找房区域(PC_WAP).html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/新房/新房：地图找房区域(PC_WAP).html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：地图找房区域(PC_WAP).xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/新房/新房：地图找房区域(PC_WAP).xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：地图找房商圈(PC_WAP).html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/新房/新房：地图找房商圈(PC_WAP).html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：地图找房商圈(PC_WAP).xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/新房/新房：地图找房商圈(PC_WAP).xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：当前站点新盘(PC_WAP).html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/新房/新房：当前站点新盘(PC_WAP).html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：当前站点新盘(PC_WAP).xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/新房/新房：当前站点新盘(PC_WAP).xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：当前站点热门楼盘(PC_WAP).html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/新房/新房：当前站点热门楼盘(PC_WAP).html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：当前站点热门楼盘(PC_WAP).xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/新房/新房：当前站点热门楼盘(PC_WAP).xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：根据英文首字母搜索楼盘.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/新房/新房：根据英文首字母搜索楼盘.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：根据英文首字母搜索楼盘.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/新房/新房：根据英文首字母搜索楼盘.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：楼盘列表页.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/新房/新房：楼盘列表页.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：楼盘列表页.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/新房/新房：楼盘列表页.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：楼盘动态详情页接口（PC_WAP）.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/新房/新房：楼盘动态详情页接口（PC_WAP）.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：楼盘动态详情页接口（PC_WAP）.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/新房/新房：楼盘动态详情页接口（PC_WAP）.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：楼盘字典房价走势接口（PC_WAP）.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/新房/新房：楼盘字典房价走势接口（PC_WAP）.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：楼盘字典房价走势接口（PC_WAP）.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/新房/新房：楼盘字典房价走势接口（PC_WAP）.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：楼盘户型列表接口（PC_WAP）.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/新房/新房：楼盘户型列表接口（PC_WAP）.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：楼盘户型列表接口（PC_WAP）.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/新房/新房：楼盘户型列表接口（PC_WAP）.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：楼盘户型详情页接口(PC_WAP).html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/新房/新房：楼盘户型详情页接口(PC_WAP).html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：楼盘户型详情页接口(PC_WAP).xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/新房/新房：楼盘户型详情页接口(PC_WAP).xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：楼盘相册列表接口.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/新房/新房：楼盘相册列表接口.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：楼盘相册列表接口.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/新房/新房：楼盘相册列表接口.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：楼盘纠错接口.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/新房/新房：楼盘纠错接口.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：楼盘纠错接口.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/新房/新房：楼盘纠错接口.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：楼盘详情(批量).html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/新房/新房：楼盘详情(批量).html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：楼盘详情(批量).xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/新房/新房：楼盘详情(批量).xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：楼盘详情内页(PC_WAP).html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/新房/新房：楼盘详情内页(PC_WAP).html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：楼盘详情内页(PC_WAP).xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/新房/新房：楼盘详情内页(PC_WAP).xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：楼盘详情头部公用接口(PC).html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/新房/新房：楼盘详情头部公用接口(PC).html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：楼盘详情头部公用接口(PC).xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/新房/新房：楼盘详情头部公用接口(PC).xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：楼盘详情首页接口(PC_WAP).html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/新房/新房：楼盘详情首页接口(PC_WAP).html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：楼盘详情首页接口(PC_WAP).xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/新房/新房：楼盘详情首页接口(PC_WAP).xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：站点列表接口（PC_WAP.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/新房/新房：站点列表接口（PC_WAP.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：站点列表接口（PC_WAP.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/新房/新房：站点列表接口（PC_WAP.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：站点列表接口（PC_WAP）.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/新房/新房：站点列表接口（PC_WAP）.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：站点列表接口（PC_WAP）.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/新房/新房：站点列表接口（PC_WAP）.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：获取所有站点楼盘信息.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/新房/新房：获取所有站点楼盘信息.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：获取所有站点楼盘信息.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/新房/新房：获取所有站点楼盘信息.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：首页开盘日历接口.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/新房/新房：首页开盘日历接口.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：首页开盘日历接口.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/新房/新房：首页开盘日历接口.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：首页户型点评接口.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/新房/新房：首页户型点评接口.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：首页户型点评接口.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/新房/新房：首页户型点评接口.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：首页最新动态.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/新房/新房：首页最新动态.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：首页最新动态.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/新房/新房：首页最新动态.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fc/headNet/GetRecommend.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fc/headNet/GetRecommend.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -225,8 +56,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/headNet/GetRecommend.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="109" column="54" selection-start-line="109" selection-start-column="44" selection-end-line="109" selection-end-column="54" />
+            <state relative-caret-position="220">
+              <caret line="100" column="89" lean-forward="true" selection-start-line="100" selection-start-column="89" selection-end-line="100" selection-end-column="89" />
             </state>
           </provider>
         </entry>
@@ -331,7 +162,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/fc/headNet/FilterList.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/fc/headNet/GetDictById.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/fc/headNet/Getinfo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/fc/headNet/GetRecommend.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/fc/headNet/GetSurvey.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/fc/headNet/NetGetSiteList.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/fc/headNet/RoomCard.java" />
@@ -343,6 +173,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseCorrection.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseRecommend.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fc/headNet/GetRecommend.java" />
       </list>
     </option>
   </component>
@@ -466,7 +297,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1575367489470" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1575367798868" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -609,20 +440,11 @@
       <workItem from="1572504004893" duration="40194000" />
       <workItem from="1574324598007" duration="49560000" />
       <workItem from="1575007316035" duration="25848000" />
-      <workItem from="1575358993248" duration="4756000" />
+      <workItem from="1575358993248" duration="5237000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="D__project_test_allureTest_testng1_xml - 2019.12.03 at 15h 58m 01s.xml">
-      <configuration name="D:/project/test/allureTest/testng1.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="HouseRecommend_filterCon - 2019.12.03 at 15h 59m 13s.xml">
-      <configuration name="HouseRecommend.filterCon" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="HouseRecommend_filterCon - 2019.12.03 at 15h 59m 21s.xml">
-      <configuration name="HouseRecommend.filterCon" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="HouseRecommend_filterCon - 2019.12.03 at 15h 59m 33s.xml">
       <configuration name="HouseRecommend.filterCon" configurationId="TestNG" />
     </history-entry>
@@ -644,9 +466,18 @@
     <history-entry file="D__project_test_allureTest_testng2_xml - 2019.12.03 at 16h 25m 07s.xml">
       <configuration name="D:/project/test/allureTest/testng2.xml" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="GetRecommend_filterCon - 2019.12.03 at 18h 03m 15s.xml">
+      <configuration name="GetRecommend.filterCon" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="GetRecommend_filterCon - 2019.12.03 at 18h 04m 47s.xml">
+      <configuration name="GetRecommend.filterCon" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="GetRecommend_filterCon - 2019.12.03 at 18h 05m 45s.xml">
+      <configuration name="GetRecommend.filterCon" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="120385000" />
+    <option name="totallyTimeSpent" value="120866000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -661,7 +492,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2761194" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2761194" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -671,8 +502,8 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.37744033" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.73137975" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.37744033" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.46420825" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32938388" />
@@ -1111,6 +942,12 @@
           <properties />
           <option name="timeStamp" value="102" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/fc/headNet/GetRecommend.java</url>
+          <line>103</line>
+          <properties />
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -1463,8 +1300,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/headNet/GetRecommend.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="109" column="54" selection-start-line="109" selection-start-column="44" selection-end-line="109" selection-end-column="54" />
+        <state relative-caret-position="220">
+          <caret line="100" column="89" lean-forward="true" selection-start-line="100" selection-start-column="89" selection-end-line="100" selection-end-column="89" />
         </state>
       </provider>
     </entry>
