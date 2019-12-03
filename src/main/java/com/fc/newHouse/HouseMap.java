@@ -101,7 +101,7 @@ public class HouseMap extends TestBase {
                        list.add(name);
                     }
                     System.out.println("==================="+list);
-                    String expectArea="科技园区";
+                    String expectArea="密云城区";
                     if (list.contains(expectArea)){
                         System.out.println("地图找房包含："+expectArea);
                         Assert.assertTrue(true);

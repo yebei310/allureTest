@@ -99,7 +99,7 @@ public class HouseEnPerfixList extends TestBase {
                         dictNames.add(dictName);
                     }
                     System.out.println("11111111111111"+dictNames);
-                    String expectTrendName="奥园云璟";
+                    String expectTrendName="奥园金澜湾";
                     if (dictNames.contains(expectTrendName)){
                         System.out.println("楼盘包含："+expectTrendName);
                         Assert.assertTrue(true);

@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ec67fc8-747f-4548-835a-9b107edf08ea" name="Default Changelist" comment="tijiao">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseEnPerfixList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseEnPerfixList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseMap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseSiteNewList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseSiteNewList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/headNet/GetRecommend.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fc/headNet/GetRecommend.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/headNet/RoomCard.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fc/headNet/RoomCard.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HouseEnPerfixList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HouseEnPerfixList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HouseMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HouseMap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HouseSiteNewList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HouseSiteNewList.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -63,11 +68,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseMap.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="440">
-              <caret line="109" column="66" lean-forward="true" selection-start-line="109" selection-start-column="66" selection-end-line="109" selection-end-column="66" />
+              <caret line="109" column="52" selection-start-line="109" selection-start-column="44" selection-end-line="109" selection-end-column="52" />
             </state>
           </provider>
         </entry>
@@ -75,17 +80,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseSiteNewList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="107" column="50" selection-start-line="107" selection-start-column="50" selection-end-line="107" selection-end-column="50" />
+            <state relative-caret-position="330">
+              <caret line="101" column="43" selection-start-line="101" selection-start-column="43" selection-end-line="101" selection-end-column="43" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseEnPerfixList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="110" column="21" lean-forward="true" selection-start-line="110" selection-start-column="21" selection-end-line="110" selection-end-column="21" />
+            <state relative-caret-position="176">
+              <caret line="99" column="21" lean-forward="true" selection-start-line="99" selection-start-column="21" selection-end-line="99" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/headNet/RoomCard.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="281">
+              <caret line="93" column="59" selection-start-line="93" selection-start-column="59" selection-end-line="93" selection-end-column="59" />
             </state>
           </provider>
         </entry>
@@ -189,7 +203,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/fc/headNet/Getinfo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/fc/headNet/GetSurvey.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/fc/headNet/NetGetSiteList.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/fc/headNet/RoomCard.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/fc/headNet/UcmsFilterList.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/fc/headNet/GetDictListByName.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/fc/community/CollectionStatus.java" />
@@ -200,8 +213,9 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/fc/headNet/GetRecommend.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseMap.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseSiteNewList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fc/headNet/RoomCard.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseEnPerfixList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseSiteNewList.java" />
       </list>
     </option>
   </component>
@@ -325,7 +339,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1575368040174" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1575368590360" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -360,29 +374,9 @@
     </option>
   </component>
   <component name="RunManager" selected="TestNG.GetRecommend.filterCon">
-    <configuration name="D:/project/test/allureTest/testng1.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="allureTest" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng1.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="D:/project/test/allureTest/testng2.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="allureTest" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/testng2.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="D:/project/test/allureTest/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="allureTest" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
       <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
@@ -426,7 +420,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HouseRecommend.filterCon" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="HouseEnPerfixList.filterCon" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="allureTest" />
       <extension name="coverage">
         <pattern>
@@ -435,7 +429,43 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.fc.newHouse" />
-      <option name="MAIN_CLASS_NAME" value="com.fc.newHouse.HouseRecommend" />
+      <option name="MAIN_CLASS_NAME" value="com.fc.newHouse.HouseEnPerfixList" />
+      <option name="METHOD_NAME" value="filterCon" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HouseMap.filterCon" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="allureTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fc.newHouse.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.fc.newHouse" />
+      <option name="MAIN_CLASS_NAME" value="com.fc.newHouse.HouseMap" />
+      <option name="METHOD_NAME" value="filterCon" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HouseSiteNewList.filterCon" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="allureTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fc.newHouse.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.fc.newHouse" />
+      <option name="MAIN_CLASS_NAME" value="com.fc.newHouse.HouseSiteNewList" />
       <option name="METHOD_NAME" value="filterCon" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -447,10 +477,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="TestNG.GetRecommend.filterCon" />
+        <item itemvalue="TestNG.HouseMap.filterCon" />
+        <item itemvalue="TestNG.HouseSiteNewList.filterCon" />
+        <item itemvalue="TestNG.HouseEnPerfixList.filterCon" />
         <item itemvalue="TestNG.D:/project/test/allureTest/testng2.xml" />
-        <item itemvalue="TestNG.D:/project/test/allureTest/testng1.xml" />
-        <item itemvalue="TestNG.D:/project/test/allureTest/testng.xml" />
-        <item itemvalue="TestNG.HouseRecommend.filterCon" />
       </list>
     </recent_temporary>
   </component>
@@ -468,23 +498,11 @@
       <workItem from="1572504004893" duration="40194000" />
       <workItem from="1574324598007" duration="49560000" />
       <workItem from="1575007316035" duration="25848000" />
-      <workItem from="1575358993248" duration="5488000" />
+      <workItem from="1575358993248" duration="5980000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="D__project_test_allureTest_testng1_xml - 2019.12.03 at 15h 59m 46s.xml">
-      <configuration name="D:/project/test/allureTest/testng1.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="D__project_test_allureTest_testng2_xml - 2019.12.03 at 15h 59m 58s.xml">
-      <configuration name="D:/project/test/allureTest/testng2.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="HouseCorrection - 2019.12.03 at 16h 13m 31s.xml">
-      <configuration name="HouseCorrection" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="D__project_test_allureTest_testng_xml - 2019.12.03 at 16h 24m 47s.xml">
-      <configuration name="D:/project/test/allureTest/testng.xml" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="D__project_test_allureTest_testng1_xml - 2019.12.03 at 16h 24m 58s.xml">
       <configuration name="D:/project/test/allureTest/testng1.xml" configurationId="TestNG" />
     </history-entry>
@@ -503,9 +521,21 @@
     <history-entry file="GetRecommend_filterCon - 2019.12.03 at 18h 09m 53s.xml">
       <configuration name="GetRecommend.filterCon" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="HouseEnPerfixList_filterCon - 2019.12.03 at 18h 18m 27s.xml">
+      <configuration name="HouseEnPerfixList.filterCon" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="HouseEnPerfixList_filterCon - 2019.12.03 at 18h 19m 13s.xml">
+      <configuration name="HouseEnPerfixList.filterCon" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="HouseSiteNewList_filterCon - 2019.12.03 at 18h 21m 21s.xml">
+      <configuration name="HouseSiteNewList.filterCon" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="HouseMap_filterCon - 2019.12.03 at 18h 21m 39s.xml">
+      <configuration name="HouseMap.filterCon" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="121117000" />
+    <option name="totallyTimeSpent" value="121609000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -518,9 +548,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2761194" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2761194" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -530,7 +559,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.37744033" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.37744033" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.46420825" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -761,12 +790,6 @@
           <option name="timeStamp" value="49" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseSiteNewList.java</url>
-          <line>92</line>
-          <properties />
-          <option name="timeStamp" value="50" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseSiteHotList.java</url>
           <line>92</line>
           <properties />
@@ -976,6 +999,12 @@
           <properties />
           <option name="timeStamp" value="106" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseSiteNewList.java</url>
+          <line>101</line>
+          <properties />
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -1180,13 +1209,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/headNet/RoomCard.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
-          <caret line="52" column="82" selection-start-line="52" selection-start-column="82" selection-end-line="52" selection-end-column="82" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/headNet/UcmsFilterList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
@@ -1318,24 +1340,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseMap.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/headNet/RoomCard.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="109" column="66" lean-forward="true" selection-start-line="109" selection-start-column="66" selection-end-line="109" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseSiteNewList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="107" column="50" selection-start-line="107" selection-start-column="50" selection-end-line="107" selection-end-column="50" />
+        <state relative-caret-position="281">
+          <caret line="93" column="59" selection-start-line="93" selection-start-column="59" selection-end-line="93" selection-end-column="59" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseEnPerfixList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="110" column="21" lean-forward="true" selection-start-line="110" selection-start-column="21" selection-end-line="110" selection-end-column="21" />
+        <state relative-caret-position="176">
+          <caret line="99" column="21" lean-forward="true" selection-start-line="99" selection-start-column="21" selection-end-line="99" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseSiteNewList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="101" column="43" selection-start-line="101" selection-start-column="43" selection-end-line="101" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="109" column="52" selection-start-line="109" selection-start-column="44" selection-end-line="109" selection-end-column="52" />
         </state>
       </provider>
     </entry>
