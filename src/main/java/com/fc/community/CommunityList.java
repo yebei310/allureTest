@@ -90,6 +90,7 @@ public class CommunityList extends TestBase {
                         ipNames.add(ipName);
                         System.out.println("小区：================="+ipName);
                     }
+                    System.out.println("打印小区："+ipNames);
                     String expectSite="京溪小区";
                     if (ipNames.contains(expectSite)){
                         System.out.println("找到"+expectSite);
