@@ -90,7 +90,8 @@ public class AllSiteData extends TestBase {
                         sites.add(site);
                         System.out.println("站点：================="+site);
                     }
-                    String expectSite="长沙1";
+                    String expectSite="长沙";
+                    System.out.println("=======预期站点"+expectSite);
                     if (sites.contains(expectSite)){
                         System.out.println("找到"+expectSite);
                         Reporter.log("找到"+expectSite);

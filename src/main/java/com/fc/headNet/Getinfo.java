@@ -70,11 +70,11 @@ public class Getinfo extends TestBase {
                JSONObject jsonObject =JSONObject.parseObject(result);
                 Reporter.log("返回json:"+jsonObject);
                 System.out.println("返回json:"+jsonObject);
-                    JSONObject jsonpObject1 = jsonObject.getJSONObject("data");
-                   String name= jsonpObject1.getString("name");
+
+                   String name= jsonObject.getString("msg");
                     String spectName="裕华会园";
-                    if (name.contains(spectName)){
-                        System.out.println("总网:该风芒活动："+spectName);
+                    if (name.contains("活动已结束")){
+                        System.out.println("总网:该风芒活动："+spectName+"已经结束");
                         Assert.assertTrue(true);
                     }else {
                         System.out.println("总网:该风芒活动不存在");

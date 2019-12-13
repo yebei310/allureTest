@@ -77,11 +77,11 @@ public class Exists extends TestBase {
                JSONObject jsonObject =JSONObject.parseObject(result);
                 Reporter.log("返回json:"+jsonObject);
                 System.out.println("返回json:"+jsonObject);
-                    JSONObject jsonpObject1 = jsonObject.getJSONObject("data");
-                   String value= jsonpObject1.getString("is_wchat_open");
+
+                   String value= jsonObject.getString("msg");
                     String spectValue="1";
-                    if (value.contains(spectValue)){
-                        System.out.println("总网:该风芒活动存在");
+                    if (value.contains("活动已结束")){
+                        System.out.println("总网:该风芒活动存在，但已经结束");
                         Assert.assertTrue(true);
                     }else {
                         System.out.println("总网:该风芒活动不存在");

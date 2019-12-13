@@ -2,7 +2,323 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ec67fc8-747f-4548-835a-9b107edf08ea" name="Default Changelist" comment="tijiao">
-      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/023785c6-b169-48b7-9fbb-611e7ead1b3a-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/03ae8901-bce9-4143-a33f-c1d9801078b8-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/0737554d-7580-484f-b8a3-fc7b41fd03d1-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1064066b-131a-4ea9-bc5a-2e1660d9a755-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/10e1d4ab-3333-4008-9e40-4be7821f7c3d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1831be72-6d98-4afc-a829-bcb26353ce30-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1adcd5fd-6ba4-478d-950a-1c5dda4b6f19-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/20c696c0-0d17-4efb-b3f1-3191a1cfa6d7-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/3088c2d8-ae7e-48ec-a7c4-4d1cbb1133f9-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/38171073-0b68-4f37-8ede-af7e64c40f35-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/4514ac17-2442-4564-9d17-03e9b9f7f9dc-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5c76b59f-9c4a-4736-a49d-29b81db5878b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/63a22f9d-ff07-4ca1-a13a-11e4d1f6cfae-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/6b19dfe9-f14e-48ae-bb74-2938e373a4d7-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/71aef77d-f8bb-46ef-8947-3f58d107d1b1-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/77a16350-d9b1-4503-9dce-3112e7fa51ef-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7bfa503b-faa0-433b-9673-8867a553e0a2-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/81d8c158-e2a6-4bcc-85e5-e913c5a13cfe-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/832584b5-3aab-46a3-874e-a98d38c807fa-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/89abbae3-aa4e-4a75-a794-054c22f3d1be-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/8f20f082-ef7e-4f8c-9a5a-88aabdd2724b-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/91a90a82-ac80-4806-8947-e8d57a15e32e-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/95a42293-cf1f-4290-a6fe-11ba2d4854ae-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/96c1e237-67f6-4a4a-b411-e8277c004355-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/96c44b8a-d03f-4b74-9036-20188752a2e8-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/9d6eb120-69ba-4d33-bfe6-b3011d14c141-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/a8087e63-1b13-48b8-b35b-e992eb23ad80-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/aa4840fe-b128-4e4f-832b-ab93a06a5da9-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/aebfe936-1d1a-4568-8d64-49c7a387799f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/af51dafa-d80b-44b3-a593-9a6cb8bd936d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b1a5f557-d8dc-437d-9fda-c8229894f4d8-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b810c166-85cf-4b55-9af6-dc9844eb691f-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b94b9816-6dda-481e-877f-40b94e3a4d17-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c3acad3e-f64c-4dee-b6cc-08902d8988a9-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c8e75707-8009-4222-b074-8caafd4e20ad-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d7c572af-46a8-4f8a-b3f8-b03f1d7cc4be-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/db4e349f-cf75-4da7-b70c-6c360402d9f1-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e18da1d6-2986-449c-bf27-dde00b61ce82-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e32275ca-8318-4422-9f86-ae545280f208-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e883331e-3af4-4d35-bb24-7f05ca262052-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e8f8394b-77ec-4b18-a4e9-7b300621085f-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e91d04ef-bad6-489a-8f9c-1104ecd585ac-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/eaf9d4c0-0fea-4c1d-b1f1-836155e5c00f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/f0ef41a4-67f3-4976-afa1-11db45441447-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/fdc7f092-c2d6-4f09-994d-1aa5bd062f2e-container.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fc/community/AllSiteData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fc/community/AllSiteData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fc/community/Collection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fc/community/Collection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fc/community/CollectionStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fc/community/CollectionStatus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fc/headNet/Exists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fc/headNet/Exists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fc/headNet/Getinfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fc/headNet/Getinfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fc/newHouse/GetSiteList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fc/newHouse/GetSiteList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseImg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseImg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/community/AllSiteData.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fc/community/AllSiteData.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/community/Collection.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fc/community/Collection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/community/CollectionStatus.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fc/community/CollectionStatus.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/community/CommunityList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fc/community/CommunityList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/headNet/Exists.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fc/headNet/Exists.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/headNet/Getinfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fc/headNet/Getinfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/GetSiteList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fc/newHouse/GetSiteList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HouseImg.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HouseImg.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/bullet_point.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/collapseall.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/failed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/jquery-1.7.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.community.AllSiteData.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.community.Collection.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.community.CollectionStatus.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.community.CommunityDetail.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.community.CommunityList.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.community.FilterCondition.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.community.GetSeneschal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.community.HotHouseRents.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.community.HotHouses.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.community.HotWord.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.community.ListsByLpIds.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.community.Metion.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.community.NearHouse.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.community.NearHouseRent.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.headNet.Active.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.headNet.CheckSurvey.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.headNet.Exists.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.headNet.FilterList.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.headNet.GetDictById.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.headNet.GetDictListByName.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.headNet.GetRecommend.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.headNet.GetSurvey.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.headNet.Getinfo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.headNet.NetGetSiteList.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.headNet.RoomCard.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.headNet.UcmsFilterList.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.newHouse.GetSiteList.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.newHouse.HouseActive.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.newHouse.HouseCorrection.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.newHouse.HouseDetail.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.newHouse.HouseDetailByDictIds.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.newHouse.HouseEnPerfixList.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.newHouse.HouseFilter.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.newHouse.HouseHeader.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.newHouse.HouseImg.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.newHouse.HouseIndex.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.newHouse.HouseList.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.newHouse.HouseMap.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.newHouse.HouseMapArea.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.newHouse.HouseMapLocation.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.newHouse.HouseNewTrend.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.newHouse.HouseOpenTime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.newHouse.HousePriceTrend.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.newHouse.HouseRate.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.newHouse.HouseRecommend.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.newHouse.HouseRoomBenefit.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.newHouse.HouseRoomtypeDetail.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.newHouse.HouseRoomtypeList.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.newHouse.HouseSiteHotList.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.newHouse.HouseSiteNewList.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.newHouse.HouseSites.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.fc.newHouse.HouseTrendDetail.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/navigator-bullet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/总网/classes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/总网/groups.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/总网/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/总网/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/总网/methods-alphabetical.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/总网/methods-not-run.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/总网/methods.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/总网/reporter-output.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/总网/testng.xml.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/总网/toc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/总网/总网：全国站点信息.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/总网/总网：好房推荐.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/总网/总网：房源卡片.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/总网/总网：房源筛选接口列表.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/总网/总网：根据楼盘ID获取活动信息.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/总网/总网：根据楼盘名称站点获取楼盘列表.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/总网/总网：楼盘_小区卡片.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/总网/总网：楼盘_小区筛选接口列表.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/总网/总网：调查问卷-根据id获取问卷信息.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/总网/总网：调查问卷接口-判断问卷是否存在.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/总网/总网：风芒活动-判断活动是否存在.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/总网/总网：风芒活动-根据id获取风芒活动信息.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/接口/classes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/接口/groups.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/接口/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/接口/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/接口/methods-alphabetical.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/接口/methods-not-run.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/接口/methods.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/接口/reporter-output.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/接口/testng.xml.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/接口/toc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/接口/小区列表(根据小区ID筛选).properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/接口/小区列表（wap pc）公用.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/接口/小区明细.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/接口/小区筛选条件(wap,pc共用).properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/接口/搜索热词接口.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/接口/搜索联想接口.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/接口/收藏.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/接口/查看收藏状态.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/接口/查询小区下知了管家数据.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/接口/热门二手房.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/接口/热门租房.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/接口/获取所有站点数据（wap）TEST.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/接口/附近小区新上二手房接口(pc).properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/接口/附近小区新上租房接口(pc).properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/新房/classes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/新房/groups.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/新房/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/新房/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/新房/methods-alphabetical.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/新房/methods-not-run.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/新房/methods.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/新房/reporter-output.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/新房/testng.xml.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/新房/toc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/新房/新房：为您推荐(PC_WAP).properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/新房/新房：列表页筛选项接口(PC_WAP).properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/新房/新房：利率-贷款计算器(PC_WAP).properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/新房/新房：地图找房(PC_WAP)).properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/新房/新房：地图找房区域(PC_WAP).properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/新房/新房：地图找房商圈(PC_WAP).properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/新房/新房：当前站点新盘(PC_WAP).properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/新房/新房：当前站点热门楼盘(PC_WAP).properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/新房/新房：根据英文首字母搜索楼盘.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/新房/新房：楼盘列表页.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/新房/新房：楼盘动态详情页接口（PC_WAP）.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/新房/新房：楼盘字典房价走势接口（PC_WAP）.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/新房/新房：楼盘户型列表接口（PC_WAP）.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/新房/新房：楼盘户型详情页接口(PC_WAP).properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/新房/新房：楼盘相册列表接口.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/新房/新房：楼盘纠错接口.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/新房/新房：楼盘详情(批量).properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/新房/新房：楼盘详情内页(PC_WAP).properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/新房/新房：楼盘详情头部公用接口(PC).properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/新房/新房：楼盘详情首页接口(PC_WAP).properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/新房/新房：站点列表接口（PC_WAP.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/新房/新房：站点列表接口（PC_WAP）.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/新房/新房：获取所有站点楼盘信息.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/新房/新房：首页开盘日历接口.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/新房/新房：首页户型点评接口.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/新房/新房：首页最新动态.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/passed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/skipped.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-reports.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-reports.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/总网/总网：全国站点信息.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/总网/总网：全国站点信息.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/总网/总网：好房推荐.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/总网/总网：好房推荐.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/总网/总网：房源卡片.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/总网/总网：房源卡片.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/总网/总网：房源筛选接口列表.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/总网/总网：房源筛选接口列表.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/总网/总网：根据楼盘ID获取活动信息.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/总网/总网：根据楼盘ID获取活动信息.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/总网/总网：根据楼盘名称站点获取楼盘列表.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/总网/总网：根据楼盘名称站点获取楼盘列表.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/总网/总网：楼盘_小区卡片.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/总网/总网：楼盘_小区卡片.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/总网/总网：楼盘_小区筛选接口列表.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/总网/总网：楼盘_小区筛选接口列表.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/总网/总网：调查问卷-根据id获取问卷信息.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/总网/总网：调查问卷-根据id获取问卷信息.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/总网/总网：调查问卷接口-判断问卷是否存在.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/总网/总网：调查问卷接口-判断问卷是否存在.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/总网/总网：风芒活动-判断活动是否存在.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/总网/总网：风芒活动-判断活动是否存在.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/总网/总网：风芒活动-根据id获取风芒活动信息.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/总网/总网：风芒活动-根据id获取风芒活动信息.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/接口/小区列表(根据小区ID筛选).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/接口/小区列表(根据小区ID筛选).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/接口/小区列表（wap pc）公用.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/接口/小区列表（wap pc）公用.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/接口/小区明细.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/接口/小区明细.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/接口/小区筛选条件(wap,pc共用).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/接口/小区筛选条件(wap,pc共用).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/接口/搜索热词接口.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/接口/搜索热词接口.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/接口/搜索联想接口.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/接口/搜索联想接口.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/接口/收藏.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/接口/收藏.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/接口/查看收藏状态.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/接口/查看收藏状态.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/接口/查询小区下知了管家数据.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/接口/查询小区下知了管家数据.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/接口/热门二手房.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/接口/热门二手房.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/接口/热门租房.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/接口/热门租房.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/接口/获取所有站点数据（wap）TEST.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/接口/获取所有站点数据（wap）TEST.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/接口/附近小区新上二手房接口(pc).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/接口/附近小区新上二手房接口(pc).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/接口/附近小区新上租房接口(pc).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/接口/附近小区新上租房接口(pc).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：为您推荐(PC_WAP).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：为您推荐(PC_WAP).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：列表页筛选项接口(PC_WAP).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：列表页筛选项接口(PC_WAP).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：利率-贷款计算器(PC_WAP).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：利率-贷款计算器(PC_WAP).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：地图找房(PC_WAP)).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：地图找房(PC_WAP)).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：地图找房区域(PC_WAP).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：地图找房区域(PC_WAP).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：地图找房商圈(PC_WAP).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：地图找房商圈(PC_WAP).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：当前站点新盘(PC_WAP).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：当前站点新盘(PC_WAP).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：当前站点热门楼盘(PC_WAP).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：当前站点热门楼盘(PC_WAP).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：根据英文首字母搜索楼盘.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：根据英文首字母搜索楼盘.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：楼盘列表页.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：楼盘列表页.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：楼盘动态详情页接口（PC_WAP）.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：楼盘动态详情页接口（PC_WAP）.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：楼盘字典房价走势接口（PC_WAP）.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：楼盘字典房价走势接口（PC_WAP）.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：楼盘户型列表接口（PC_WAP）.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：楼盘户型列表接口（PC_WAP）.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：楼盘户型详情页接口(PC_WAP).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：楼盘户型详情页接口(PC_WAP).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：楼盘相册列表接口.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：楼盘相册列表接口.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：楼盘纠错接口.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：楼盘纠错接口.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：楼盘详情(批量).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：楼盘详情(批量).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：楼盘详情内页(PC_WAP).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：楼盘详情内页(PC_WAP).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：楼盘详情头部公用接口(PC).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：楼盘详情头部公用接口(PC).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：楼盘详情首页接口(PC_WAP).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：楼盘详情首页接口(PC_WAP).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：站点列表接口（PC_WAP.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：站点列表接口（PC_WAP.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：站点列表接口（PC_WAP）.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：站点列表接口（PC_WAP）.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：获取所有站点楼盘信息.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：获取所有站点楼盘信息.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：首页开盘日历接口.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：首页开盘日历接口.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：首页户型点评接口.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：首页户型点评接口.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：首页最新动态.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/新房/新房：首页最新动态.xml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -32,19 +348,100 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/community/CommunityList.java">
+        <entry file="file://$PROJECT_DIR$/testng.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="92" column="54" selection-start-line="92" selection-start-column="54" selection-end-line="92" selection-end-column="54" />
+            <state relative-caret-position="110">
+              <caret line="5" column="41" lean-forward="true" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testng1.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/newHouse/GetSiteList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="185">
+              <caret line="59" column="5" lean-forward="true" selection-start-line="59" selection-start-column="5" selection-end-line="59" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/headNet/RoomCard.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1205">
+              <caret line="93" column="59" selection-start-line="93" selection-start-column="59" selection-end-line="93" selection-end-column="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/community/AllSiteData.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="90" column="72" lean-forward="true" selection-start-line="90" selection-start-column="72" selection-end-line="90" selection-end-column="72" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/community/CollectionStatus.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="63" column="1542" lean-forward="true" selection-start-line="63" selection-end-line="64" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/community/Collection.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="62" selection-start-line="62" selection-end-line="62" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testng2.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="42" column="38" lean-forward="true" selection-start-line="42" selection-start-column="38" selection-end-line="42" selection-end-column="38" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/testng.xml">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/headNet/Getinfo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="3" column="27" lean-forward="true" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+            <state relative-caret-position="242">
+              <caret line="76" column="70" selection-start-line="76" selection-start-column="70" selection-end-line="76" selection-end-column="70" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/headNet/Exists.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="440">
+              <caret line="83" column="60" selection-start-line="83" selection-start-column="60" selection-end-line="83" selection-end-column="60" />
             </state>
           </provider>
         </entry>
@@ -60,8 +457,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>HouseMapArea</find>
-      <find>HouseSiteNewList</find>
       <find>HouseSiteHotList</find>
       <find>HouseRoomBenefit</find>
       <find>HouseOpenTime</find>
@@ -90,6 +485,8 @@
       <find>HousePriceTrend</find>
       <find>密云城区</find>
       <find>为您</find>
+      <find>楼盘相册</find>
+      <find>json</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -101,8 +498,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/fc/community/Send.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/fc/base/TestBases.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/fc/util/TestUtils.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseFilter.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseRate.java" />
@@ -120,7 +515,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseNewTrend.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/fc/loveHome/LoginQuick.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseMetionSearch.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/fc/newHouse/GetSiteList.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseNearList.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseFcSubscribeList.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseSubscribeList.java" />
@@ -131,16 +525,12 @@
         <option value="$PROJECT_DIR$/src/main/java/com/fc/config/config.properties" />
         <option value="$PROJECT_DIR$/src/main/java/com/fc/headNet/Active.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/fc/headNet/CheckSurvey.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/fc/headNet/Exists.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/fc/headNet/FilterList.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/fc/headNet/GetDictById.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/fc/headNet/Getinfo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/fc/headNet/GetSurvey.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/fc/headNet/NetGetSiteList.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/fc/headNet/UcmsFilterList.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/fc/headNet/GetDictListByName.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/fc/community/CollectionStatus.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/fc/community/Collection.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseCorrections.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseCorrection.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
@@ -152,6 +542,13 @@
         <option value="$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseRecommend.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/fc/community/CommunityList.java" />
         <option value="$PROJECT_DIR$/testng.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseImg.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fc/newHouse/GetSiteList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fc/community/AllSiteData.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fc/community/CollectionStatus.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fc/community/Collection.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fc/headNet/Exists.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fc/headNet/Getinfo.java" />
       </list>
     </option>
   </component>
@@ -183,11 +580,11 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="37" />
-    <option name="y" value="35" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="160" />
+    <option name="y" value="24" />
     <option name="width" value="1575" />
-    <option name="height" value="953" />
+    <option name="height" value="982" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -195,7 +592,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -270,12 +666,13 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1575428437587" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576205551099" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -309,8 +706,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.CommunityList">
-    <configuration name="CommunityList" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.Getinfo.filterCon">
+    <configuration name="AllSiteData.filterCon" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="allureTest" />
       <extension name="coverage">
         <pattern>
@@ -319,8 +716,9 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.fc.community" />
-      <option name="MAIN_CLASS_NAME" value="com.fc.community.CommunityList" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="MAIN_CLASS_NAME" value="com.fc.community.AllSiteData" />
+      <option name="METHOD_NAME" value="filterCon" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -345,7 +743,42 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GetRecommend.filterCon" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="GetSiteList" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="allureTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fc.newHouse.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.fc.newHouse" />
+      <option name="MAIN_CLASS_NAME" value="com.fc.newHouse.GetSiteList" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetSiteList.filterCon" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="allureTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fc.newHouse.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.fc.newHouse" />
+      <option name="MAIN_CLASS_NAME" value="com.fc.newHouse.GetSiteList" />
+      <option name="METHOD_NAME" value="filterCon" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Getinfo.filterCon" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="allureTest" />
       <extension name="coverage">
         <pattern>
@@ -354,61 +787,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.fc.headNet" />
-      <option name="MAIN_CLASS_NAME" value="com.fc.headNet.GetRecommend" />
-      <option name="METHOD_NAME" value="filterCon" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HouseMap.filterCon" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="allureTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.fc.newHouse.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.fc.newHouse" />
-      <option name="MAIN_CLASS_NAME" value="com.fc.newHouse.HouseMap" />
-      <option name="METHOD_NAME" value="filterCon" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HouseRecommend.filterCon" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="allureTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.fc.newHouse.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.fc.newHouse" />
-      <option name="MAIN_CLASS_NAME" value="com.fc.newHouse.HouseRecommend" />
-      <option name="METHOD_NAME" value="filterCon" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HouseSiteNewList.filterCon" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="allureTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.fc.newHouse.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.fc.newHouse" />
-      <option name="MAIN_CLASS_NAME" value="com.fc.newHouse.HouseSiteNewList" />
+      <option name="MAIN_CLASS_NAME" value="com.fc.headNet.Getinfo" />
       <option name="METHOD_NAME" value="filterCon" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -419,11 +798,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.CommunityList" />
-        <item itemvalue="TestNG.HouseRecommend.filterCon" />
-        <item itemvalue="TestNG.GetRecommend.filterCon" />
-        <item itemvalue="TestNG.HouseMap.filterCon" />
-        <item itemvalue="TestNG.HouseSiteNewList.filterCon" />
+        <item itemvalue="TestNG.Getinfo.filterCon" />
+        <item itemvalue="TestNG.Exists.filterCon" />
+        <item itemvalue="TestNG.AllSiteData.filterCon" />
+        <item itemvalue="TestNG.GetSiteList" />
+        <item itemvalue="TestNG.GetSiteList.filterCon" />
       </list>
     </recent_temporary>
   </component>
@@ -441,44 +820,45 @@
       <workItem from="1572504004893" duration="40194000" />
       <workItem from="1574324598007" duration="49560000" />
       <workItem from="1575007316035" duration="25848000" />
-      <workItem from="1575358993248" duration="8904000" />
+      <workItem from="1575358993248" duration="14841000" />
+      <workItem from="1575686642295" duration="3747000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="GetRecommend_filterCon - 2019.12.03 at 18h 05m 45s.xml">
-      <configuration name="GetRecommend.filterCon" configurationId="TestNG" />
+    <history-entry file="GetSiteList_filterCon - 2019.12.12 at 17h 39m 34s.xml">
+      <configuration name="GetSiteList.filterCon" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="GetRecommend_filterCon - 2019.12.03 at 18h 09m 53s.xml">
-      <configuration name="GetRecommend.filterCon" configurationId="TestNG" />
+    <history-entry file="GetSiteList - 2019.12.12 at 17h 39m 58s.xml">
+      <configuration name="GetSiteList" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="HouseEnPerfixList_filterCon - 2019.12.03 at 18h 18m 27s.xml">
-      <configuration name="HouseEnPerfixList.filterCon" configurationId="TestNG" />
+    <history-entry file="AllSiteData_filterCon - 2019.12.12 at 17h 41m 55s.xml">
+      <configuration name="AllSiteData.filterCon" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="HouseEnPerfixList_filterCon - 2019.12.03 at 18h 19m 13s.xml">
-      <configuration name="HouseEnPerfixList.filterCon" configurationId="TestNG" />
+    <history-entry file="AllSiteData_filterCon - 2019.12.12 at 17h 42m 04s.xml">
+      <configuration name="AllSiteData.filterCon" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="HouseSiteNewList_filterCon - 2019.12.03 at 18h 21m 21s.xml">
-      <configuration name="HouseSiteNewList.filterCon" configurationId="TestNG" />
+    <history-entry file="Exists_filterCon - 2019.12.12 at 17h 45m 53s.xml">
+      <configuration name="Exists.filterCon" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="HouseMap_filterCon - 2019.12.03 at 18h 21m 39s.xml">
-      <configuration name="HouseMap.filterCon" configurationId="TestNG" />
+    <history-entry file="Exists_filterCon - 2019.12.12 at 17h 46m 06s.xml">
+      <configuration name="Exists.filterCon" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="HouseMap_filterCon - 2019.12.03 at 18h 22m 26s.xml">
-      <configuration name="HouseMap.filterCon" configurationId="TestNG" />
+    <history-entry file="Exists_filterCon - 2019.12.12 at 17h 46m 50s.xml">
+      <configuration name="Exists.filterCon" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="GetRecommend_filterCon - 2019.12.03 at 18h 22m 48s.xml">
-      <configuration name="GetRecommend.filterCon" configurationId="TestNG" />
+    <history-entry file="Exists_filterCon - 2019.12.12 at 17h 46m 57s.xml">
+      <configuration name="Exists.filterCon" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="CommunityList - 2019.12.04 at 09h 21m 06s.xml">
-      <configuration name="CommunityList" configurationId="TestNG" />
+    <history-entry file="Getinfo_filterCon - 2019.12.12 at 17h 48m 36s.xml">
+      <configuration name="Getinfo.filterCon" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="HouseRecommend_filterCon - 2019.12.04 at 09h 21m 10s.xml">
-      <configuration name="HouseRecommend.filterCon" configurationId="TestNG" />
+    <history-entry file="Getinfo_filterCon - 2019.12.12 at 17h 48m 41s.xml">
+      <configuration name="Getinfo.filterCon" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="124533000" />
+    <option name="totallyTimeSpent" value="134217000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -490,9 +870,42 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="37" y="35" width="1575" height="953" extended-state="1" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2260128" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.37635574" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.48481563" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32938388" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3601896" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3409802" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" weight="0.329718" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" visible="true" weight="0.17217484" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.11727079" />
+    </layout>
+    <layout-to-restore>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34191418" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
@@ -525,40 +938,6 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
       <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.11727079" />
-    </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3379531" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info id="Web" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.4251627" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.47741148" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32938388" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3601896" />
-      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3409802" />
-      <window_info anchor="bottom" id="Database Changes" order="11" />
-      <window_info anchor="bottom" id="Version Control" order="12" weight="0.329718" />
-      <window_info anchor="bottom" id="Java Enterprise" order="13" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" weight="0.26492536" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Database" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Theme Preview" order="8" />
-      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.11727079" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -571,18 +950,6 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/fc/community/AllSiteData.java</url>
-          <line>51</line>
-          <properties />
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/fc/community/AllSiteData.java</url>
-          <line>55</line>
-          <properties />
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/fc/newHouse/GetSiteList.java</url>
           <line>76</line>
@@ -926,12 +1293,6 @@
           <option name="timeStamp" value="98" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/fc/headNet/Exists.java</url>
-          <line>79</line>
-          <properties />
-          <option name="timeStamp" value="101" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/fc/headNet/Getinfo.java</url>
           <line>71</line>
           <properties />
@@ -955,17 +1316,22 @@
           <properties />
           <option name="timeStamp" value="108" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/fc/community/AllSiteData.java</url>
+          <line>92</line>
+          <properties />
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseImg.java</url>
+          <line>94</line>
+          <properties />
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-220">
-          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseTrendList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
@@ -1050,23 +1416,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/newHouse/GetSiteList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="88" column="62" lean-forward="true" selection-start-line="73" selection-start-column="8" selection-end-line="73" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseImg.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="60" column="65" lean-forward="true" selection-start-line="60" selection-start-column="52" selection-end-line="60" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseDetailByDictIds.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
@@ -1103,13 +1452,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/headNet/Exists.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
-          <caret line="56" column="80" selection-start-line="56" selection-start-column="80" selection-end-line="56" selection-end-column="80" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/headNet/FilterList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="638">
@@ -1121,13 +1463,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="638">
           <caret line="56" column="85" selection-start-line="56" selection-start-column="85" selection-end-line="56" selection-end-column="85" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/headNet/Getinfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
-          <caret line="49" column="81" selection-start-line="49" selection-start-column="81" selection-end-line="49" selection-end-column="81" />
         </state>
       </provider>
     </entry>
@@ -1159,33 +1494,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hs_err_pid14264.log">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/hs_err_pid14264.log" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/headNet/GetDictListByName.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
           <caret line="93" column="46" selection-start-line="93" selection-start-column="46" selection-end-line="93" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/community/CollectionStatus.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="63" column="23" selection-start-line="63" selection-end-line="64" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/community/Collection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="62" selection-start-line="62" selection-end-line="62" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1210,13 +1523,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseCorrection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="54" column="40" lean-forward="true" selection-start-line="54" selection-start-column="40" selection-end-line="54" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseActive.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-836">
@@ -1231,31 +1537,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="158" column="64" selection-start-line="158" selection-start-column="64" selection-end-line="158" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/config/config.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="56" column="54" lean-forward="true" selection-start-line="56" selection-start-column="54" selection-end-line="56" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testng2.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="48" column="41" selection-start-line="48" selection-start-column="41" selection-end-line="48" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/headNet/RoomCard.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="93" column="59" selection-start-line="93" selection-start-column="59" selection-end-line="93" selection-end-column="59" />
         </state>
       </provider>
     </entry>
@@ -1287,13 +1572,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testng1.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="132" column="43" selection-start-line="132" selection-start-column="43" selection-end-line="132" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseRecommend.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
@@ -1306,15 +1584,108 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/community/CommunityList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
+        <state relative-caret-position="1518">
           <caret line="92" column="54" selection-start-line="92" selection-start-column="54" selection-end-line="92" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseImg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1562">
+          <caret line="96" column="15" selection-start-line="96" selection-start-column="15" selection-end-line="96" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="57" column="3" selection-start-line="57" selection-start-column="3" selection-end-line="61" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/community/Metion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="75" column="15" selection-start-line="75" selection-start-column="15" selection-end-line="75" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/headNet/RoomCard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1205">
+          <caret line="93" column="59" selection-start-line="93" selection-start-column="59" selection-end-line="93" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/newHouse/GetSiteList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="59" column="5" lean-forward="true" selection-start-line="59" selection-start-column="5" selection-end-line="59" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testng1.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/testng.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="27" lean-forward="true" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+        <state relative-caret-position="110">
+          <caret line="5" column="41" lean-forward="true" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/community/AllSiteData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="90" column="72" lean-forward="true" selection-start-line="90" selection-start-column="72" selection-end-line="90" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/community/CollectionStatus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="63" column="1542" lean-forward="true" selection-start-line="63" selection-end-line="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/community/Collection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="62" selection-start-line="62" selection-end-line="62" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/headNet/Exists.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="83" column="60" selection-start-line="83" selection-start-column="60" selection-end-line="83" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testng2.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="42" column="38" lean-forward="true" selection-start-line="42" selection-start-column="38" selection-end-line="42" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/headNet/Getinfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="76" column="70" selection-start-line="76" selection-start-column="70" selection-end-line="76" selection-end-column="70" />
         </state>
       </provider>
     </entry>

@@ -62,7 +62,10 @@ public class HouseImg extends TestBase {
     public void filterCon(String contenx)throws Exception{
 
         CloseableHttpClient httpClient = HttpClients.createDefault();
-        HttpPost post = new HttpPost("https://dict.izhiliao.com/house/api/img");
+        //线上环境
+//        HttpPost post = new HttpPost("https://dict.izhiliao.com/house/api/img");
+        //测试环境
+        HttpPost post = new HttpPost("http://172.17.3.237:8084/house/api/img");
         post.setConfig(requestConfig);
         //设置头信息
 //        String cookies ="secondCityArr=[{\"tableName\":null,\"id\":3066,\"name\":\"å\u008C\u0097äº¬\",\"logo\":null,\"domain\":\"bj\",\"isProxy\":1,\"letter\":\"B\",\"isHot\":0,\"url\":\"https://bj.izhiliao.com/\",\"status\":1,\"abroad\":0,\"sort\":1,\"createTime\":1532921163},{\"tableName\":null,\"id\":36688,\"name\":\"æ·±å\u009C³\",\"logo\":null,\"domain\":\"sz\",\"isProxy\":0,\"letter\":\"S\",\"isHot\":0,\"url\":\"https://m.izhiliao.com/sz\",\"status\":1,\"abroad\":0,\"sort\":4,\"createTime\":1532921163}]; Hm_lvt_becf67d756bfea5219f687e0ce01da80=1571814467; IFH_CLUSTER_SID=45320113A0064A15A55E27699B470338; izl_site=3066_bj; sensorsdata2015jssdkcross=%7B%22distinct_id%22%3A%2216dbed44a7115a-07077dfe5e9183-3a614f0b-2073600-16dbed44a72546%22%2C%22%24device_id%22%3A%2216dbed44a7115a-07077dfe5e9183-3a614f0b-2073600-16dbed44a72546%22%2C%22props%22%3A%7B%22%24latest_referrer%22%3A%22https%3A%2F%2Fhouse.ifeng.com%2F%22%2C%22%24latest_referrer_host%22%3A%22house.ifeng.com%22%2C%22%24latest_traffic_source_type%22%3A%22%E5%BC%95%E8%8D%90%E6%B5%81%E9%87%8F%22%2C%22%24latest_search_keyword%22%3A%22%E6%9C%AA%E5%8F%96%E5%88%B0%E5%80%BC%22%7D%7D; Hm_lvt_8ddeae4dc7e58e29c04151fd536bd57a=1571810512,1572312444; Hm_lpvt_becf67d756bfea5219f687e0ce01da80=1572315111; firstLogin=false; nickName=\\u69\\u66\\u65\\u6e\\u67\\u5f\\u32\\u34\\u35\\u33; izl_sid=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJJRkgiLCJleHAiOjE1NzI4NjUzMzMsImluZm8iOiIxMzcxODI0MjQ1MyxodHRwOi8vczAuaWZlbmdpbWcuY29tLzIwMTcvMDkvMDYvbWFsZV8wZDhjNTI4YS5wbmcsaWZlbmdfdWNfMTczODAwNjgsaXVfMTczODAwNjgsaWZlbmdfMjQ1MyJ9.HAXLVRoe095D9VPxU3vmSoVTKv77CdtKwij1CtgV3pg; aaaaaaaaaaa=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuYmYiOjE1NzI4NzIzMzUsImlzcyI6ImF1dGgwIiwibW9iaWxlIjoiMTM3MTgyNDI0NTMiLCJleHAiOjE1NzMxMzE1MzV9.M2vpPjbGdu6Tqtdx4MKVA2U-hUYtflIKkd0wT_rUQeI; 300_house_basic_list_url=/house/basic/list; 300_community_basic_list_url=/community/basic/list; 95_house_basic_list_url=\"/house/basic/list?propertyCategory=&locationId=2&areaId=177&name=&id=&showType=&grade=&saleStatus=&sTime=&eTime=&adminName=\"";
@@ -70,7 +73,8 @@ public class HouseImg extends TestBase {
 //        post.setHeader("Cookie",cookies);
 
        Map<String,String> map = new HashMap<String,String>();
-        map.put("dictId","19");
+//        map.put("dictId","19");
+        map.put("dictId","4806789");//测试id
         StringEntity s = new StringEntity(JSON.toJSONString(map));
         s.setContentEncoding("UTF-8");
         post.setEntity(s);
