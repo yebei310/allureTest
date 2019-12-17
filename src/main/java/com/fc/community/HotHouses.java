@@ -86,6 +86,7 @@ public class HotHouses extends TestBase {
                         String areaName = jsonArray.getJSONObject(i).getString("areaName");
                         lists.add(areaName);
                     }
+                    System.out.println("热门二手房：=====================");
                     String expectByName="马驹桥";
                     if (lists.contains(expectByName)){
                         System.out.println("热门小区位于"+expectByName);

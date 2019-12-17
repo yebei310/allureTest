@@ -88,7 +88,7 @@ public class CommunityList extends TestBase {
                     for (int i =0;i<jsonArrayIpName.size();i++){
                         String ipName =  jsonArrayIpName.getJSONObject(i).getString("byname");
                         ipNames.add(ipName);
-                        System.out.println("小区：================="+ipName);
+                        System.out.println("二手房小区列表：================="+ipName);
                     }
                     System.out.println("打印小区："+ipNames);
                     String expectSite="京溪小区";

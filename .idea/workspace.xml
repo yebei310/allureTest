@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5ec67fc8-747f-4548-835a-9b107edf08ea" name="Default Changelist" comment="tijiao" />
+    <list default="true" id="5ec67fc8-747f-4548-835a-9b107edf08ea" name="Default Changelist" comment="tijiao">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fc/community/CommunityList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fc/community/CommunityList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fc/community/HotHouses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fc/community/HotHouses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fc/newHouse/GetSiteList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fc/newHouse/GetSiteList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/community/Collection.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fc/community/Collection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/community/CollectionStatus.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fc/community/CollectionStatus.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/community/CommunityList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fc/community/CommunityList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/GetSiteList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fc/newHouse/GetSiteList.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,19 +39,49 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testng.xml">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/community/CommunityList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="11" column="41" lean-forward="true" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
+            <state relative-caret-position="418">
+              <caret line="102" column="43" selection-start-line="102" selection-start-column="43" selection-end-line="102" selection-end-column="43" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testng1.xml">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/headNet/Active.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+            <state relative-caret-position="-791">
+              <caret line="40" column="26" selection-start-line="40" selection-start-column="26" selection-end-line="40" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testng.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="77" column="42" lean-forward="true" selection-start-line="77" selection-start-column="42" selection-end-line="77" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/community/NearHouse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="34" column="21" lean-forward="true" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/community/HotHouses.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="88" column="67" selection-start-line="88" selection-start-column="67" selection-end-line="88" selection-end-column="67" />
             </state>
           </provider>
         </entry>
@@ -50,8 +89,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/newHouse/GetSiteList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="185">
-              <caret line="59" column="5" lean-forward="true" selection-start-line="59" selection-start-column="5" selection-end-line="59" selection-end-column="5" />
+            <state relative-caret-position="449">
+              <caret line="71" column="1560" selection-start-line="71" selection-start-column="1560" selection-end-line="71" selection-end-column="1560" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -60,70 +99,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/headNet/RoomCard.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/util/TestUtil.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1205">
-              <caret line="93" column="59" selection-start-line="93" selection-start-column="59" selection-end-line="93" selection-end-column="59" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/community/AllSiteData.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="90" column="72" lean-forward="true" selection-start-line="90" selection-start-column="72" selection-end-line="90" selection-end-column="72" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/community/CollectionStatus.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="63" column="1542" lean-forward="true" selection-start-line="63" selection-end-line="64" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/community/Collection.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="174">
-              <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testng2.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="42" column="38" lean-forward="true" selection-start-line="42" selection-start-column="38" selection-end-line="42" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/headNet/Getinfo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="76" column="70" selection-start-line="76" selection-start-column="70" selection-end-line="76" selection-end-column="70" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/headNet/Exists.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="83" column="60" selection-start-line="83" selection-start-column="60" selection-end-line="83" selection-end-column="60" />
+            <state relative-caret-position="462">
+              <caret line="66" column="56" selection-start-line="66" selection-start-column="56" selection-end-line="66" selection-end-column="56" />
             </state>
           </provider>
         </entry>
@@ -139,11 +118,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>HouseSiteHotList</find>
-      <find>HouseRoomBenefit</find>
-      <find>HouseOpenTime</find>
-      <find>HouseSites</find>
-      <find>HouseActive</find>
       <find>HouseDetailByDictIds</find>
       <find>HouseRoomtypeList</find>
       <find>HouseRecommend</find>
@@ -169,6 +143,11 @@
       <find>为您</find>
       <find>楼盘相册</find>
       <find>json</find>
+      <find>requestConfig</find>
+      <find>client</find>
+      <find>小区列表</find>
+      <find>热门二手房</find>
+      <find>附近</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -180,7 +159,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/fc/util/TestUtils.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseFilter.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseRate.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseMapLocation.java" />
@@ -222,15 +200,16 @@
         <option value="$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseSiteNewList.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseMap.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseRecommend.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/fc/community/CommunityList.java" />
         <option value="$PROJECT_DIR$/testng.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseImg.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/fc/newHouse/GetSiteList.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/fc/community/AllSiteData.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/fc/community/CollectionStatus.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/fc/community/Collection.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/fc/headNet/Exists.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/fc/headNet/Getinfo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fc/community/Collection.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fc/community/CollectionStatus.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fc/newHouse/GetSiteList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fc/community/CommunityList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fc/community/HotHouses.java" />
       </list>
     </option>
   </component>
@@ -313,36 +292,7 @@
               <item name="allureTest" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="fc" type="462c0819:PsiDirectoryNode" />
-              <item name="community" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="allureTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="allureTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="fc" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="allureTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="allureTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="fc" type="462c0819:PsiDirectoryNode" />
-              <item name="headNet" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="allureTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="allureTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="fc" type="462c0819:PsiDirectoryNode" />
-              <item name="newHouse" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -354,7 +304,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576310797547" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576546404668" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -388,8 +338,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.Getinfo.filterCon">
-    <configuration name="AllSiteData.filterCon" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.NearHouseRent">
+    <configuration name="CommunityList" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="allureTest" />
       <extension name="coverage">
         <pattern>
@@ -398,34 +348,15 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.fc.community" />
-      <option name="MAIN_CLASS_NAME" value="com.fc.community.AllSiteData" />
-      <option name="METHOD_NAME" value="filterCon" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="MAIN_CLASS_NAME" value="com.fc.community.CommunityList" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exists.filterCon" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="allureTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.fc.headNet.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.fc.headNet" />
-      <option name="MAIN_CLASS_NAME" value="com.fc.headNet.Exists" />
-      <option name="METHOD_NAME" value="filterCon" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GetSiteList" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="GetSiteList (1)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="allureTest" />
       <extension name="coverage">
         <pattern>
@@ -442,36 +373,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GetSiteList.filterCon" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="HotHouses" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="allureTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.fc.newHouse.*" />
+          <option name="PATTERN" value="com.fc.community.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.fc.newHouse" />
-      <option name="MAIN_CLASS_NAME" value="com.fc.newHouse.GetSiteList" />
-      <option name="METHOD_NAME" value="filterCon" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PACKAGE_NAME" value="com.fc.community" />
+      <option name="MAIN_CLASS_NAME" value="com.fc.community.HotHouses" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Getinfo.filterCon" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="NearHouse" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="allureTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.fc.headNet.*" />
+          <option name="PATTERN" value="com.fc.community.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.fc.headNet" />
-      <option name="MAIN_CLASS_NAME" value="com.fc.headNet.Getinfo" />
-      <option name="METHOD_NAME" value="filterCon" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PACKAGE_NAME" value="com.fc.community" />
+      <option name="MAIN_CLASS_NAME" value="com.fc.community.NearHouse" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NearHouseRent" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="allureTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fc.community.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.fc.community" />
+      <option name="MAIN_CLASS_NAME" value="com.fc.community.NearHouseRent" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
@@ -480,11 +426,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.Getinfo.filterCon" />
-        <item itemvalue="TestNG.Exists.filterCon" />
-        <item itemvalue="TestNG.AllSiteData.filterCon" />
-        <item itemvalue="TestNG.GetSiteList" />
-        <item itemvalue="TestNG.GetSiteList.filterCon" />
+        <item itemvalue="TestNG.NearHouseRent" />
+        <item itemvalue="TestNG.NearHouse" />
+        <item itemvalue="TestNG.HotHouses" />
+        <item itemvalue="TestNG.CommunityList" />
+        <item itemvalue="TestNG.GetSiteList (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -503,23 +449,11 @@
       <workItem from="1574324598007" duration="49560000" />
       <workItem from="1575007316035" duration="25848000" />
       <workItem from="1575358993248" duration="14841000" />
-      <workItem from="1575686642295" duration="3754000" />
+      <workItem from="1575686642295" duration="10560000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="GetSiteList_filterCon - 2019.12.12 at 17h 39m 34s.xml">
-      <configuration name="GetSiteList.filterCon" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="GetSiteList - 2019.12.12 at 17h 39m 58s.xml">
-      <configuration name="GetSiteList" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="AllSiteData_filterCon - 2019.12.12 at 17h 41m 55s.xml">
-      <configuration name="AllSiteData.filterCon" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="AllSiteData_filterCon - 2019.12.12 at 17h 42m 04s.xml">
-      <configuration name="AllSiteData.filterCon" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="Exists_filterCon - 2019.12.12 at 17h 45m 53s.xml">
       <configuration name="Exists.filterCon" configurationId="TestNG" />
     </history-entry>
@@ -538,9 +472,21 @@
     <history-entry file="Getinfo_filterCon - 2019.12.12 at 17h 48m 41s.xml">
       <configuration name="Getinfo.filterCon" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="CollectionStatus_filterCon - 2019.12.14 at 16h 12m 55s.xml">
+      <configuration name="CollectionStatus.filterCon" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="GetSiteList_(1) - 2019.12.17 at 09h 22m 31s.xml">
+      <configuration name="GetSiteList (1)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CommunityList - 2019.12.17 at 09h 27m 57s.xml">
+      <configuration name="CommunityList" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="HotHouses - 2019.12.17 at 09h 31m 13s.xml">
+      <configuration name="HotHouses" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="134224000" />
+    <option name="totallyTimeSpent" value="141030000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -555,6 +501,40 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21908316" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.37635574" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.48481563" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32938388" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3601896" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3409802" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" weight="0.329718" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.17217484" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.11727079" />
+    </layout>
+    <layout-to-restore>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2260128" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
@@ -581,40 +561,6 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Maven" order="3" visible="true" weight="0.17217484" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Database" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Theme Preview" order="8" />
-      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.11727079" />
-    </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34191418" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info id="Web" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.42490843" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.46420825" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32938388" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3601896" />
-      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3409802" />
-      <window_info anchor="bottom" id="Database Changes" order="11" />
-      <window_info anchor="bottom" id="Version Control" order="12" weight="0.329718" />
-      <window_info anchor="bottom" id="Java Enterprise" order="13" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" weight="0.26492536" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="right" id="Database" order="6" />
@@ -1015,27 +961,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseTrendList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="65" column="36" lean-forward="true" selection-start-line="65" selection-start-column="36" selection-end-line="65" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseMapArea.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="32" lean-forward="true" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseRoomtypeList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-374">
-          <caret line="30" column="4" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseSubscribeList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-13">
@@ -1121,13 +1046,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/allure-results/288ba8ab-4ce0-4afb-a347-9315b69e63f8-result.json" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/headNet/Active.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="55" column="80" selection-start-line="55" selection-start-column="80" selection-end-line="55" selection-end-column="80" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/headNet/CheckSurvey.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
@@ -1265,24 +1183,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/community/CommunityList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1518">
-          <caret line="92" column="54" selection-start-line="92" selection-start-column="54" selection-end-line="92" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseImg.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1562">
           <caret line="96" column="15" selection-start-line="96" selection-start-column="15" selection-end-line="96" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="57" column="3" selection-start-line="57" selection-start-column="3" selection-end-line="61" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -1297,33 +1201,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1205">
           <caret line="93" column="59" selection-start-line="93" selection-start-column="59" selection-end-line="93" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/newHouse/GetSiteList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="59" column="5" lean-forward="true" selection-start-line="59" selection-start-column="5" selection-end-line="59" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/community/AllSiteData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="90" column="72" lean-forward="true" selection-start-line="90" selection-start-column="72" selection-end-line="90" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/community/CollectionStatus.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="63" column="1542" lean-forward="true" selection-start-line="63" selection-end-line="64" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1355,20 +1232,92 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testng.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="41" lean-forward="true" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/community/Collection.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        <state relative-caret-position="306">
+          <caret line="61" column="42" selection-start-line="61" selection-end-line="62" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/community/CollectionStatus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="60" column="36" selection-start-line="60" selection-start-column="23" selection-end-line="60" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/community/AllSiteData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="50" column="17" selection-start-line="50" selection-start-column="17" selection-end-line="50" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="454">
+          <caret line="35" column="18" lean-forward="true" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/util/TestUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="66" column="56" selection-start-line="66" selection-start-column="56" selection-end-line="66" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/headNet/Active.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-791">
+          <caret line="40" column="26" selection-start-line="40" selection-start-column="26" selection-end-line="40" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/newHouse/GetSiteList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="449">
+          <caret line="71" column="1560" selection-start-line="71" selection-start-column="1560" selection-end-line="71" selection-end-column="1560" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/community/CommunityList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="102" column="43" selection-start-line="102" selection-start-column="43" selection-end-line="102" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/community/HotHouses.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="88" column="67" selection-start-line="88" selection-start-column="67" selection-end-line="88" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="77" column="42" lean-forward="true" selection-start-line="77" selection-start-column="42" selection-end-line="77" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/community/NearHouse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="34" column="21" lean-forward="true" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
         </state>
       </provider>
     </entry>
