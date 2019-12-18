@@ -76,6 +76,7 @@ public class Collection extends TestBase {
                 String msgValue = jsonObject.getString("msg");
                 Reporter.log("返回json:"+msgValue);
                 if (msgValue.equals("操作成功")) {
+                    System.out.println("------------------------------------------收藏成功---------------------------------");
                     Assert.assertTrue(true);
                 } else {
                         System.out.println("收藏失败");

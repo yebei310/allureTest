@@ -87,6 +87,7 @@ public class CollectionStatus extends TestBase {
                     int stat=Integer.parseInt(status);
                     if (stat==1){
                         Reporter.log("状态是已经收藏");
+                        System.out.println("--------------------------------------状态是已经收藏--------------------------------------");
                         Assert.assertTrue(true);
                     }else if (stat==2){
                         Reporter.log("状态是未收藏");
