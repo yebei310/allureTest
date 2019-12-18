@@ -57,7 +57,7 @@ public class CollectionStatus extends TestBase {
     public void filterCon(String contenx)throws Exception{
 
         CloseableHttpClient httpClient = HttpClients.createDefault();
-        HttpPost post = new HttpPost("https://www.izhiliao.com/community/api/loupan/collect/status?lpId=501364");
+        HttpPost post = new HttpPost("https://www.izhiliao.com/community/api/loupan/collect/status?lpId=1078807");
         post.setConfig(requestConfig);
         //设置头信息
         post.setHeader("Content-Type","application/x-www-form-urlencoded");

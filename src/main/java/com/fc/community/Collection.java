@@ -55,7 +55,7 @@ public class Collection extends TestBase {
     @Test(dataProvider = "postData",description = "收藏")
     public void filterCon(String contenx)throws Exception{
         CloseableHttpClient httpClient = HttpClients.createDefault();
-        HttpPost post = new HttpPost("https://www.izhiliao.com/community/api/loupan/collect/op?type=1&lpId=501364&status=1");
+        HttpPost post = new HttpPost("https://www.izhiliao.com/community/api/loupan/collect/op?type=1&lpId=1078807&status=1");
         post.setConfig(requestConfig);
         //设置头信息
         post.setHeader("Content-Type","application/x-www-form-urlencoded");
