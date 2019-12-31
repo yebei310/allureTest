@@ -91,6 +91,7 @@ public class HouseSiteHotList extends TestBase {
                 System.out.println("返回json:"+jsonObject);
                 String msgValue = jsonObject.getString("msg");
                 Reporter.log("返回json:"+msgValue);
+                System.out.println(System.currentTimeMillis()+"热门楼盘------------------------------------------------------------");
                 if (msgValue.equals("操作成功")){
                     JSONArray  jsonArray = jsonObject.getJSONArray("data");
                     List<String> list = new ArrayList<String>();
@@ -104,6 +105,7 @@ public class HouseSiteHotList extends TestBase {
                         Assert.assertTrue(true);
 
                     }else {
+                        System.out.println(System.currentTimeMillis()+"热门楼盘没有找到------------------------------------------------------------");
                         System.out.println("没有找到"+expectArea);
                         Assert.assertTrue(false);
                     }
