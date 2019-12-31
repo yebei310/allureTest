@@ -3,75 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5ec67fc8-747f-4548-835a-9b107edf08ea" name="Default Changelist" comment="tijiao">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fc/community/CollectionStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fc/community/CollectionStatus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fc/community/NearHouseRent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fc/community/NearHouseRent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/Parameters/postParameters.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/base/TestBase.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/base/TestBases.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/community/AllSiteData.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/community/Collection.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/community/CollectionStatus.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/community/CommunityDetail.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/community/CommunityList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/community/FilterCondition.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/community/GetSeneschal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/community/HotHouseRents.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/community/HotHouses.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/community/HotWord.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/community/ListsByLpIds.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/community/Metion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/community/NearHouse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/community/NearHouseRent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/community/Send.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/headNet/Active.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/headNet/CheckSurvey.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/headNet/Exists.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/headNet/FilterList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/headNet/GetDictById.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/headNet/GetDictListByName.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/headNet/GetRecommend.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/headNet/GetSurvey.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/headNet/Getinfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/headNet/NetGetSiteList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/headNet/RoomCard.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/headNet/UcmsFilterList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/loveHome/LoginQuick.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/GetSiteList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HouseActive.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HouseCorrection.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HouseDetail.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HouseDetailByDictIds.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HouseEnPerfixList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HouseFcSubscribeList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HouseFilter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HouseHeader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HouseImg.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HouseIndex.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HouseList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HouseMap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HouseMapArea.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HouseMapLocation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HouseMetionSearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HouseNearList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HouseNewTrend.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HouseOpenTime.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HousePriceTrend.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HouseRate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HouseRecommend.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HouseRegionHotList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HouseRoomBenefit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HouseRoomtypeDetail.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HouseRoomtypeList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HouseSiteHotList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HouseSiteNewList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HouseSites.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HouseSubscribeList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HouseTrendDetail.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HouseTrendList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/restclient/RestClient.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/util/TestUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/util/TestUtils.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -109,6 +40,15 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/testng.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="502">
+              <caret line="80" column="9" selection-start-line="80" selection-start-column="9" selection-end-line="80" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/qd/IndexNewslist.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -139,7 +79,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/testng3.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="132">
@@ -162,6 +102,15 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="462">
               <caret line="42" column="38" selection-start-line="42" selection-start-column="38" selection-end-line="42" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testng1.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -300,7 +249,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-62" />
     <option name="y" value="64" />
     <option name="width" value="1575" />
@@ -365,7 +314,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1577775167789" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1577776303932" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -399,7 +348,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.D:/project/test/allureTest/testng3.xml">
+  <component name="RunManager" selected="TestNG.D:/project/test/allureTest/testng.xml">
     <configuration name="AppletsInstitute" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="allureTest" />
       <extension name="coverage">
@@ -451,24 +400,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AppletsSugdata.filterCon" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="allureTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.fc.qd.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.fc.qd" />
-      <option name="MAIN_CLASS_NAME" value="com.fc.qd.AppletsSugdata" />
-      <option name="METHOD_NAME" value="filterCon" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="D:/project/test/allureTest/testng3.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="allureTest" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/testng3.xml" />
@@ -479,13 +410,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="D:/project/test/allureTest/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="allureTest" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.D:/project/test/allureTest/testng.xml" />
         <item itemvalue="TestNG.D:/project/test/allureTest/testng3.xml" />
         <item itemvalue="TestNG.AppletsRelatedarticle (1)" />
         <item itemvalue="TestNG.AppletsInstitute" />
         <item itemvalue="TestNG.AppletsRelatedarticle" />
-        <item itemvalue="TestNG.AppletsSugdata.filterCon" />
       </list>
     </recent_temporary>
   </component>
@@ -505,14 +446,11 @@
       <workItem from="1575007316035" duration="25848000" />
       <workItem from="1575358993248" duration="14841000" />
       <workItem from="1575686642295" duration="21959000" />
-      <workItem from="1576749830501" duration="12497000" />
+      <workItem from="1576749830501" duration="13361000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="IndexNewslist - 2019.12.31 at 14h 41m 40s.xml">
-      <configuration name="IndexNewslist" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="GetArticleInfo - 2019.12.31 at 14h 41m 59s.xml">
       <configuration name="GetArticleInfo" configurationId="TestNG" />
     </history-entry>
@@ -540,9 +478,12 @@
     <history-entry file="D__project_test_allureTest_testng3_xml - 2019.12.31 at 14h 52m 11s.xml">
       <configuration name="D:/project/test/allureTest/testng3.xml" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="D__project_test_allureTest_testng_xml - 2019.12.31 at 15h 07m 35s.xml">
+      <configuration name="D:/project/test/allureTest/testng.xml" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="164926000" />
+    <option name="totallyTimeSpent" value="165790000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -555,6 +496,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22121535" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -1237,13 +1179,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testng1.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-660">
-          <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/community/CommunityList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="182">
@@ -1255,13 +1190,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1716">
           <caret line="104" column="44" selection-start-line="104" selection-start-column="44" selection-end-line="104" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testng.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1760">
-          <caret line="80" column="9" selection-start-line="80" selection-start-column="9" selection-end-line="80" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -1407,6 +1335,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/testng3.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/testng2.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
@@ -1414,10 +1349,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testng3.xml">
+    <entry file="file://$PROJECT_DIR$/testng1.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+        <state relative-caret-position="22">
+          <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="502">
+          <caret line="80" column="9" selection-start-line="80" selection-start-column="9" selection-end-line="80" selection-end-column="9" />
         </state>
       </provider>
     </entry>

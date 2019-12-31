@@ -1,1 +1,0 @@
-{"uuid":"db4e349f-cf75-4da7-b70c-6c360402d9f1","name":"allureTest","start":1575514970063,"stop":1575514971323,"children":["03ae8901-bce9-4143-a33f-c1d9801078b8"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","start":1575514970082,"stop":1575514970108}]}
