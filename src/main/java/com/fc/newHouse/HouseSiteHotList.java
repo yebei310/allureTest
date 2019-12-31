@@ -71,7 +71,7 @@ public class HouseSiteHotList extends TestBase {
 //        post.setHeader("Cookie",cookies);
 
        Map<String,String> map = new HashMap<String,String>();
-        map.put("siteId","17649");
+        map.put("siteId","3066");
         StringEntity s = new StringEntity(JSON.toJSONString(map));
         s.setContentEncoding("UTF-8");
         post.setEntity(s);
@@ -98,7 +98,7 @@ public class HouseSiteHotList extends TestBase {
                        String locationName= jsonArray.getJSONObject(0).getString("locationName");
                        String areaName= jsonArray.getJSONObject(0).getString("areaName");
                        list.add(name);
-                    String expectArea="海南绿地城";
+                    String expectArea="诺德逸府";
                     if (list.contains(expectArea)){
                         System.out.println("当前站点"+locationName+areaName+"热门楼盘是："+expectArea);
                         Assert.assertTrue(true);
