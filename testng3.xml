@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="奇点小程序" verbose="1" preserve-order="true" parallel="false">
+  <test name="奇点小程序：研究院">
+    <classes>
+      <class name="com.fc.qd.AppletsInstitute">
+      </class>
+    </classes>
+  </test>
+  <test name="奇点小程序：猜你喜欢">
+    <classes>
+      <class name="com.fc.qd.AppletsRelatedarticle">
+      </class>
+    </classes>
+  </test>
+  <test name="奇点小程序：奇点小程序首页维护位数据">
+    <classes>
+      <class name="com.fc.qd.AppletsSugdata">
+      </class>
+    </classes>
+  </test>
+  <test name="奇点小程序：资讯详情">
+    <classes>
+      <class name="com.fc.qd.GetArticleInfo">
+      </class>
+    </classes>
+  </test>
+  <test name="奇点小程序：信息流">
+    <classes>
+      <class name="com.fc.qd.IndexNewslist">
+      </class>
+    </classes>
+  </test>
+
+
+
+</suite>
+

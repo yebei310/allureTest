@@ -1,7 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5ec67fc8-747f-4548-835a-9b107edf08ea" name="Default Changelist" comment="tijiao" />
+    <list default="true" id="5ec67fc8-747f-4548-835a-9b107edf08ea" name="Default Changelist" comment="tijiao">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fc/community/CollectionStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fc/community/CollectionStatus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fc/community/NearHouseRent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fc/community/NearHouseRent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/Parameters/postParameters.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/base/TestBase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/base/TestBases.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/community/AllSiteData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/community/Collection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/community/CollectionStatus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/community/CommunityDetail.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/community/CommunityList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/community/FilterCondition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/community/GetSeneschal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/community/HotHouseRents.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/community/HotHouses.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/community/HotWord.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/community/ListsByLpIds.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/community/Metion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/community/NearHouse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/community/NearHouseRent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/community/Send.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/headNet/Active.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/headNet/CheckSurvey.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/headNet/Exists.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/headNet/FilterList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/headNet/GetDictById.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/headNet/GetDictListByName.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/headNet/GetRecommend.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/headNet/GetSurvey.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/headNet/Getinfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/headNet/NetGetSiteList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/headNet/RoomCard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/headNet/UcmsFilterList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/loveHome/LoginQuick.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/GetSiteList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HouseActive.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HouseCorrection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HouseDetail.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HouseDetailByDictIds.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HouseEnPerfixList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HouseFcSubscribeList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HouseFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HouseHeader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HouseImg.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HouseIndex.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HouseList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HouseMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HouseMapArea.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HouseMapLocation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HouseMetionSearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HouseNearList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HouseNewTrend.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HouseOpenTime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HousePriceTrend.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HouseRate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HouseRecommend.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HouseRegionHotList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HouseRoomBenefit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HouseRoomtypeDetail.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HouseRoomtypeList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HouseSiteHotList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HouseSiteNewList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HouseSites.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HouseSubscribeList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HouseTrendDetail.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HouseTrendList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/restclient/RestClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/util/TestUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/util/TestUtils.class" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,103 +101,67 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/community/CommunityList.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/qd/AppletsRelatedarticle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="102" column="43" selection-start-line="102" selection-start-column="43" selection-end-line="102" selection-end-column="43" />
+            <state relative-caret-position="572">
+              <caret line="47" column="46" selection-start-line="47" selection-start-column="46" selection-end-line="47" selection-end-column="46" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/headNet/Active.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/qd/IndexNewslist.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-791">
-              <caret line="40" column="26" selection-start-line="40" selection-start-column="26" selection-end-line="40" selection-end-column="26" />
+            <state relative-caret-position="110">
+              <caret line="28" column="26" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="26" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#1283#1299#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testng.xml">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/qd/GetArticleInfo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="341">
-              <caret line="83" column="44" selection-start-line="83" selection-start-column="44" selection-end-line="83" selection-end-column="44" />
+            <state relative-caret-position="110">
+              <caret line="26" column="27" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="27" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/community/NearHouseRent.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/qd/AppletsSugdata.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="106" column="55" lean-forward="true" selection-start-line="106" selection-start-column="55" selection-end-line="106" selection-end-column="55" />
+            <state relative-caret-position="88">
+              <caret line="28" column="2" selection-start-line="28" selection-start-column="2" selection-end-line="28" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/community/Collection.java">
+        <entry file="file://$PROJECT_DIR$/testng3.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-310">
-              <caret line="57" column="114" selection-start-line="57" selection-start-column="107" selection-end-line="57" selection-end-column="114" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="132">
+              <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/community/CollectionStatus.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-143">
-              <caret line="70" column="12" lean-forward="true" selection-start-line="70" selection-start-column="12" selection-end-line="70" selection-end-column="12" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/community/NearHouse.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="33" column="47" lean-forward="true" selection-start-line="33" selection-start-column="47" selection-end-line="33" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/community/HotHouses.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="88" column="67" selection-start-line="88" selection-start-column="67" selection-end-line="88" selection-end-column="67" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/newHouse/GetSiteList.java">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="449">
-              <caret line="71" column="1560" selection-start-line="71" selection-start-column="1560" selection-end-line="71" selection-end-column="1560" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+              <caret line="159" column="45" selection-start-line="159" selection-start-column="45" selection-end-line="159" selection-end-column="45" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/util/TestUtil.java">
+        <entry file="file://$PROJECT_DIR$/testng2.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="462">
-              <caret line="66" column="56" selection-start-line="66" selection-start-column="56" selection-end-line="66" selection-end-column="56" />
+              <caret line="42" column="38" selection-start-line="42" selection-start-column="38" selection-end-line="42" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -142,11 +177,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>HouseDetailByDictIds</find>
-      <find>HouseRoomtypeList</find>
-      <find>HouseRecommend</find>
-      <find>HouseFilter</find>
-      <find>HouseNewTrend</find>
       <find>新房</find>
       <find>HouseEnPerfixList</find>
       <find>列表页接口</find>
@@ -172,6 +202,11 @@
       <find>小区列表</find>
       <find>热门二手房</find>
       <find>附近</find>
+      <find>二手房小区列表：==============</find>
+      <find>地图找房商圈包含</find>
+      <find>host</find>
+      <find>post</find>
+      <find>testCaseExecel</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -183,13 +218,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseFilter.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseRate.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseMapLocation.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseMapArea.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseSiteHotList.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseOpenTime.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseSites.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseActive.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseRoomtypeList.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/fc/newHouse/HousePriceTrend.java" />
@@ -217,7 +245,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/fc/headNet/GetDictListByName.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseCorrections.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseCorrection.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/fc/headNet/GetRecommend.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/fc/headNet/RoomCard.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseEnPerfixList.java" />
@@ -234,6 +261,14 @@
         <option value="$PROJECT_DIR$/src/main/java/com/fc/community/HotHouses.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/fc/community/Collection.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/fc/community/CollectionStatus.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fc/community/NearHouseRent.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fc/qd/IndexNewslist.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fc/qd/GetArticleInfo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fc/qd/AppletsSugdata.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fc/qd/AppletsInstitute.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fc/qd/AppletsRelatedarticle.java" />
+        <option value="$PROJECT_DIR$/testng3.xml" />
       </list>
     </option>
   </component>
@@ -266,8 +301,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="160" />
-    <option name="y" value="24" />
+    <option name="x" value="-62" />
+    <option name="y" value="64" />
     <option name="width" value="1575" />
     <option name="height" value="982" />
   </component>
@@ -277,7 +312,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -318,26 +352,20 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="fc" type="462c0819:PsiDirectoryNode" />
-              <item name="community" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="allureTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="allureTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="qd" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576635309277" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1577775167789" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -345,11 +373,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.fc.qd" />
       <recent name="com.fc.newHouse" />
       <recent name="com.fc.headNet" />
       <recent name="com.fc.loveHome" />
       <recent name="com.fc.community" />
-      <recent name="com.fc.Parameters" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\project\test\allureTest" />
@@ -371,53 +399,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.CollectionStatus.filterCon">
-    <configuration name="CollectionStatus.filterCon" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.D:/project/test/allureTest/testng3.xml">
+    <configuration name="AppletsInstitute" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="allureTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.fc.community.*" />
+          <option name="PATTERN" value="com.fc.qd.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.fc.community" />
-      <option name="MAIN_CLASS_NAME" value="com.fc.community.CollectionStatus" />
-      <option name="METHOD_NAME" value="filterCon" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Collection.filterCon" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="allureTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.fc.community.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.fc.community" />
-      <option name="MAIN_CLASS_NAME" value="com.fc.community.Collection" />
-      <option name="METHOD_NAME" value="filterCon" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NearHouse (1)" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="allureTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.fc.community.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.fc.community" />
-      <option name="MAIN_CLASS_NAME" value="com.fc.community.NearHouse" />
+      <option name="PACKAGE_NAME" value="com.fc.qd" />
+      <option name="MAIN_CLASS_NAME" value="com.fc.qd.AppletsInstitute" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -425,16 +417,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NearHouseRent" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="AppletsRelatedarticle (1)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="allureTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.fc.community.*" />
+          <option name="PATTERN" value="com.fc.qd.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.fc.community" />
-      <option name="MAIN_CLASS_NAME" value="com.fc.community.NearHouseRent" />
+      <option name="PACKAGE_NAME" value="com.fc.qd" />
+      <option name="MAIN_CLASS_NAME" value="com.fc.qd.AppletsRelatedarticle" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -442,18 +434,45 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NearHouseRent.filterCon" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="AppletsRelatedarticle" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="allureTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.fc.community.*" />
+          <option name="PATTERN" value="com.fc.qd.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.fc.community" />
-      <option name="MAIN_CLASS_NAME" value="com.fc.community.NearHouseRent" />
+      <option name="PACKAGE_NAME" value="com.fc.qd" />
+      <option name="MAIN_CLASS_NAME" value="com.fc.qd.AppletsRelatedarticle" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppletsSugdata.filterCon" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="allureTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fc.qd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.fc.qd" />
+      <option name="MAIN_CLASS_NAME" value="com.fc.qd.AppletsSugdata" />
       <option name="METHOD_NAME" value="filterCon" />
       <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D:/project/test/allureTest/testng3.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="allureTest" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng3.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
@@ -462,11 +481,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.CollectionStatus.filterCon" />
-        <item itemvalue="TestNG.Collection.filterCon" />
-        <item itemvalue="TestNG.NearHouseRent.filterCon" />
-        <item itemvalue="TestNG.NearHouse (1)" />
-        <item itemvalue="TestNG.NearHouseRent" />
+        <item itemvalue="TestNG.D:/project/test/allureTest/testng3.xml" />
+        <item itemvalue="TestNG.AppletsRelatedarticle (1)" />
+        <item itemvalue="TestNG.AppletsInstitute" />
+        <item itemvalue="TestNG.AppletsRelatedarticle" />
+        <item itemvalue="TestNG.AppletsSugdata.filterCon" />
       </list>
     </recent_temporary>
   </component>
@@ -485,44 +504,45 @@
       <workItem from="1574324598007" duration="49560000" />
       <workItem from="1575007316035" duration="25848000" />
       <workItem from="1575358993248" duration="14841000" />
-      <workItem from="1575686642295" duration="12901000" />
+      <workItem from="1575686642295" duration="21959000" />
+      <workItem from="1576749830501" duration="12497000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Collection_filterCon - 2019.12.18 at 09h 45m 45s.xml">
-      <configuration name="Collection.filterCon" configurationId="TestNG" />
+    <history-entry file="IndexNewslist - 2019.12.31 at 14h 41m 40s.xml">
+      <configuration name="IndexNewslist" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="CollectionStatus_filterCon - 2019.12.18 at 09h 46m 00s.xml">
-      <configuration name="CollectionStatus.filterCon" configurationId="TestNG" />
+    <history-entry file="GetArticleInfo - 2019.12.31 at 14h 41m 59s.xml">
+      <configuration name="GetArticleInfo" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Collection_filterCon - 2019.12.18 at 09h 46m 14s.xml">
-      <configuration name="Collection.filterCon" configurationId="TestNG" />
+    <history-entry file="AppletsSugdata_filterCon - 2019.12.31 at 14h 42m 25s.xml">
+      <configuration name="AppletsSugdata.filterCon" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Collection_filterCon - 2019.12.18 at 09h 47m 39s.xml">
-      <configuration name="Collection.filterCon" configurationId="TestNG" />
+    <history-entry file="AppletsRelatedarticle - 2019.12.31 at 14h 42m 37s.xml">
+      <configuration name="AppletsRelatedarticle" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="CollectionStatus_filterCon - 2019.12.18 at 09h 47m 51s.xml">
-      <configuration name="CollectionStatus.filterCon" configurationId="TestNG" />
+    <history-entry file="AppletsInstitute - 2019.12.31 at 14h 43m 02s.xml">
+      <configuration name="AppletsInstitute" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="NearHouse_(1) - 2019.12.18 at 09h 48m 25s.xml">
-      <configuration name="NearHouse (1)" configurationId="TestNG" />
+    <history-entry file="AppletsInstitute - 2019.12.31 at 14h 43m 16s.xml">
+      <configuration name="AppletsInstitute" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="NearHouseRent_filterCon - 2019.12.18 at 09h 48m 33s.xml">
-      <configuration name="NearHouseRent.filterCon" configurationId="TestNG" />
+    <history-entry file="D__project_test_allureTest_testng3_xml - 2019.12.31 at 14h 51m 26s.xml">
+      <configuration name="D:/project/test/allureTest/testng3.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Collection_filterCon - 2019.12.18 at 09h 52m 59s.xml">
-      <configuration name="Collection.filterCon" configurationId="TestNG" />
+    <history-entry file="D__project_test_allureTest_testng3_xml - 2019.12.31 at 14h 51m 51s.xml">
+      <configuration name="D:/project/test/allureTest/testng3.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Collection_filterCon - 2019.12.18 at 09h 53m 07s.xml">
-      <configuration name="Collection.filterCon" configurationId="TestNG" />
+    <history-entry file="AppletsRelatedarticle_(1) - 2019.12.31 at 14h 52m 00s.xml">
+      <configuration name="AppletsRelatedarticle (1)" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="CollectionStatus_filterCon - 2019.12.18 at 09h 53m 24s.xml">
-      <configuration name="CollectionStatus.filterCon" configurationId="TestNG" />
+    <history-entry file="D__project_test_allureTest_testng3_xml - 2019.12.31 at 14h 52m 11s.xml">
+      <configuration name="D:/project/test/allureTest/testng3.xml" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="143371000" />
+    <option name="totallyTimeSpent" value="164926000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -536,7 +556,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21908316" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22121535" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -554,14 +574,14 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3601896" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3409802" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.34056398" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Version Control" order="12" weight="0.329718" />
       <window_info anchor="bottom" id="Java Enterprise" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" weight="0.17217484" />
+      <window_info anchor="right" id="Maven" order="3" visible="true" weight="0.17217484" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="right" id="Database" order="6" />
@@ -992,63 +1012,52 @@
           <properties />
           <option name="timeStamp" value="110" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/fc/qd/AppletsSugdata.java</url>
+          <line>70</line>
+          <properties />
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/fc/qd/AppletsSugdata.java</url>
+          <line>84</line>
+          <properties />
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/fc/qd/AppletsRelatedarticle.java</url>
+          <line>68</line>
+          <properties />
+          <option name="timeStamp" value="121" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/fc/qd/GetArticleInfo.java</url>
+          <line>69</line>
+          <properties />
+          <option name="timeStamp" value="122" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/fc/qd/GetArticleInfo.java</url>
+          <line>71</line>
+          <properties />
+          <option name="timeStamp" value="123" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/fc/qd/IndexNewslist.java</url>
+          <line>63</line>
+          <properties />
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/fc/qd/IndexNewslist.java</url>
+          <line>50</line>
+          <properties />
+          <option name="timeStamp" value="127" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseFmActivity.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseFcSubscribeList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="62" column="53" selection-start-line="62" selection-start-column="53" selection-end-line="62" selection-end-column="53" />
-          <folding>
-            <element signature="e#4435#4450#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseNearList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="64" column="56" lean-forward="true" selection-start-line="64" selection-start-column="56" selection-end-line="64" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseTrendDetail.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-638">
-          <caret line="30" column="14" lean-forward="true" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/community/FilterCondition.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-418">
-          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/loveHome/LoginQuick.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="764">
-          <caret line="84" selection-start-line="84" selection-end-line="84" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseMetionSearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-770">
-          <caret line="32" column="14" lean-forward="true" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseRoomtypeDetail.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="70" column="30" lean-forward="true" selection-start-line="70" selection-start-column="30" selection-end-line="70" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseDetailByDictIds.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
@@ -1071,48 +1080,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/allure-results/288ba8ab-4ce0-4afb-a347-9315b69e63f8-result.json" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/headNet/CheckSurvey.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="53" column="85" selection-start-line="53" selection-start-column="85" selection-end-line="53" selection-end-column="85" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/headNet/FilterList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
-          <caret line="55" column="84" selection-start-line="55" selection-start-column="84" selection-end-line="55" selection-end-column="84" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/headNet/GetDictById.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
-          <caret line="56" column="85" selection-start-line="56" selection-start-column="85" selection-end-line="56" selection-end-column="85" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/headNet/GetSurvey.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
-          <caret line="52" column="83" selection-start-line="52" selection-start-column="83" selection-end-line="52" selection-end-column="83" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/headNet/NetGetSiteList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
-          <caret line="55" column="88" selection-start-line="55" selection-start-column="88" selection-end-line="55" selection-end-column="88" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/headNet/UcmsFilterList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="45" column="26" lean-forward="true" selection-start-line="45" selection-start-column="26" selection-end-line="45" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/newHouse/HousePriceTrend.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
@@ -1121,41 +1088,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/hs_err_pid14264.log" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/headNet/GetDictListByName.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="93" column="46" selection-start-line="93" selection-start-column="46" selection-end-line="93" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.8/testng-6.8.jar!/org/testng/internal/MethodInvocationHelper.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="71" selection-start-line="71" selection-end-line="71" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.8/testng-6.8.jar!/org/testng/internal/Invoker.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="101" selection-start-line="101" selection-end-line="101" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.8/testng-6.8.jar!/org/testng/internal/TestMethodWorker.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="88" selection-start-line="88" selection-end-line="88" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseActive.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-836">
-          <caret line="30" column="2" selection-start-line="30" selection-start-column="2" selection-end-line="30" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseCorrection.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-550">
@@ -1191,13 +1123,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/headNet/GetRecommend.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1672">
-          <caret line="103" column="59" selection-start-line="103" selection-start-column="40" selection-end-line="103" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseRecommend.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
@@ -1215,59 +1140,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/community/Metion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="75" column="15" selection-start-line="75" selection-start-column="15" selection-end-line="75" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/headNet/RoomCard.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1205">
-          <caret line="93" column="59" selection-start-line="93" selection-start-column="59" selection-end-line="93" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/headNet/Exists.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="83" column="60" selection-start-line="83" selection-start-column="60" selection-end-line="83" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testng2.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="42" column="38" lean-forward="true" selection-start-line="42" selection-start-column="38" selection-end-line="42" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/headNet/Getinfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="76" column="70" selection-start-line="76" selection-start-column="70" selection-end-line="76" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testng1.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/community/AllSiteData.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
           <caret line="50" column="17" selection-start-line="50" selection-start-column="17" selection-end-line="50" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="454">
-          <caret line="35" column="18" lean-forward="true" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -1278,13 +1154,156 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/headNet/Active.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/community/Collection.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-791">
-          <caret line="40" column="26" selection-start-line="40" selection-start-column="26" selection-end-line="40" selection-end-column="26" />
+        <state relative-caret-position="86">
+          <caret line="78" column="86" selection-start-line="78" selection-start-column="86" selection-end-line="78" selection-end-column="86" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/community/CollectionStatus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="847">
+          <caret line="97" column="49" lean-forward="true" selection-start-line="97" selection-start-column="49" selection-end-line="97" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/headNet/CheckSurvey.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="59" column="70" selection-start-line="59" selection-start-column="52" selection-end-line="59" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/headNet/Exists.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="75" column="46" lean-forward="true" selection-start-line="75" selection-start-column="46" selection-end-line="75" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/headNet/GetDictById.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="74" column="31" selection-start-line="74" selection-start-column="26" selection-end-line="74" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/headNet/GetDictListByName.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="72" column="32" selection-start-line="72" selection-start-column="28" selection-end-line="72" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/headNet/Getinfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="55" column="72" selection-start-line="55" selection-start-column="52" selection-end-line="55" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/headNet/GetRecommend.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="73" column="31" selection-start-line="73" selection-start-column="26" selection-end-line="73" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/headNet/GetSurvey.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="58" column="70" selection-start-line="58" selection-start-column="52" selection-end-line="58" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/headNet/NetGetSiteList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="61" column="61" lean-forward="true" selection-start-line="61" selection-start-column="52" selection-end-line="61" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/headNet/UcmsFilterList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="66" column="38" lean-forward="true" selection-start-line="66" selection-start-column="38" selection-end-line="66" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testng1.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-660">
+          <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/community/CommunityList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="90" column="44" selection-start-line="90" selection-start-column="44" selection-end-line="90" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseMapArea.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1716">
+          <caret line="104" column="44" selection-start-line="104" selection-start-column="44" selection-end-line="104" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1760">
+          <caret line="80" column="9" selection-start-line="80" selection-start-column="9" selection-end-line="80" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/community/HotHouses.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/community/NearHouseRent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="968">
+          <caret line="67" column="39" selection-start-line="67" selection-start-column="39" selection-end-line="67" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/community/Metion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1716">
+          <caret line="100" column="21" selection-start-line="100" selection-start-column="21" selection-end-line="100" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/community/NearHouse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="30" column="31" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseTrendList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/headNet/RoomCard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="770">
+          <caret line="58" column="59" selection-start-line="58" selection-start-column="52" selection-end-line="58" selection-end-column="59" />
         </state>
       </provider>
     </entry>
@@ -1298,58 +1317,107 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/community/CommunityList.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseActive.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="102" column="43" selection-start-line="102" selection-start-column="43" selection-end-line="102" selection-end-column="43" />
+        <state relative-caret-position="22">
+          <caret line="30" column="2" selection-start-line="30" selection-start-column="2" selection-end-line="30" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/community/HotHouses.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.8/testng-6.8.jar!/org/testng/internal/TestMethodWorker.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="88" column="67" selection-start-line="88" selection-start-column="67" selection-end-line="88" selection-end-column="67" />
+        <state relative-caret-position="148">
+          <caret line="95" selection-start-line="95" selection-end-line="95" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testng.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/headNet/Active.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="83" column="44" selection-start-line="83" selection-start-column="44" selection-end-line="83" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/community/NearHouse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="33" column="47" lean-forward="true" selection-start-line="33" selection-start-column="47" selection-end-line="33" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/community/NearHouseRent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="106" column="55" lean-forward="true" selection-start-line="106" selection-start-column="55" selection-end-line="106" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/community/CollectionStatus.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-143">
-          <caret line="70" column="12" lean-forward="true" selection-start-line="70" selection-start-column="12" selection-end-line="70" selection-end-column="12" />
+        <state relative-caret-position="534">
+          <caret line="108" lean-forward="true" selection-start-line="108" selection-end-line="108" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/community/Collection.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/headNet/FilterList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-310">
-          <caret line="57" column="114" selection-start-line="57" selection-start-column="107" selection-end-line="57" selection-end-column="114" />
+        <state relative-caret-position="-258">
+          <caret line="74" column="29" selection-start-line="74" selection-start-column="22" selection-end-line="74" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.8/testng-6.8.jar!/org/testng/internal/MethodInvocationHelper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="71" selection-start-line="71" selection-end-line="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.8/testng-6.8.jar!/org/testng/internal/Invoker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="385" selection-start-line="385" selection-end-line="385" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/qd/AppletsInstitute.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/qd/AppletsSugdata.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="28" column="2" selection-start-line="28" selection-start-column="2" selection-end-line="28" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/qd/GetArticleInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="26" column="27" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/qd/IndexNewslist.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="28" column="26" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="26" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#1283#1299#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="449">
+          <caret line="159" column="45" selection-start-line="159" selection-start-column="45" selection-end-line="159" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/qd/AppletsRelatedarticle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="47" column="46" selection-start-line="47" selection-start-column="46" selection-end-line="47" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testng2.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="42" column="38" selection-start-line="42" selection-start-column="38" selection-end-line="42" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testng3.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
         </state>
       </provider>
     </entry>
