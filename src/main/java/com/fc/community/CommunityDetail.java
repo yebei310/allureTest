@@ -86,6 +86,7 @@ public class CommunityDetail extends TestBase {
                     String communityAreaName = jsonObjectLoupan.getString("areaName");
 
                     String expectByName="马驹桥";
+                    System.out.println(System.currentTimeMillis()+"小区明细--------------------------------------------------------");
                     if (communityAreaName.contains(expectByName)){
                         System.out.println("小区位于"+expectByName);
                         Reporter.log("小区位于"+expectByName);
