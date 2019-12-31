@@ -1,7 +1,80 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5ec67fc8-747f-4548-835a-9b107edf08ea" name="Default Changelist" comment="tijiao" />
+    <list default="true" id="5ec67fc8-747f-4548-835a-9b107edf08ea" name="Default Changelist" comment="tijiao">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fc/qd/IndexNewslist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fc/qd/IndexNewslist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/Parameters/postParameters.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/base/TestBase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/base/TestBases.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/community/AllSiteData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/community/Collection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/community/CollectionStatus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/community/CommunityDetail.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/community/CommunityList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/community/FilterCondition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/community/GetSeneschal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/community/HotHouseRents.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/community/HotHouses.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/community/HotWord.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/community/ListsByLpIds.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/community/Metion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/community/NearHouse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/community/NearHouseRent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/community/Send.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/headNet/Active.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/headNet/CheckSurvey.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/headNet/Exists.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/headNet/FilterList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/headNet/GetDictById.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/headNet/GetDictListByName.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/headNet/GetRecommend.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/headNet/GetSurvey.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/headNet/Getinfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/headNet/NetGetSiteList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/headNet/RoomCard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/headNet/UcmsFilterList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/loveHome/LoginQuick.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/GetSiteList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HouseActive.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HouseCorrection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HouseDetail.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HouseDetailByDictIds.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HouseEnPerfixList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HouseFcSubscribeList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HouseFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HouseHeader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HouseImg.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HouseIndex.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HouseList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HouseMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HouseMapArea.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HouseMapLocation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HouseMetionSearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HouseNearList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HouseNewTrend.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HouseOpenTime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HousePriceTrend.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HouseRate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HouseRecommend.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HouseRegionHotList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HouseRoomBenefit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HouseRoomtypeDetail.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HouseRoomtypeList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HouseSiteHotList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HouseSiteNewList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HouseSites.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HouseSubscribeList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HouseTrendDetail.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/newHouse/HouseTrendList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/qd/AppletsInstitute.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/qd/AppletsRelatedarticle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/qd/AppletsSugdata.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/qd/GetArticleInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/qd/IndexNewslist.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/restclient/RestClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/util/TestUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fc/util/TestUtils.class" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,11 +102,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/community/CommunityDetail.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="374">
-              <caret line="88" column="127" lean-forward="true" selection-start-line="88" selection-start-column="67" selection-end-line="88" selection-end-column="127" />
+              <caret line="88" column="20" selection-start-line="88" selection-start-column="20" selection-end-line="88" selection-end-column="130" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/qd/IndexNewslist.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="58" column="120" selection-start-line="58" selection-start-column="120" selection-end-line="58" selection-end-column="120" />
             </state>
           </provider>
         </entry>
@@ -142,7 +224,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/fc/community/Collection.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/fc/community/CollectionStatus.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/fc/community/NearHouseRent.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/fc/qd/IndexNewslist.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/fc/qd/GetArticleInfo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/fc/qd/AppletsSugdata.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/fc/qd/AppletsInstitute.java" />
@@ -150,6 +231,7 @@
         <option value="$PROJECT_DIR$/testng3.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/fc/community/CommunityDetail.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fc/qd/IndexNewslist.java" />
       </list>
     </option>
   </component>
@@ -260,7 +342,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1577778262970" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1577778365808" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -393,7 +475,7 @@
       <workItem from="1575007316035" duration="25848000" />
       <workItem from="1575358993248" duration="14841000" />
       <workItem from="1575686642295" duration="21959000" />
-      <workItem from="1576749830501" duration="14918000" />
+      <workItem from="1576749830501" duration="15288000" />
     </task>
     <servers />
   </component>
@@ -430,7 +512,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="167347000" />
+    <option name="totallyTimeSpent" value="167717000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -445,7 +527,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22121535" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22121535" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -455,7 +537,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.37635574" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.37635574" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.48481563" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -933,7 +1015,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/fc/qd/IndexNewslist.java</url>
-          <line>63</line>
+          <line>64</line>
           <properties />
           <option name="timeStamp" value="124" />
         </line-breakpoint>
@@ -1213,16 +1295,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/qd/IndexNewslist.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="28" column="26" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="26" />
-          <folding>
-            <element signature="e#1283#1299#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/qd/AppletsRelatedarticle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="572">
@@ -1306,7 +1378,14 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/community/CommunityDetail.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
-          <caret line="88" column="127" lean-forward="true" selection-start-line="88" selection-start-column="67" selection-end-line="88" selection-end-column="127" />
+          <caret line="88" column="20" selection-start-line="88" selection-start-column="20" selection-end-line="88" selection-end-column="130" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/qd/IndexNewslist.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="58" column="120" selection-start-line="58" selection-start-column="120" selection-end-line="58" selection-end-column="120" />
         </state>
       </provider>
     </entry>

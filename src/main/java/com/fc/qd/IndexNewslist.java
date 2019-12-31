@@ -56,7 +56,7 @@ public class IndexNewslist extends TestBase {
         int statusCode = TestUtil.getStatusCode(res);
         Assert.assertEquals(statusCode,200);
         Reporter.log("状态码："+statusCode);
-        System.out.println(System.currentTimeMillis()+"信息流展示--------------------------------------------------------");
+        System.out.println(System.currentTimeMillis()+"信息流展示------------------------------------------------------------");
         try{
             if (res.getStatusLine().getStatusCode() == HttpStatus.SC_OK){
                String result =  EntityUtils.toString(res.getEntity());
