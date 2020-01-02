@@ -103,7 +103,7 @@ public class GetRecommend extends TestBase {
                     }
                     System.out.println("==================="+list);
 
-                    String name="泰禾·金府大院";
+                    String name="北京金茂府";
                     if (list.contains(name)){
                         System.out.println("总网:好房推荐："+name);
                         Assert.assertTrue(true);

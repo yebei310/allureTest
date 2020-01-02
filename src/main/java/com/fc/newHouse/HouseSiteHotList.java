@@ -98,10 +98,10 @@ public class HouseSiteHotList extends TestBase {
                        String name= jsonArray.getJSONObject(0).getString("dictName");
                        String locationName= jsonArray.getJSONObject(0).getString("locationName");
                        String areaName= jsonArray.getJSONObject(0).getString("areaName");
-                       list.add(name);
-                    String expectArea="诺德逸府";
+                       list.add(areaName);
+                    String expectArea="武夷花园";
                     if (list.contains(expectArea)){
-                        System.out.println("当前站点"+locationName+areaName+"热门楼盘是："+expectArea);
+                        System.out.println("当前站点"+locationName+areaName+"包含热门楼盘是："+expectArea);
                         Assert.assertTrue(true);
 
                     }else {

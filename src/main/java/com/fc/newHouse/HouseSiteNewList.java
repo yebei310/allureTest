@@ -99,7 +99,7 @@ public class HouseSiteNewList extends TestBase {
                        list.add(name);
                     }
                     System.out.println("==============="+list);
-                    String expectArea="金隅学府";
+                    String expectArea="水映兰庭";
                     if (list.contains(expectArea)){
                         System.out.println("该站点包含新盘："+expectArea);
                         Assert.assertTrue(true);

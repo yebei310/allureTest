@@ -100,7 +100,7 @@ public class HouseRecommend extends TestBase {
                         list.add(name);
                     }
                     System.out.println("666666666666666"+list);
-                    String expectName="永定河孔雀城英国宫";
+                    String expectName="多乐美地小镇";
                     if (list.contains(expectName)){
                         System.out.println("为您推荐包含楼盘 ："+expectName);
                         Assert.assertTrue(true);
