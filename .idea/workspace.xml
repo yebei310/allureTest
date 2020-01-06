@@ -3,11 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5ec67fc8-747f-4548-835a-9b107edf08ea" name="Default Changelist" comment="tijiao">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fc/community/Collection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fc/community/Collection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fc/community/CollectionStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fc/community/CollectionStatus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fc/headNet/GetRecommend.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fc/headNet/GetRecommend.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseSiteHotList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseSiteHotList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseSiteNewList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseSiteNewList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -37,28 +33,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/community/HotWord.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-550">
-              <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/community/Metion.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1096">
-              <caret line="100" column="21" selection-start-line="100" selection-start-column="21" selection-end-line="100" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/community/NearHouseRent.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="62">
-              <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
+            <state relative-caret-position="792">
+              <caret line="59" selection-start-line="59" selection-end-line="59" />
             </state>
           </provider>
         </entry>
@@ -66,7 +44,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/headNet/GetRecommend.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="274">
+            <state relative-caret-position="1716">
               <caret line="105" column="38" selection-start-line="105" selection-start-column="38" selection-end-line="105" selection-end-column="38" />
             </state>
           </provider>
@@ -75,17 +53,38 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseSiteNewList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
+            <state relative-caret-position="1650">
               <caret line="101" column="43" selection-start-line="101" selection-start-column="43" selection-end-line="101" selection-end-column="43" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseSiteHotList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
+            <state relative-caret-position="1694">
               <caret line="103" column="75" selection-start-line="103" selection-start-column="75" selection-end-line="103" selection-end-column="75" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseRecommend.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="101" column="63" selection-start-line="101" selection-start-column="63" selection-end-line="101" selection-end-column="63" />
+              <folding>
+                <element signature="e#5604#5612#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/testng.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -93,7 +92,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.8/testng-6.8.jar!/org/testng/internal/Invoker.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="148">
+            <state relative-caret-position="9196">
               <caret line="465" selection-start-line="465" selection-end-line="465" />
             </state>
           </provider>
@@ -102,7 +101,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/community/Send.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-484">
+            <state relative-caret-position="110">
               <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
             </state>
           </provider>
@@ -111,7 +110,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/community/ListsByLpIds.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-638">
+            <state relative-caret-position="110">
               <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
             </state>
           </provider>
@@ -120,7 +119,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/community/NearHouse.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-440">
+            <state relative-caret-position="154">
               <caret line="30" column="31" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="31" />
             </state>
           </provider>
@@ -206,8 +205,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/fc/headNet/RoomCard.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseEnPerfixList.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseMap.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseRecommend.java" />
-        <option value="$PROJECT_DIR$/testng.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseImg.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/fc/community/AllSiteData.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/fc/headNet/Exists.java" />
@@ -229,6 +226,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/fc/headNet/GetRecommend.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseSiteNewList.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseSiteHotList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseRecommend.java" />
+        <option value="$PROJECT_DIR$/testng.xml" />
       </list>
     </option>
   </component>
@@ -261,10 +260,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-62" />
-    <option name="y" value="64" />
-    <option name="width" value="1575" />
-    <option name="height" value="982" />
+    <option name="x" value="993" />
+    <option name="y" value="70" />
+    <option name="width" value="1290" />
+    <option name="height" value="844" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -333,14 +332,14 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1577948181723" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1578276705576" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -374,19 +373,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.HouseRecommend.filterCon">
-    <configuration name="CollectionStatus.filterCon" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.D:/project/test/allureTest/testng.xml">
+    <configuration name="D:/project/test/allureTest/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="allureTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.fc.community.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.fc.community" />
-      <option name="MAIN_CLASS_NAME" value="com.fc.community.CollectionStatus" />
-      <option name="METHOD_NAME" value="filterCon" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
@@ -467,11 +458,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.D:/project/test/allureTest/testng.xml" />
         <item itemvalue="TestNG.HouseRecommend.filterCon" />
         <item itemvalue="TestNG.HouseSiteHotList.filterCon" />
         <item itemvalue="TestNG.HouseSiteNewList.filterCon" />
         <item itemvalue="TestNG.GetRecommend.filterCon" />
-        <item itemvalue="TestNG.CollectionStatus.filterCon" />
       </list>
     </recent_temporary>
   </component>
@@ -491,32 +482,13 @@
       <workItem from="1575007316035" duration="25848000" />
       <workItem from="1575358993248" duration="14841000" />
       <workItem from="1575686642295" duration="21959000" />
-      <workItem from="1576749830501" duration="21950000" />
+      <workItem from="1576749830501" duration="23181000" />
+      <workItem from="1578275172074" duration="3000" />
+      <workItem from="1578276194666" duration="579000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CollectionStatus_filterCon - 2020.01.02 at 11h 43m 38s.xml">
-      <configuration name="CollectionStatus.filterCon" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="CollectionStatus_filterCon - 2020.01.02 at 11h 43m 50s.xml">
-      <configuration name="CollectionStatus.filterCon" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="GetRecommend_filterCon - 2020.01.02 at 14h 52m 09s.xml">
-      <configuration name="GetRecommend.filterCon" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="GetRecommend_filterCon - 2020.01.02 at 14h 52m 37s.xml">
-      <configuration name="GetRecommend.filterCon" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="HouseSiteNewList_filterCon - 2020.01.02 at 14h 53m 27s.xml">
-      <configuration name="HouseSiteNewList.filterCon" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="HouseSiteNewList_filterCon - 2020.01.02 at 14h 53m 45s.xml">
-      <configuration name="HouseSiteNewList.filterCon" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="HouseSiteHotList_filterCon - 2020.01.02 at 14h 53m 57s.xml">
-      <configuration name="HouseSiteHotList.filterCon" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="HouseSiteHotList_filterCon - 2020.01.02 at 14h 54m 20s.xml">
       <configuration name="HouseSiteHotList.filterCon" configurationId="TestNG" />
     </history-entry>
@@ -526,9 +498,30 @@
     <history-entry file="HouseSiteHotList_filterCon - 2020.01.02 at 14h 55m 49s.xml">
       <configuration name="HouseSiteHotList.filterCon" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="HouseSiteHotList_filterCon - 2020.01.02 at 14h 56m 05s.xml">
+      <configuration name="HouseSiteHotList.filterCon" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="HouseRecommend_filterCon - 2020.01.02 at 14h 56m 14s.xml">
+      <configuration name="HouseRecommend.filterCon" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="HouseRecommend_filterCon - 2020.01.02 at 14h 56m 27s.xml">
+      <configuration name="HouseRecommend.filterCon" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="HouseRecommend_filterCon - 2020.01.03 at 11h 00m 32s.xml">
+      <configuration name="HouseRecommend.filterCon" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="D__project_test_allureTest_testng_xml - 2020.01.06 at 09h 26m 12s.xml">
+      <configuration name="D:/project/test/allureTest/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="D__project_test_allureTest_testng_xml - 2020.01.06 at 10h 03m 52s.xml">
+      <configuration name="D:/project/test/allureTest/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="D__project_test_allureTest_testng_xml - 2020.01.06 at 10h 11m 52s.xml">
+      <configuration name="D:/project/test/allureTest/testng.xml" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="174379000" />
+    <option name="totallyTimeSpent" value="176192000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -543,7 +536,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22121535" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22547974" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -1057,16 +1050,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseRecommend.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="102" selection-start-line="102" selection-end-line="102" />
-          <folding>
-            <element signature="e#5604#5612#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseImg.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1562">
@@ -1283,13 +1266,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testng.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/community/AllSiteData.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
@@ -1366,66 +1342,83 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/community/ListsByLpIds.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-638">
-          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/community/Metion.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1096">
+        <state relative-caret-position="1716">
           <caret line="100" column="21" selection-start-line="100" selection-start-column="21" selection-end-line="100" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/community/NearHouse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-440">
-          <caret line="30" column="31" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/community/Send.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-484">
-          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/community/NearHouseRent.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="62">
-          <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
+        <state relative-caret-position="792">
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/headNet/GetRecommend.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
+        <state relative-caret-position="1716">
           <caret line="105" column="38" selection-start-line="105" selection-start-column="38" selection-end-line="105" selection-end-column="38" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseSiteNewList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
+        <state relative-caret-position="1650">
           <caret line="101" column="43" selection-start-line="101" selection-start-column="43" selection-end-line="101" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.8/testng-6.8.jar!/org/testng/internal/Invoker.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="465" selection-start-line="465" selection-end-line="465" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseSiteHotList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
+        <state relative-caret-position="1694">
           <caret line="103" column="75" selection-start-line="103" selection-start-column="75" selection-end-line="103" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.8/testng-6.8.jar!/org/testng/internal/Invoker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9196">
+          <caret line="465" selection-start-line="465" selection-end-line="465" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/community/Send.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/community/ListsByLpIds.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/community/NearHouse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="30" column="31" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fc/newHouse/HouseRecommend.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="101" column="63" selection-start-line="101" selection-start-column="63" selection-end-line="101" selection-end-column="63" />
+          <folding>
+            <element signature="e#5604#5612#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
         </state>
       </provider>
     </entry>

@@ -7,7 +7,7 @@
       </class>
     </classes>
   </test>
-  <test name="收藏">
+<!--  <test name="收藏">
     <classes>
       <class name="com.fc.community.Collection">
       </class>
@@ -18,7 +18,7 @@
       <class name="com.fc.community.CollectionStatus">
       </class>
     </classes>
-  </test>
+  </test>-->
   <test name="小区明细">
     <classes>
       <class name="com.fc.community.CommunityDetail">
